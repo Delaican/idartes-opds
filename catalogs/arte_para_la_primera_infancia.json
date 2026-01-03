@@ -1,0 +1,701 @@
+{
+  "metadata": {
+    "title": "Arte para la primera infancia",
+    "numberOfItems": 24
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://localhost:8000/catalogs/arte_para_la_primera_infancia.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:33:59Z",
+        "title": "Nidos - Catálogo de materias y materiales: Capítulo textiles",
+        "description": "El Catálogo de materias y materiales es una serie de cuatro volúmenes que hace una invitación juguetona a reconocer diversas materias y materiales que podemos utilizar de forma cotidiana en la exploración de los lenguajes artísticos con la primera infancia. Esta publicación busca animar a las familias, cuidadores y, en general, a todos los agentes sociales, culturales y educativos comprometidos en el cuidado de la primera infancia, a interactuar con la creación artística. A manera de brújula, este catálogo nos guía, algunas veces, para reconocer las materias y los materiales que tenemos cerca y, en otros casos, nos convoca a tomar el riesgo de emprender nuevas búsquedas y exploraciones para que, de esta manera, nos atrevamos a ser artistas junto a nuestros niños y niñas más pequeños. Este capítulo hará un recorrido por las posibilidades estéticas, de exploración, creación y juego del universo de los textiles, un material cotidiano y a su vez con múltiples virtudes para la construcción de dispositivos, ambientaciones, vestuarios, títeres, entre otros elementos que propician la creación de universos completos para la primera infancia.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2023",
+        "imprint": "Nidos",
+        "subject": "Arte para la primera infancia",
+        "identifier": "urn:ISBN:978-628-7686-16-8",
+        "numberOfPages": 123,
+        "illustrator": [
+          "Andrómeda Robin Catalina Contreras Rodríguez"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/CATALOGO%20DE%20MATERIAS%20Y%20MATERIALES%20TEXTILES_compressed.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/CATALOGO%20DE%20MATERIAS%20Y%20MATERIALES%20TEXTILES_compressed_page-0001%20Large.jpeg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:33:59Z",
+        "title": "Nidos - Catálogo de materias y materiales: Capítulo polímeros",
+        "description": "El Catálogo de materias y materiales es una serie de cuatro volúmenes que hace una invitación juguetona a reconocer diversas materias y materiales que podemos utilizar de forma cotidiana en la exploración de los lenguajes artísticos con la primera infancia. Esta publicación busca animar a las familias, cuidadores y, en general, a todos los agentes sociales, culturales y educativos comprometidos en el cuidado de la primera infancia, a interactuar con la creación artística. A manera de brújula, este catálogo nos guía, algunas veces, para reconocer las materias y los materiales que tenemos cerca y, en otros casos, nos convoca a tomar el riesgo de emprender nuevas búsquedas y exploraciones para que, de esta manera, nos atrevamos a ser artistas junto a nuestros niños y niñas más pequeños. Este capítulo hará un recorrido por las posibilidades estéticas, de exploración, creación y juego del universo de los polímeros, mediante propuestas que buscan promover su reutilización desde los lenguajes artísticos, generar su aprovechamiento e intentar reducir su producción.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2023",
+        "imprint": "Nidos",
+        "subject": "Arte para la primera infancia",
+        "identifier": "urn:ISBN:978-628-7686-16-8",
+        "numberOfPages": 107,
+        "illustrator": [
+          "Andrómeda Robin Catalina Contreras Rodríguez"
+        ],
+        "belongsTo": {
+          "collection": "Catálogo de materias y materiales"
+        },
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/CATALOGO%20DE%20MATERIAS%20Y%20MATERIALES%20POLIMEROS_compressed.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/CATALOGO%20DE%20MATERIAS%20Y%20MATERIALES%20POLIMEROS_compressed_page-0001%20Large.jpeg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:00Z",
+        "title": "Nidos - Catálogo de materias y materiales: Capítulo materias naturales",
+        "description": "El Catálogo de materias y materiales es una serie de cuatro volúmenes que hace una invitación juguetona a reconocer diversas materias y materiales que podemos utilizar de forma cotidiana en la exploración de los lenguajes artísticos con la primera infancia. Esta publicación busca animar a las familias, cuidadores y, en general, a todos los agentes sociales, culturales y educativos comprometidos en el cuidado de la primera infancia, a interactuar con la creación artística. A manera de brújula, este catálogo nos guía, algunas veces, para reconocer las materias y los materiales que tenemos cerca y, en otros casos, nos convoca a tomar el riesgo de emprender nuevas búsquedas y exploraciones para que, de esta manera, nos atrevamos a ser artistas junto a nuestros niños y niñas más pequeños. Este capítulo hará un recorrido por las posibilidades estéticas, de exploración, creación y juego del universo de las materias naturales, las cuales dependiendo de su origen y el estado en el que se encuentren, comparten propiedades, como la dureza, flexibilidad, maleabilidad o transparencia, y a través de su uso nos permiten establecer puentes valiosos entre los lenguajes artísticos, la naturaleza y los territorios.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2023",
+        "imprint": "Nidos",
+        "subject": "Arte para la primera infancia",
+        "identifier": "urn:ISBN:978-628-7686-16-8",
+        "numberOfPages": 111,
+        "illustrator": [
+          "Andrómeda Robin Catalina Contreras Rodríguez"
+        ],
+        "belongsTo": {
+          "collection": "Catálogo de materias y materiales"
+        },
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/CATALOGO%20DE%20MATERIAS%20Y%20MATERIALES%20NATURALES_2023.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/CATALOGO%20DE%20MATERIAS%20Y%20MATERIALES%20NATURALES_2023_page-0001%20Large.jpeg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:01Z",
+        "title": "Nidos - Catálogo de materias y materiales: Capítulo papeles y cartones",
+        "description": "El Catálogo de materias y materiales es una serie de cuatro volúmenes que hace una invitación juguetona a reconocer diversas materias y materiales que podemos utilizar de forma cotidiana en la exploración de los lenguajes artísticos con la primera infancia. Esta publicación busca animar a las familias, cuidadores y, en general, a todos los agentes sociales, culturales y educativos comprometidos en el cuidado de la primera infancia, a interactuar con la creación artística. A manera de brújula, este catálogo nos guía, algunas veces, para reconocer las materias y los materiales que tenemos cerca y, en otros casos, nos convoca a tomar el riesgo de emprender nuevas búsquedas y exploraciones para que, de esta manera, nos atrevamos a ser artistas junto a nuestros niños y niñas más pequeños. Este capítulo hará un recorrido por las posibilidades estéticas, de exploración, creación y juego del papel y el cartón, materiales que a lo largo del tiempo se han utilizado como soporte para alojar palabras, calcos, trazos, dibujos, ecuaciones, representaciones, esquemas y muchas cosas más y que están presentes en nuestra vida desde que trazamos nuestros primeros garabatos.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2023",
+        "imprint": "Nidos",
+        "subject": "Arte para la primera infancia",
+        "identifier": "urn:ISBN:978-628-7686-16-8",
+        "numberOfPages": 101,
+        "illustrator": [
+          "Andrómeda Robin ",
+          " Catalina Contreras Rodríguez"
+        ],
+        "belongsTo": {
+          "collection": "Catálogo de materias y materiales"
+        },
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/CATALOGO%20DE%20MATERIAS%20Y%20MATERIALES%20PAPELES%20Y%20CARTONES_0.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/CATALOGO%20DE%20MATERIAS%20Y%20MATERIALES%20PAPELES%20Y%20CARTONES_page-0001%20Large.jpeg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:33Z",
+        "title": "Personajario",
+        "description": "Este bello libro contribuye al reconocimiento de los universos propios de la primera infancia, atesorando la memoria y el saber creativo construido a partir de las interacciones con los niños y las niñas, a la vez que ofrece herramientas para que las familias y cuidadores expandan las posibilidades de relacionamiento, juego y creatividad en el vínculo que los une con los niños y las niñas de la primera infancia.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2021",
+        "imprint": "Nidos",
+        "subject": "Arte para la primera infancia",
+        "identifier": "urn:ISBN:978-958-5595-72-9",
+        "numberOfPages": 156,
+        "illustrator": [
+          "Mónica Loaiza",
+          "Daniel Camilo Vargas Barrios"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Personajario-Formadores-infantil.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Personajario%20Lado%20Formadores%20Digital.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:14Z",
+        "title": "Memoria de la práctica artística en Nidos: Creaciones para bebés",
+        "description": "El Programa Nidos - Arte en primera infancia, del Instituto Distrital de las Artes - Idartes, ha desarrollado Experiencias Artísticas para niños y niñas de 0 a 6 años desde 2012. Su objetivo principal ha sido garantizar los derechos artísticos y culturales de las niñas y niños de primera infancia desde la gestación a través de una metodología conocida como Experiencia Artística (EA). Una EA es una oportunidad única para jugar, un viaje de exploraciones sensoriales, un encuentro con las artes audiovisuales, las artes plásticas y visuales, la danza, la literatura, la música y el teatro. De tal forma, la EA es un organismo vivo donde se mezclan transversalmente todas estas disciplinas artísticas. Estas atenciones se ofrecen en todas las localidades de Bogotá mediante encuentros familiares, atención en jardines y colegios, laboratorios artísticos de creación y eventos de circulación donde asisten niños y niñas en compañía de madres, padres, adultos cuidadores y maestras para compartir y disfrutar a través de las artes.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2020",
+        "imprint": "Nidos",
+        "subject": "Arte para la primera infancia",
+        "numberOfPages": 30,
+        "illustrator": [
+          "Andrómeda Robin Catalina Contreras"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/memorias_creaciones_para_bebes.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Copia%20de%20PORTADA-MEMORIAS-BEBES-V2.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:19Z",
+        "title": "Proyecto copetón",
+        "description": "Este interactivo es una aventura llena de color, sonido y movimiento para niños, niñas y familias. Bienvenidos a la diversión.",
+        "published": "2020",
+        "imprint": "Nidos",
+        "subject": "Arte para la primera infancia",
+        "belongsTo": {
+          "collection": "Qué quisieras ser"
+        },
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/17-09-2020-Cover-proyecto-copeton-ajuste-logos.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:20Z",
+        "title": "Amigos de ventana",
+        "description": "Este libro digital muestra a Tamarinda y Juan, dos personajes que se han hecho amigos de una forma muy inusual después de una larga espera. Ellos invitarán a los niños, niñas y familias a cantar.",
+        "publisher": "Idartes",
+        "published": "2020",
+        "imprint": "Nidos",
+        "subject": "Arte para la primera infancia",
+        "numberOfPages": 22,
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/17-09-2020-Cover-amigos-de-ventana-ajuste-logos-min.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:22Z",
+        "title": "Me contaban los abuelos",
+        "description": "Este libro interactivo le permitirá a toda la familia conocer las historias del Mohán, la Madre de Agua, del Tunjo de Oro y Bachué.",
+        "published": "2020",
+        "imprint": "Nidos",
+        "subject": "Arte para la primera infancia",
+        "belongsTo": {
+          "collection": "Qué quisieras ser"
+        },
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/30-07-2020-Cover-me-contaban-los-abuelos.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:23Z",
+        "title": "Na wamvi",
+        "description": "En este libro digital, los animales y las plantas del páramo se conectan con el universo para darle la bienvenida a un nuevo ser.",
+        "publisher": "Idartes",
+        "published": "2020",
+        "imprint": "Nidos",
+        "subject": "Arte para la primera infancia",
+        "numberOfPages": 24,
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/na_wamvi.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/30-07-2020-Cover-Na-wamvi-.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:26Z",
+        "title": "El escuadrón de los objetos perdidos",
+        "description": "Este cuento, incluye un audio basado en las dinámicas de la radionovela y la narración sonora, cuenta las aventuras del \"Escuadrón de objetos perdidos\", un grupo de superhéroes que luchan en contra de seres interplanetarios que al parecer están detrás de la desaparición de los objetos de la casa.",
+        "author": "Equipo Territorial San Cristóbal - La Candelaria",
+        "publisher": "Idartes",
+        "published": "2020",
+        "imprint": "Nidos",
+        "subject": "Arte para la primera infancia",
+        "numberOfPages": 14,
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/escuadronobjetos.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/11-06-2020-Cover-el-escuadron-de-los-objetos-perdidos.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:26Z",
+        "title": "Un universo llamado casa",
+        "description": "Libro digital interactivo en donde las niñas, niños y cuidadores, guiados por seres fantásticos, pueden jugar y explorar los diferentes lugares de la casa y las maravillas que allí se encuentran.",
+        "author": "Equipo Territorial Kennedy 2020",
+        "published": "2020",
+        "imprint": "Nidos",
+        "subject": "Arte para la primera infancia",
+        "illustrator": [
+          "Zuly Mesa"
+        ],
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/un-universo-llamado-casa-cover-28-05-2020.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:27Z",
+        "title": "Libro Álbum: Mi casa, un lugar de tesoros",
+        "description": "El programa Nidos invita a reconocer y disfrutar del hogar en familia a partir de la búsqueda de tesoros: esa diversidad de objetos, lugares y personas que los niños y niñas consideran valiosos; y su exploración visual por medio de materiales disponibles en la casa. De igual manera se propone la experimentación a través de juegos con la luz y el agua.",
+        "author": "Equipo territorial Engativá - Barrios Unidos",
+        "publisher": "Idartes",
+        "published": "2020",
+        "imprint": "Nidos",
+        "subject": "Arte para la primera infancia",
+        "numberOfPages": 9,
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/mi_casa_un_lugar_de_tesoros_0.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/mi-casa-un-lugar-de-tesoros.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:28Z",
+        "title": "El fogón de Mamá Segunda",
+        "description": "Este recetario está basado en la Experiencia Artística: «Sancochando con Mamá Segunda», creada originalmente en el mes de Marzo del 2020, por Sergio Méndez y Paula Neissa, Artistas Comunitarios de la localidad de Suba, y en las recetas e ideas propuestas por el Equipo de Artistas Comunitarios de la misma, quienes también intervinieron en todos los procesos creativos de forma colaborativa.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2020",
+        "imprint": "Nidos",
+        "subject": "Arte para la primera infancia",
+        "numberOfPages": 42,
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/elfogo%CC%81ndemama%CC%81segunda.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/recetario.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:29Z",
+        "title": "El maestro de muñecos",
+        "description": "A partir de la historia de dos personajes, el Maestro de muñecos y Alicia invitan a niñas, niños y cuidadores a construir un muñeco con recursos disponibles en casa. De esta manera, se busca generar, a partir de la construcción, la interacción y el juego. Es un reconocimiento del cuerpo, la identidad y las vivencias para niños y niñas menores de seis años.",
+        "publisher": "Idartes",
+        "published": "2020",
+        "imprint": "Nidos",
+        "subject": "Arte para la primera infancia",
+        "numberOfPages": 22,
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/elmaestrodemun%CC%83ecos.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/elmaestro-12-05-2020.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:32Z",
+        "title": "Críquiti, Crac!",
+        "description": "Libro interactivo en el que las familias podrán descubrir una divertida historia mientras superan algunos retos y misiones para descubrir un gran misterio al final.",
+        "author": "Andrezzinho y Andrea Sazu",
+        "published": "2019",
+        "imprint": "Nidos",
+        "subject": "Arte para la primera infancia",
+        "belongsTo": {
+          "collection": "Qué quisieras ser"
+        },
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/criquiti-crac.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:37Z",
+        "title": "Voces del territorio: el arte para la primera infancia en Bogotá",
+        "description": "Esta publicación da cuenta de las múltiples voces que enriquecen el Programa Nidos-Arte en Primera Infancia que la Alcaldía Mayor de Bogotá lleva a cabo a través del Instituto Distrital de las Artes-Idartes, y la forma en que se suman saberes buscando cada día el bienestar de las niñas y los niños de la ciudad. Los textos que la componen comprenden diferentes abordajes técnicos, teóricos y experienciales, que configuran un universo de conocimientos, resultado de la reflexión y retroalimentación permanente de los diferentes equipos que conforman el programa.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Nidos",
+        "subject": "Arte para la primera infancia",
+        "identifier": "urn:ISBN:978-958-5595-17-0",
+        "numberOfPages": 216,
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/17_pi%20Voces%20del%20territorio-NIDOS.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-11%20a%20la%28s%29%2020.01.16.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:38Z",
+        "title": "Arte en primera infancia: sentidos y rumbos del quehacer artístico-pedagógico",
+        "description": "Las cuatro investigaciones aquí incluidas recogen el saber acumulado de años de aprendizaje y transformación del Programa Nidos, que hoy nos ofrece una apuesta pedagógica y artística madura y original, un sistema de cualificación integral de sus equipos de trabajo, meritorio de replicarse en otros proyectos similares, y unos procesos de investigación cualitativa y cuantitativa, indispensables para validar los aportes de las experiencias artísticas en las familias, maestros, niñas y niños de primera infancia en un país con grandes retos de reconciliación y superación de las brechas de desigualdad socioeconómica. Esperamos que los aprendizajes que aquí se comparten sirvan de fuente de inspiración para que nuestros potenciales lectores se motiven a emprender nuevas acciones públicas y privadas por el bienestar de los más pequeños como garantía última de un mejor porvenir.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Nidos",
+        "subject": "Arte para la primera infancia",
+        "identifier": "urn:ISBN:978-958-5487-59-8",
+        "numberOfPages": 184,
+        "illustrator": [
+          "Mónica Loaiza",
+          "David Reyes"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/8_pi%20ArteenPrimeraInfancia-Nidos.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-08%20a%20la%28s%29%2017.19.08.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:42Z",
+        "title": "Oliver y su Niñeromatic",
+        "description": "Esta es la tierna historia de un gatito bebé muy juguetón, su amigo inseparable y su amorosa familia.",
+        "author": "Dazbog Art Producciones SAS",
+        "published": "2018",
+        "imprint": "Nidos",
+        "subject": "Arte para la primera infancia",
+        "identifier": "urn:ISBN:978-958-56774-0-1",
+        "numberOfPages": 20,
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/oliver.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:47Z",
+        "title": "Tejedores de Vida - Arte en primera infancia Perspectivas de investigación",
+        "description": "Tejedores de Vida - Arte en primera infancia. Este libro tiene tres capítulos. Un primer capítulo dedicado a la exploración de efectos de las experiencias artísticas en la atención integral a la primera infancia en el ámbito familiar. El segundo capítulo trata sobre una sistematización del concepto de espacio en Nidos, a partir de cual se han construido mundos posibles para la primera infancia. El tercer capítulo trata sobre el proceso de fortalecimiento y transformación de los artistas comunitarios, gracias a la participación que han tenido en el Programa Nidos.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2017",
+        "imprint": "Nidos",
+        "subject": "Arte para la primera infancia",
+        "identifier": "urn:ISBN:978-958-8997-13-1",
+        "numberOfPages": 109,
+        "illustrator": [
+          "Rey Naranjo"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/investigacion_arte_en_primera_infancia_digital_0.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/PORTADA-PERSPECTIVAS.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:48Z",
+        "title": "El libro secreto de los monstruos",
+        "description": "El libro secreto de los monstruos, es un libro interactivo creado por Lua Books, ganadores de la Beca de libro interactivo para primera infancia - Idartes 2017.",
+        "author": "Lizandro Carvajal",
+        "publisher": "Lua Books",
+        "published": "2017",
+        "imprint": "Nidos",
+        "subject": "Arte para la primera infancia",
+        "belongsTo": {
+          "collection": "Qué quisieras ser"
+        },
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/monstruos-27-04_0.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:48Z",
+        "title": "Se Hizo Pa'",
+        "description": "Para el Instituto Distrital de las Artes, Idartes, es de gran importancia generar procesos de creación que innoven y busquen múltiples posibilidades para el disfrute, la apropiación y la experiencia con las artes. Este disco responde a la construcción y creación colectivas, por parte de miembros del proyecto de experiencias artísticas para la primera infancia, de una variedad de canciones y sonidos, pensados para el goce de los niños y sus familias.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2017",
+        "imprint": "Nidos",
+        "subject": "Arte para la primera infancia",
+        "numberOfPages": 11,
+        "illustrator": [
+          "Carolina Latorre Rojas"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/librillo_web.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/sehizopa.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:36:00Z",
+        "title": "Desde mi ventana",
+        "description": "¿A qué se parecen las nubes?¿De qué color es la luz que entra por tu ventana? Dos artistas comunitarios de Fontibón invitan a los niños menores de seis años y sus familias a descubrir los colores y formas que se esconden en la esquina del asombro a través de este libro digital.",
+        "author": "Camilo Contreras",
+        "publisher": "Idartes",
+        "published": "2015",
+        "imprint": "Nidos",
+        "subject": "Arte para la primera infancia",
+        "identifier": "urn:ISBN:978-958-46-9518-5",
+        "numberOfPages": 16,
+        "illustrator": [
+          "Carolina Latorre"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/desde-mi-ventana-web_0.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Desde-mi-ventana-cover-28-05-2020_0.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:36:02Z",
+        "title": "Tejedores de vida, arte en primera infancia",
+        "description": "Tejedores de Vida - Arte en Primera Infancia, es un proyecto reconocido distrital, nacional e internacionalmente como una experiencia innovadora del Instituto Distrital de las Artes - IDARTES, de la que hacen parte más de 300 artistas que han logrado atención directa con más de 100 mil niños menores de seis años, desde 2013 en la ciudad de Bogotá.",
+        "author": "Mauricio Galeano Vargas, Olga Lucía Olaya Parra, Inti Andrés Bachman Matiz, María Paula Atuesta Ospina, María Consuelo Gaitán Clavijo",
+        "publisher": "Idartes",
+        "published": "2015",
+        "imprint": "Nidos",
+        "subject": "Arte para la primera infancia",
+        "identifier": "urn:ISBN:9789588898315",
+        "numberOfPages": 240,
+        "illustrator": [
+          "Jersson Ibañez, León Felipe Jiménez, Luis Alejandro Luzardo"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/arteprimerainfancia.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/portada-tejedores.png",
+          "type": "image/jpeg"
+        }
+      ]
+    }
+  ]
+}

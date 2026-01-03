@@ -1,0 +1,779 @@
+{
+  "metadata": {
+    "title": "Teatro",
+    "numberOfItems": 25
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://localhost:8000/catalogs/teatro.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:33:39Z",
+        "title": "Escena Joven - 2024",
+        "description": "Escena Joven, visibiliza y fortalece los procesos creativos de los jóvenes de Bogotá.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2024",
+        "imprint": "Gerencia de Arte Dramático",
+        "subject": "Teatro",
+        "numberOfPages": 23,
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/CATALOGO_EscenaJoven_.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/CATALOGO_EscenaJoven__page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:33:42Z",
+        "title": "Catálogo - Festival de Teatro y Circo de Bogotá XIX",
+        "description": "El Festival de Teatro y Circo de Bogotá se ha consolidado como un evento esencial para la ciudad, ya que, a lo largo de sus 19 años de trayectoria, ha mantenido un profundo impacto cultural y social al reunir las mejores propuestas teatrales y circenses como un regalo para Bogotá, con motivo de la celebración de su cumpleaños. El Festival es un espacio de intercambio creativo que fomenta la diversidad y el diálogo entre diferentes disciplinas del teatro y del circo. Su capacidad para movilizar a miles de espectadores cada año resalta la importancia de la cultura en la construcción de identidad y cohesión social, mientras que impulsa la economía local y posiciona a Bogotá como un referente a nivel nacional en materia teatral y circense. En este sentido, el festival no solo enriquece la escena artística de la ciudad, sino que también contribuye al desarrollo integral de la comunidad.",
+        "author": "Varios Autores",
+        "published": "2024",
+        "imprint": "Gerencia de Arte Dramático",
+        "subject": "Teatro",
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Cat%C3%A1logo-Bogot%C3%A1-Teatral-2024.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Catalogo%20Fest%20Teatro%20y%20Circo_compressed_page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:39Z",
+        "title": "El público: Protagonista de la experiencia teatral",
+        "description": "El Seminario El Público: Protagonista de la Experiencia Teatral surgió de la necesidad de reflexionar en torno al espectador como agente fundamental en el hecho teatral ―en su rol de receptor activo de una experiencia escénica―, de definirlo y de determinar sus funciones, sus privilegios y sus retos; pero también se propuso identificar aspectos relacionados con las expectativas de los creadores ante este actor en el diálogo entre escena y destinatario, sin el cual el hecho escénico no tendría sentido.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2021",
+        "imprint": "Gerencia de Arte Dramático",
+        "subject": "Teatro",
+        "identifier": "urn:ISBN:978-958-5595-82-8",
+        "numberOfPages": 168,
+        "illustrator": [
+          "Mónica Loaiza"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/FINAL%20Seminario%20El%20Pu%CC%81blico%20MLR_24-06-21%20.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/FINAL%20PORTADA%20Seminario%20El%20Pu%CC%81blico%20MLR_24-06-21%20.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:42Z",
+        "title": "Teoría y práctica del teatro. Vol. 3",
+        "description": "En este tercer volumen de Teoría y práctica del teatro se reúnen una serie de artículos, ensayos e informes con las reflexiones del autor sobre varios montajes de creación colectiva. Con ello avanza en su preocupación, y la del grupo creativo del Teatro La Candelaria, sobre la relación entre los avances de la ciencia contemporánea y la creación artística.<br/><br/>Licencia: Licencia no exclusiva",
+        "author": "Santiago García",
+        "publisher": "Idartes - Teatro La Candelaria",
+        "published": "2021",
+        "imprint": "Gerencia de Arte Dramático",
+        "subject": "Teatro",
+        "identifier": "urn:ISBN:978-958-5595-81-1",
+        "numberOfPages": 154,
+        "illustrator": [
+          "David Reyes"
+        ],
+        "belongsTo": {
+          "collection": "Teoría y práctica del teatro"
+        },
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/car%20Teoria%20y%20practica%20del%20teatro-SG-5.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:42Z",
+        "title": "Teoría y práctica del teatro. Vol. 2",
+        "description": "En este segundo volumen de Teoría y práctica del teatro del director Santiago García se recopilan ensayos y artículos sobre diversos aspectos del quehacer teatral. Muchas de las reflexiones del autor son el resultado de las investigaciones hechas en el Taller Permanente de Investigación Teatral que García dirigió durante trece años y constituyen un valioso material para la práctica teatral tan necesitada de elementos teóricos que son, en el arte, los que impiden el estancamiento o la repetición inútil en diferentes procesos del movimiento teatral de estos últimos años.<br/><br/>Licencia: Licencia no exclusiva",
+        "author": "Santiago García",
+        "publisher": "Idartes - Teatro La Candelaria",
+        "published": "2021",
+        "imprint": "Gerencia de Arte Dramático",
+        "subject": "Teatro",
+        "identifier": "urn:ISBN:978-958-5595-81-1",
+        "numberOfPages": 239,
+        "illustrator": [
+          "David Reyes"
+        ],
+        "belongsTo": {
+          "collection": "Teoría y práctica del teatro"
+        },
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/car%20Teoria%20y%20practica%20del%20teatro-SG-3.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:43Z",
+        "title": "Teoría y práctica del teatro. Vol. 1",
+        "description": "Este volumen presenta una serie de reflexiones sobre la práctica de la creación colectiva, el papel del actor en la conformación de los grupos de teatro y a su vez el papel del grupo de teatro como un elemento determinante en las transformaciones sociales, entre otros temas.<br/><br/>Licencia: Licencia no exclusiva",
+        "author": "Santiago García",
+        "publisher": "Idartes - Teatro La Candelaria",
+        "published": "2021",
+        "imprint": "Gerencia de Arte Dramático",
+        "subject": "Teatro",
+        "identifier": "urn:ISBN:978-958-5595-81-1",
+        "numberOfPages": 262,
+        "illustrator": [
+          "David Reyes"
+        ],
+        "belongsTo": {
+          "collection": "Teoría y práctica del teatro"
+        },
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/car%20Teoria%20y%20practica%20del%20teatro-SG-1.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:44Z",
+        "title": "Dramaturgias desde la resistencia",
+        "description": "Estas tres obras nos proponen tránsitos de la cotidianidad e inmersiones que llegan a diversas formas de resistencia como alternativa para enfrentarla. Pequeños universos creados desde la imaginación, las realidades paralelas y las metáforas hacen parte de lo que encontraremos en este viaje por los textos dramatúrgicos de personajes aparentemente simples, pero llenos de matices, recogidos en esta publicación.",
+        "author": "María Adelaida Palacio Duque, Luis Carlos Castro Atará y Juan Felipe Piracón",
+        "publisher": "Idartes",
+        "published": "2021",
+        "imprint": "Gerencia de Arte Dramático",
+        "subject": "Teatro",
+        "identifier": "urn:ISBN:978-958-5595-59-0",
+        "numberOfPages": 200,
+        "illustrator": [
+          "David Reyes"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Dramaturgias%20desde%20la%20resistencia_Dramaturgia%202019_web.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/car%20Dramaturgias%20desde%20la%20resistencia_Dramaturgia%202019_frente.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:08Z",
+        "title": "Revista Teatros No.18 La construcción del personaje",
+        "description": "Aunque existe una gran cantidad de bibliografía, testimonios y documentación acerca de la noción de  personaje en la historia del teatro universal, siempre serán bienvenidas las reflexiones acerca del tema.  A lo largo de los siglos, tanto en oriente como en occidente, han sido múltiples, variados y disímiles  los puntos de vista desde los cuales se ha examinado este concepto. Sin embargo, vale la pena preguntarse ¿cuál es el aporte del teatro que se hace en el país a la discusión? ¿Cómo hemos asimilado, apropiado y resignificado el concepto? ¿Tenemos una teoría propia acerca de la construcción del personaje?  Visto desde esta perspectiva, resulta interesante revisitar el tema, pues nuestro teatro, desde sus prácticas, en los distintos sectores que lo componen y en sus variados contextos y formas, ha desarrollado propuestas de gran valor que, sin lugar a dudas, han determinado en gran medida su evolución y avance.",
+        "author": "Asociación de Salas Concertadas de Teatro de Bogotá, Orquesta Filarmónica de Bogotá",
+        "publisher": "Idartes",
+        "published": "2012",
+        "imprint": "Gerencia de Arte Dramático",
+        "subject": "Teatro",
+        "identifier": "urn:ISSN:1900–3005",
+        "numberOfPages": 84,
+        "illustrator": [
+          "Ana Delgado"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Teatros%2018%20e-book.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Caratula%20%23%2018_0.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:11Z",
+        "title": "Revista Teatros No. 16",
+        "description": "Pareciera teatro del absurdo, pero es la realidad. Esta, nuestra absurda realidad. Doce grupos de teatro de Bogotá amenazados de muerte por defender los derechos humanos, según afirman los firmantes de la amenaza, águilas negras que deberían volar muy alto, libres como el arte. ¿Y por qué no hablamos? nos preguntamos, tal vez ingenuamente, pero convencidos de que debe ser el camino para absolver diferencias. Se trata de grupos que hacen su trabajo en los sectores más populares de la ciudad y cuya función social debe ser aplaudida. De parte de TEATROS tengan nuestra absoluta solidaridad y la voluntad en la búsqueda de caminos pacíficos para aclarar este paisaje de horror. Esperamos que los contradictores se unan a esta búsqueda, sería lo mejor para el arte, la vida y para un país donde quepamos todos. En medio de esta inquietante realidad, que quisiéramos fuera apenas un pasajero eclipse, presentamos este número de la revista, que pretende hacer una primera valoración del recién creado Instituto Distrital de las Artes, en funciones desde el principio de este año, entidad que viene a llenar el vacío dejado por la reforma administrativa que constituyó la Secretaría de Cultura",
+        "author": "Asociación de Salas Concertadas de Teatro de Bogotá, Orquesta Filarmónica de Bogotá",
+        "publisher": "Idartes",
+        "published": "2011",
+        "imprint": "Gerencia de Arte Dramático",
+        "subject": "Teatro",
+        "identifier": "urn:ISSN:1900–3005",
+        "numberOfPages": 84,
+        "illustrator": [
+          "Yéssica Acosta Molina Ana Delgado"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Teatros%2016-ebook_0.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Caratula%20%23%2016_0.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:12Z",
+        "title": "Revista Teatros No. 17 Arquitecturas Efímeras",
+        "description": "El término ARQUITECTURA EFÍMERA es, quizás, el concepto que más se adecúa a la naturaleza y a la función de la escenografía para artes escénicas, ya que es una construcción que sintetiza artísticamente un universo, pero que a su vez desaparece una vez finaliza la presentación. Nada más trágico, pero también más seductor, pues en esa medida, la escenografía como ARQUITECTURA EFÍMERA nos lleva a plantear serias reflexiones que se derivan de sus múltiples significados. Hablamos de las disciplinas asociadas a su desarrollo, a su historia y sus progresos en el tiempo. A través de cuatro artículos especializados y diez entrevistas tanto a escenógrafos como a directores de las más diversas tendencias, la Revista Teatros ha querido dedicar el dossier del presente número a dicho tema con el objeto de ofrecer una visión de las últimas tendencias en el diseño de escenarios, reivindicar el papel del escenógrafo, observar su evolución y reflexionar y describir el proceso creativo, el cual, indiscutiblemente, compromete a dramaturgos, directores, actores y técnicos.",
+        "author": "Asociación de Salas Concertadas de Teatro de Bogotá, Instituto Distrital de las Artes",
+        "publisher": "Idartes",
+        "published": "2011",
+        "imprint": "Gerencia de Arte Dramático",
+        "subject": "Teatro",
+        "identifier": "urn:ISSN:1900–3005",
+        "numberOfPages": 84,
+        "illustrator": [
+          "Yéssica Acosta - Molina Ana Delgado"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Teatros%2017%20e-book.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Caratula%20%23%2017.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:13Z",
+        "title": "Revista Teatros No. 15  Industrias Culturales",
+        "description": "Si revisamos con detenimiento, comprobamos que uno de los principales desafíos del teatro colombiano contemporáneo  en el siglo XXI es la búsqueda de sostenibilidad a mediano y largo plazo. Con el fin de afrontar este desafío -tanto investigadores, academias e instituciones públicas y privadas- han venido elaborando de manera teórica y práctica, a lo largo de los últimos años, el discurso de las Industrias Culturales; las cuales buscan encontrar alternativas de generación de recursos, diversificación de fuentes de financiación, así como el desarrollo de productos, servicios y normatividades adecuadas. Sin embargo, estos esfuerzos de formalización del sector de las artes escénicas se han visto enfrentados a una serie de “cosmovisiones” que relacionan las industrias creativas con la comercialización de los bienes espirituales, con la imposición de modelos artísticos y administrativos que excluirán las particularidades de una cultura particular, con la reproducción masificada de productos culturales, con la pérdida de independencia artística o, por el contrario, con la posibilidad de garantizar sostenibilidad a largo plazo, con el mejoramiento de métodos de producción, con la eliminación de cargas tributarias, con la simplificación y racionalización de trámites administrativos, entre otros puntos.",
+        "author": "Asociación de Salas Concertadas de Teatro de Bogotá, Orquesta Filarmónica de Bogotá",
+        "publisher": "Idartes",
+        "published": "2010",
+        "imprint": "Gerencia de Arte Dramático",
+        "subject": "Teatro",
+        "identifier": "urn:ISSN:1900–3005",
+        "numberOfPages": 84,
+        "illustrator": [
+          "Yéssica Acosta Molina y  Ana Delgado"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Teatros%2015-ebook.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Caratula%20%23%2015.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:25Z",
+        "title": "Experimentos con la creación",
+        "description": "Para celebrar los primeros diez años del Teatro Mayor y el 75° aniversario de Sura, se lanza el libro digital ‘Experimentos con la creación’, que recopila un trabajo inspirado en la riqueza de las obras que se han presentado en el Teatro Mayor.",
+        "author": "Varios Autores",
+        "publisher": "Teatro Mayor Julio Mario Santo Domingo",
+        "published": "2020",
+        "imprint": "Teatro Mayor Julio Mario Santo Domingo",
+        "subject": "Teatro",
+        "identifier": "urn:ISBN:978-958-52836-0-2",
+        "illustrator": [
+          "Nikolas Cepeda Molina - Jorge Luis Bandera Martinez"
+        ],
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/experimentoscreacion.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:35Z",
+        "title": "El vuelo de la libélula. 40 años de La Libélula Dorada",
+        "description": "El vuelo de la libélula articula, con un estilo claro e íntimo, la dimensión biográfica con el análisis dramatúrgico y estético de una agrupación de larga trayectoria y altamente relevante en la producción escénica del país. Es evidente el rigor crítico del rastreo dramatúrgico de cada una de las obras, así como del desarrollo histórico del grupo hasta que ubica su sede final y de sus otros proyectos artísticos, vinculados al jazz y a la danza, y cómo estos se retroalimentan.",
+        "author": "Enrique Pulecio Mariño",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Gerencia de Arte Dramático",
+        "subject": "Teatro",
+        "identifier": "urn:ISBN:978-958-5487-39-0",
+        "numberOfPages": 252,
+        "illustrator": [
+          "Mónica Loaiza",
+          "Jimena Loaiza"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/ElVuelodelaLibelula_ArteDrama%CC%81tico_Cotejo3_13Febrero.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-08%20a%20la%28s%29%2016.42.19.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:36Z",
+        "title": "El trabajo sobre sí, relaciones entre el arte y el ser. Cartografía experiencial de la práctica del Núcleo de Investigación Arte y Conocimiento del Teatro Varasanta",
+        "description": "La presente publicación contiene el resultado de la investigación realizada por Fernando Montes y Gabriela Ferreira Santos en la que indagan sobre el núcleo de investigación desarrollado al interior del Teatro Varasanta, cuyo trabajo ha consistido en explorar el canto, el movimiento, la voz, el ritmo y la acción como herramientas originarias que conectan al hombre con la fuerza de la creación. ",
+        "author": "Fernando Montes/Gabriela Ferreira Santos",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Gerencia de Arte Dramático",
+        "subject": "Teatro",
+        "identifier": "urn:ISBN:978-958-5487-91-8",
+        "numberOfPages": 216,
+        "illustrator": [
+          "Jimena Loaiza",
+          "Iván Peña",
+          "Isabella Martínez"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/TripaElTrabajo-web.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-08%20a%20la%28s%29%2017.07.02.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:38Z",
+        "title": "Ferocidad y mansedumbre. Exploraciones poéticas de lo animal en el teatro contemporáneo sobre la violencia en Colombia",
+        "description": "En este texto la autora indaga por el humanismo como objeto de exploración de la dramaturgia de tres autores colombianos —Carolina Vivas, Víctor Viviescas y Fabio Rubiano—, quienes plantean en sus obras el tema de la violencia, al tiempo que bordean los límites entre lo humano y lo animal. Esperamos que esta publicación se constituya en un valioso material de consulta para todos los lectores interesados en la investigación teatral.",
+        "author": "Alejandra Marín Pineda",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Gerencia de Arte Dramático",
+        "subject": "Teatro",
+        "identifier": "urn:ISBN:978-958-5487-89-5",
+        "numberOfPages": 168,
+        "illustrator": [
+          "Mónica Loaiza",
+          "David Reyes"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/14_pi%20Ferocidad%20y%20mansedumbre.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-08%20a%20la%28s%29%2017.14.33.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:38Z",
+        "title": "Teatro en divergencia",
+        "description": "Para el Instituto Distrital de las Artes es un gusto poner en manos del lector estas tres obras que nos sumergen en mundos fantásticos y desconocidos, nos sitúan en ciudades fronterizas, haciendas, páramos, puentes, abismos, o simplemente en la intimidad de un baño, y nos hablan del poder, del riesgo, de la hechicería, de la maldad, del dolor de la pérdida, de la paternidad interrumpida, del deseo de salvación, así como de la vida que se desmorona en cualquier momento. Sus audaces autores se valen de recursos narrativos diversos para la creación de unos textos dramatúrgicos llenos de matices, tensiones, juegos metafóricos, personajes nítidos y situaciones complejas.",
+        "author": "Javier Gámez Alfonso/César Augusto Álvarez Sánchez/Felipe Botero Restrepo",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Gerencia de Arte Dramático",
+        "subject": "Teatro",
+        "identifier": "urn:ISBN:978-958-5487-83-3",
+        "numberOfPages": 296,
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/11_pi%20Teatro%20en%20divergencia.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-08%20a%20la%28s%29%2017.17.08.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:45Z",
+        "title": "Teatro en contradicción",
+        "description": "Para el Instituto Distrital de las Artes es un gusto presentar estas tres obras, en las cuales se contraponen temas que reflejan la complejidad de la naturaleza humana: la ética sobre los intereses individuales o colectivos, el rencor sobre el perdón, el valor de la vida y la integridad sobre las consecuencias de la guerra, o la realidad sobre la imaginación, y que posibilitan múltiples miradas que permiten recrear las propias emociones a través de los ojos de los personajes.",
+        "author": "Erik Leyton Arias/Matías Maldonado Loboguerrero/Carlos Moisés Ballesteros Paipilla",
+        "publisher": "Idartes",
+        "published": "2018",
+        "imprint": "Gerencia de Arte Dramático",
+        "subject": "Teatro",
+        "identifier": "urn:ISBN:978-958-5487-41-3",
+        "numberOfPages": 240,
+        "illustrator": [
+          "Mónica Loaiza",
+          "David Reyes"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/3_pi%20Teatro%20en%20contradiccion.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-08%20a%20la%28s%29%2017.24.36.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:46Z",
+        "title": "Constelaciones teatrales: Interacciones entre el personaje teatral en crisis y la barroquización de la contemporaneidad",
+        "description": "La noción de personaje es hoy nebulosa, pues no distinguimos con claridad sus contornos. Adaptada a las necesidades específicas de cada creación, de cada localización, permanece en constante movimiento, tal como el ethos barroco. ¿Hasta dónde podemos expandir los límites de esta noción de personaje? ¿Al despojarnos como actores del personaje, entendido como una construcción ficcional, pasamos a hacer de nosotros mismos un personaje o por lo menos, una presencia que comparte ciertas características con él? ¿La caída en crisis o el desuso del drama como normativa del teatro contemporáneo implica necesariamente la caída en desuso del personaje?",
+        "author": "Dayan Rozo Rojas",
+        "publisher": "Idartes",
+        "published": "2018",
+        "imprint": "Gerencia de Arte Dramático",
+        "subject": "Teatro",
+        "identifier": "urn:ISBN:978-958-5487-26-0",
+        "numberOfPages": 172,
+        "illustrator": [
+          "Mónica Loaiza",
+          "David Reyes"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/2_pi%20Constelaciones%20teatrales.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-08%20a%20la%28s%29%2017.25.38.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:56Z",
+        "title": "Memorias del diplomado: Gestión y lenguajes para la escena 2014",
+        "description": "Durante los últimos ocho años el sector de jóvenes creadores en arte dramático ha realizado una apuesta por la generación de un espacio de formación permanente que fortalezca escenarios para la creación, circulación, gestión, producción y difusión escénica, con el objetivo de potenciar las propuestas de cada una de las agrupaciones de la ciudad y consolidar así su proyecto teatral.",
+        "author": "Corporación Cultural Teatro del Sur",
+        "publisher": "Idartes",
+        "published": "2016",
+        "imprint": "Gerencia de Arte Dramático",
+        "subject": "Teatro",
+        "identifier": "urn:ISBN:978-958-59430-1-8",
+        "numberOfPages": 119,
+        "illustrator": [
+          "Andrés Pascuas Cano"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/libro_memorias_final.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/portada_cartilla_jovenes.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:57Z",
+        "title": "Diplomado en dirección de arte para teatro de títeres",
+        "description": "El arte del títere integra en sí diversas manifestaciones estéticas. Reúne a la escultura en sus formas físicas, la pintura en su maquillaje, el teatro cuando interviene como actor, la música con la voz, la danza en su movimiento, la literatura en su dramaturgia. Surge más allá de la lógica formal, desarrollándose en el fértil campo de la imaginación tanto del animador como del espectador.",
+        "author": "Asociación Cultural Hilos Mágicos",
+        "publisher": "Idartes",
+        "published": "2016",
+        "imprint": "Gerencia de Arte Dramático",
+        "subject": "Teatro",
+        "identifier": "urn:ISBN:978-958-99708-1-2",
+        "numberOfPages": 102,
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/diplomado_en_direccion_de_arte_para_teatro_de_titeres_memorias_y_ponencias_bogotiteres_2016_web.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/caratula_libro_titeres.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:36:02Z",
+        "title": "Dramaturgia para títeres",
+        "description": "Esta publicación es una compilación de ponencias y memorias del diplomado en Dramaturgia para teatro de títeres, realizado por La Gerencia de Arte Dramático del Instituto Distrital de las Artes - IDARTES, en asocio con la Asociación Cultural Hilos Mágicos y con el apoyo de la UNIMA, en el marco del proyecto sectorial de Teatro de Títeres BOGOTÍTERES 2015.",
+        "author": "La Gerencia de Arte Dramático del Instituto Distrital de las Artes - IDARTES, en asocio con la Asociación Cultural Hilos Mágicos y  apoyo UNIMA",
+        "publisher": "Idartes",
+        "published": "2015",
+        "imprint": "Gerencia de Arte Dramático",
+        "subject": "Teatro",
+        "identifier": "urn:ISBN:978-958-58775-0-4",
+        "numberOfPages": 50,
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/dramaturgiatiteres.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:36:03Z",
+        "title": "Revista Teatros No. 21 Memoria y Posconflicto",
+        "description": "Inabarcable como la muerte; la guerra y el conflicto armado rebasan todas las posibilidades intelectuales. Situados más allá de la razón, sus consecuencias y cabal comprensión sólo son posibles en un ejercicio de la memoria por medio de sus reflejos y de su representación. La historia configura una versión, el arte la observa, la cuestiona y la reelabora, la re-presenta. De aquí que el arte, el teatro en particular, más que articularse con la historia la confronte y la cuestione, pues ocupa en la sociedad un lugar autónomo, libre y problemático.",
+        "author": "Asociación de Salas Concertadas de Teatro de Bogotá, Instituto Distrital de las Artes",
+        "publisher": "Idartes",
+        "published": "2015",
+        "imprint": "Gerencia de Arte Dramático",
+        "subject": "Teatro",
+        "identifier": "urn:ISSN:1900-3005",
+        "numberOfPages": 92,
+        "illustrator": [
+          "Ana Delgado  y Paula Camacho"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Teatros%2021%20e-book.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Caratula%2320.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:36:04Z",
+        "title": "Memorias del IX encuentro de teatro comunitario 2015",
+        "description": "Los grupos artísticos que pertenecen al sector de teatro comunitario cuentan con una importante trayectoria en la ciudad. Con ellos se inicia en 2005 el proceso de participación y organización gremial, convocando a un promedio de 25 grupos en la planeación y ejecución del proyecto, que año tras año evidencia la existencia de más organizaciones de su línea. Realizan un encuentro itinerante que permite el intercambio de saberes y productos artísticos de los grupos de teatro comunitario en cada localidad, así como la formación de públicos y la formación especializada para los artistas teatrales. Hoy es posible hablar de un sector organizado que se esfuerza por cualificarse permanentemente y que genera espacios para la divulgación de sus obras en los espacios locales y distritales. ",
+        "author": "Gerencia de Arte Dramático Idartes",
+        "publisher": "Idartes",
+        "published": "2015",
+        "imprint": "Gerencia de Arte Dramático",
+        "subject": "Teatro",
+        "numberOfPages": 158,
+        "illustrator": [
+          "Ediciones Ántropos Ltda"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/IX%20Encuentro%20de%20Teatro%20Low.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Teatro%20comunitario.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:36:07Z",
+        "title": "Revista Teatros No. 20 Diez años en el teatro Bogotano",
+        "description": "Con admiración y entusiasmo celebramos la llegada de la Revista Teatros a su edición número 20. Es destacable la labor que la Asociación de Salas Concertadas de Teatro de Bogotá ha realizado desde el año 2005 para impulsar y mantener esta publicación especializada en teatro, que cuenta hoy con el decidido apoyo del Instituto Distrital de las Artes y que, como pocas en el país, constituye un ejercicio serio de reﬂexión, crítica y divulgación acerca del ofi cio escénico, abriendo un espacio editorial a destacados creadores, gestores e investigadores teatrales. A lo largo de estos diez años, la Revista Teatros ha promovido el análisis de temas relevantes para el sector teatral, proponiendo miradas diversas de las prácticas artísticas desde los procesos de creación y formación, los lenguajes escénicos contemporáneos, la dramaturgia, la actuación, la escenografía y la puesta en escena, abordando a su vez temas transversales al desarrollo del movimiento teatral colombiano, tales como la gestión, la producción y las industrias culturales.",
+        "author": "Asociación de Salas Concertadas de Teatro de Bogotá, Instituto Distrital de las Artes",
+        "publisher": "Idartes",
+        "published": "2014",
+        "imprint": "Gerencia de Arte Dramático",
+        "subject": "Teatro",
+        "identifier": "urn:ISSN:1900-3005",
+        "numberOfPages": 96,
+        "illustrator": [
+          "Ana Delgado"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Teatros%2020%20e-book.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Caratula%20%23%2020.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:36:12Z",
+        "title": "Revista Teatros No.19 Teatro y Mujer",
+        "description": "La presencia femenina en el teatro colombiano tiene una larga historia no de todos conocida, no de todos valorada. Como ha sucedido en otros campos de la sociedad y de la cultura su participación, tan discreta en un comienzo, sólo hasta los últimos años se ha vuelto mucho más visible. Tanto que hoy por hoy el teatro colombiano sería impensable sin sus decididos aportes. Y esto en todas las áreas del quehacer teatral. Desde la inspiración que lleva a la creación de un drama, hasta la organización de eventos que van defiendo espacios culturales de amplio impacto en la sociedad. Están las dramaturgas y las directoras, las  narradoras, las actrices y las diseñadoras, las investigadoras y las vestuaristas formando un grupo humano entregado a ese bello arte de representar la vida sobre un escenario.  ",
+        "author": "Asociación de Salas Concertadas de Teatro de Bogotá, Instituto Distrital de las Artes",
+        "publisher": "Idartes",
+        "published": "2013",
+        "imprint": "Gerencia de Arte Dramático",
+        "subject": "Teatro",
+        "identifier": "urn:ISSN:1900–3005",
+        "numberOfPages": 92,
+        "illustrator": [
+          "Ana Delgado"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Teatros%2019%20e-book.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Teatros%2019%20e-book_page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1404 @@
+{
+  "metadata": {
+    "title": "Artes Plásticas y Visuales",
+    "numberOfItems": 45
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://localhost:8000/catalogs/artes_plasticas_y_visuales.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:33:35Z",
+        "title": "Cartilla - Premio Luis Caballero XIII",
+        "description": "Esta cartilla es una guía pedagógica creada por la Escuela de Mediación de la Red Galería Santa Fe pensada para decodificar el arte y vivir las apuestas artísticas desde una perspectiva diferente. El lector podrá recorrer aquí los cuatro proyectos nominados al XIII Premio Luis Caballero, sumergiéndose en una experiencia única. El equipo de mediación lo acompañará por diferentes dimensiones en la Galería Santa Fe.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2025",
+        "imprint": [
+          "Galería Santa Fe",
+          "Gerencia de Artes Plásticas"
+        ],
+        "subject": "Artes Plásticas y Visuales",
+        "numberOfPages": 28,
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Cartilla-Mediacion-PLC-Premio-Luis-Caballero-XIII.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/CARTILLA%20PLC%202025%20Vfinal_compressed_page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:33:41Z",
+        "title": "Catálogo XII Premio Luis Caballero",
+        "description": "Entre julio de 2023 y enero de 2024, las ocho propuestas nominadas a la duodécima entrega del Premio Luis Caballero estuvieron abier- tas al público bogotano en cinco sitios de intervención, como es costumbre desde 2015, cuando la Galería Santa Fe dejó de tener sede fija durante unos pocos años. La interacción entre propuesta y espacio, que se ha convertido en un rasgo distin- tivo del Premio, sin duda opera transfor- maciones en la obra misma de los artistas nominados y, además, hace parte de la experiencia de los espectadores de cada una de las muestras. Los sitios de inter- vención escogidos en esta edición fue- ron el Museo de Arte Contemporáneo (MAC), Espacio Odeón, Satélite, la Estación de la Sabana y la Galería Santa Fe.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2024",
+        "imprint": [
+          "Galería Santa Fe",
+          "Gerencia de Artes Plásticas"
+        ],
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISSN:1909-3659",
+        "numberOfPages": 272,
+        "illustrator": [
+          "Mónica Loaiza Reina"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/PREMIO%20LUIS%20CABALLERO%20XII%20DIGITAL%20OPTIMIZADO%202.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/PREMIO%20LUIS%20CABALLERO%20XII%20DIGITAL%20OPTIMIZADO%202_page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:33:54Z",
+        "title": "Catálogo Museo Abierto de Bogotá",
+        "description": "El arte urbano es una expresión artística que ha cobrado gran relevancia en Bogotá, no solo por su valor estético, sino también por su capacidad para generar cohesión social. Mediante la creación de murales y grafitis se han creado espacios de diálogo y reflexión en torno a temas relevantes para la sociedad.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2023",
+        "imprint": [
+          "Galería Santa Fe",
+          "Gerencia de Artes Plásticas"
+        ],
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISBN:978-628-7686-12-0",
+        "numberOfPages": 181,
+        "illustrator": [
+          "Mónica Loaiza Reina"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/01-MUSEO%20ABIERTO%20DE%20BOGOTA%CC%81%202020-2023v3.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/CATA%CC%81LOGO%20MUSEO%20ABIERTO%20DE%20BOGOTA%CC%81%202020-2023%2004-04-24%20%282%29_Pa%CC%81gina_001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:33:54Z",
+        "title": "Diagnóstico de arte urbano y grafiti",
+        "description": "El arte urbano es una expresión artística que ha cobrado gran relevancia en Bogotá, no solo por su valor estético, sino también por su capacidad para generar cohesión social. Mediante la creación de murales y grafitis se han creado espacios de diálogo y reflexión en torno a temas relevantes para la sociedad. En este libro, editado por el Instituto Distrital de las Artes-Idartes, se puede apreciar cómo el arte urbano ha evolucionado en Bogotá en los últimos diez años gracias al apoyo de diferentes instituciones públicas y privadas. Además, se des- taca la importancia de la inclusión de diferentes perspectivas y voces en la creación de estas obras.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2023",
+        "imprint": [
+          "Galería Santa Fe",
+          "Gerencia de Artes Plásticas"
+        ],
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISBN:978-628-7686-12-0",
+        "numberOfPages": 389,
+        "illustrator": [
+          "Mónica Loaiza Reina"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/02-DIAGNOSTICO%20DE%20ARTE%20URBANO%20Y%20GRAFITI%202013-2023_compressed.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/0001_5.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:09Z",
+        "title": "Cartilla - Premio Luis Caballero XII - La Ruta del Caballero",
+        "description": "Cada uno de los espacios a visitar durante el recorrido brinda la oportunidad de resolver retos y desarrollar actividades relacionadas con los proyectos de intervención en los sitios específicos. Para realizar cada reto de esta cartilla debes acercarte al mediador o a la mediadora que se encuentra en el espacio expositivo.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2023",
+        "imprint": [
+          "Galería Santa Fe",
+          "Gerencia de Artes Plásticas"
+        ],
+        "subject": "Artes Plásticas y Visuales",
+        "numberOfPages": 40,
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Cartilla_XII_%20PLC_2023.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Cartilla%20XII%20PLC%20%28pag%29_page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:43Z",
+        "title": "Nación e identidad: Reinvención del Museo Nacional de un país pluriétnico y multicultural",
+        "description": "La Constitución Política de Colombia proclamó, en el año 1991, la condición pluriétnica y multicultural de la nación. A partir de este reconocimiento, el Museo Nacional de Colombia inició un proceso de reflexión y planeación estratégica proyectada a una década, durante la cual implementaría acciones que renovarían el quehacer de la institución y la convertirían en un espacio de convergencia de las diferentes narraciones provenientes de las regiones, grupos étnicos y culturales y, en general, de la diversidad que conforma la nación.",
+        "author": "Anguley Isaza Urrego",
+        "publisher": "Idartes",
+        "published": "2021",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISBN:978-958-5595-53-8",
+        "numberOfPages": 132,
+        "illustrator": [
+          "David Reyes"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Nacion%20e%20identidad_web.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/car%20Nacion%20e%20identidad_frente.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:08Z",
+        "title": "ERRATA# 9: Éticas y Estéticas",
+        "description": "Este número de la revista se propone abrir el debate sobre la relación arte y ética, de modo que se explore de manera analítica el porqué el arte, en su propósito de transgresión y subversión estéticas, de libertad de expresión y de crítica de la realidad, puede llegar a cruzar los límites de lo legal y lo ético.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2012",
+        "translator": "Lorena Elejalde (inglés) - Jaime González Cabra (francés)",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISSN:2145–6399",
+        "numberOfPages": 308,
+        "illustrator": [
+          "Tangrama"
+        ],
+        "belongsTo": {
+          "collection": "Revista Errata"
+        },
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/errata-9-eticas-y-esteticas_0.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:08Z",
+        "title": "ERRATA# 8:Inter/Transdisciplinariedad",
+        "description": "Este número dedicado a la Inter y Transdisciplinariedad, ERRATA# vuelve a cumplir uno de sus objetivos más relevantes como es el de generar espacios de análisis y confrontación de los discursos del arte desde diferentes perspectivas. En este caso, la confluencia misma de maneras de investigar y producir conocimiento en, con y a través del arte es la que nos convoca.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2012",
+        "translator": "Lorena Elejalde",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISSN:2145–6399",
+        "numberOfPages": 244,
+        "illustrator": [
+          "Tangrama"
+        ],
+        "belongsTo": {
+          "collection": "Revista Errata"
+        },
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/errata-8-inter-transdisciplinariedad.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:08Z",
+        "title": "ERRATA# 7: Creación Colectiva y las Prácticas Colaborativas",
+        "description": "Este número dedicado a la creación colectiva y las prácticas colaborativas. Este número, como otros tantos de ERRATA#, contiene un tema rico en en él los lectores encontrarán dos vertientes de pensamiento que sobresalen, la primera aborda los temas de la creación colectiva y las prácticas colaborativas desde la perspectiva del activismo y los movimientos sociales.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2012",
+        "translator": "Marcelo Expósito",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISSN:2145–6399",
+        "numberOfPages": 308,
+        "illustrator": [
+          "Tangrama"
+        ],
+        "belongsTo": {
+          "collection": "Revista Errata"
+        },
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/errata-7-creacion-colectiva-y-las-practicas-colaborativas.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:11Z",
+        "title": "ERRATA# 6: Museos y nuevos escenarios del Arte",
+        "description": "El tema de Museos y nuevos escenarios del arte da continuidad y amplía temas que le precedieron, como el abordado en el #4, Pedagogía y Educación artística, y el del #5, Fronteras, migraciones y desplazamientos, que anunciaban ya la necesidad de dedicarle un solo número al papel de los museos, a las modalidades de gestión e institucionalidad de las artes y a las diversas relaciones que se tejen entre la producción artística, los espectadores y la sociedad.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2011",
+        "translator": "Oscar Mauricio Ardila Luna",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISSN:2145–6399",
+        "numberOfPages": 252,
+        "illustrator": [
+          "Tangrama"
+        ],
+        "belongsTo": {
+          "collection": "Revista Errata"
+        },
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/errata-6-museos-y-nuevos-escenarios-del-arte.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:11Z",
+        "title": "ERRATA# 5: Fronteras, migraciones y desplazamientos",
+        "description": "Este número reúne distintas reflexiones sobre la formación en artes y algunas experiencias de formación a través del arte. Este tema, que permea espacios y campos de acción como la universidad, el museo, la comunidad, la escuela, etc., se presenta aquí desde muy diversas reflexiones de tipo histórico, epistemológico y hasta vivencial. En esta oportunidad, Luis Camnitzer es el editor internacional invitado, y Víctor Laignelet y Manuel Santana los editores colombianos. Como autores participan: Pablo Helguera (EE.UU), María del Carmen González (Fundación Cisneros- Venezuela), Mónica Hoff (Mercosur-Brasil), Javier Gil y Miguel Huertas (Colombia). En el Inserto se presenta un proyecto del artista Harrell Fletcher y en el Dossier colaboran: Daniel Castro, Proyecto Ex Situ/In Situ: Moravia, prácticas artísticas en comunidad, Helena Producciones, Humberto Vélez (Panamá), Jaime Ávila, Lucas Ospina, Manuel Arturo Romero, María Adelaida López y Tranvía Cero (Ecuador).",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2011",
+        "translator": "Lorena Elejalde (inglés) - Joana Escolar Pereira (portugués)",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISSN:2145–6399",
+        "numberOfPages": 288,
+        "illustrator": [
+          "Tangrama"
+        ],
+        "belongsTo": {
+          "collection": "Revista Errata"
+        },
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/errata-5-fronteras-migraciones-y-desplazamientos.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:12Z",
+        "title": "ERRATA# 4: Pedagogía y Educación Artística",
+        "description": "Un tema tan rico y complejo como lo es el de la educación en, sobre y a partir del arte, es un asunto que no solo les interesa a pedagogos y artistas sino que actualmente convoca el interés tanto de curadores, historiadores y gestores culturales, como de museos, bienales y espacios alternativos. Por ello, en esta edición, ERRATA# quiso aprovechar la experiencia de artistas como Luis Camnitzer, Víctor Laignelet y Manuel Santana para invitarlos a participar como editores, pues en su papel de investigadores, curadores o docentes han gestado importantes iniciativas al interior y más allá de las instituciones, particularmente en materia de pedagogía y metodologías alternativas para el arte y a través del arte. El trabajo de estos editores invitados, se conjuga con las perspectivas de otros autores que comparten la riqueza de experiencias y diversas posiciones alrededor del tema.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2010",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISSN:2145–6399",
+        "numberOfPages": 273,
+        "illustrator": [
+          "Tangrama"
+        ],
+        "belongsTo": {
+          "collection": "Revista Errata"
+        },
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/errata-4-pedagogia-y-educacion-artistica.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:12Z",
+        "title": "ERRATA# 3: Cultura Digital y Creación",
+        "description": "ERRATA# quiso dedicar la presente edición al tema de la cultura digital y la creación, entendiendo que la cultura digital es un producto de las transformaciones industriales, tecnológicas y científicas, así como de las sociales, políticas y económicas del mundo actual. De este modo, en la diversidad de participaciones que contiene en sus diferentes secciones, este número muestra la estrecha relación entre la creación artística y el impacto del uso de tecnologías. Estamos hablando de una forma particular de relacionarse con el mundo, de una disposición física, mental y emocional en la que tanto el artista como el espectador se acercan a la obra e interactúan con ella, y de cómo los artistas van más allá de las aplicaciones que posibilitan el software y el hardware, y son capaces de crear por sí mismos nuevos medios de expresión. Además de este interés por explorar las posibilidades de expresión de los medios, hay incluso una particular preocupación por las características propias del medio, y con ello un interés por su capacidad de convertirse en arma de resistencia o masificación.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2010",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISSN:2145–6399",
+        "numberOfPages": 273,
+        "illustrator": [
+          "Tangrama"
+        ],
+        "belongsTo": {
+          "collection": "Revista Errata"
+        },
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/errata-3-cultura-digital-y-creacion.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:13Z",
+        "title": "ERRATA# 2: La Escritura del Arte",
+        "description": "En el campo de las artes visuales, la escritura es fuente y medio de reflexión y análisis entre historiadores, críticos, teóricos, curadores y artistas. Por esta razón, ERRATA# ha dedicado este número a “La escritura de arte”, y busca con ello presentar diversas reflexiones sobre las posibilidades de escribir y leer la historia y crítica del arte, especialmente en Latinoamérica.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2010",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISSN:2145–6399",
+        "numberOfPages": 250,
+        "illustrator": [
+          "Tangrama"
+        ],
+        "belongsTo": {
+          "collection": "Revista Errata"
+        },
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/errata-2-arte-y-archivos_0.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:13Z",
+        "title": "ERRATA# 1:  Arte y Archivos",
+        "description": "Este número ofrece a sus lectores una serie de textos en torno al tema de arte y archivos. Con la participación de la investigadora y curadora Carmen María Jaramillo como editora invitada, hemos logrado reunir un variado y selecto grupo de investigadores y artistas cuya experiencia en el tema enriquece una discusión que es fundamental en el ámbito del arte latinoamericano. Es por eso que bajo el título de «Archivos y política /Políticas de archivo», se encuentran reunidos los artículos de Andrea Giunta (Argentina), Suely Rolnik (Brasil), Jorge Blasco Gallardo (España), el grupo de Taller Historia Crítica del Arte, y María Sol Barón Pino (ambos de Colombia), cada uno de los cuales nos ofrece desde su experiencia una reflexión crítica alrededor del tema de los acervos. En ellos se plantean discusiones que van desde las condiciones institucionales y legales para la conservación de los archivos, sus posibles relaciones con la consolidación del arte latinoamericano, hasta la reflexión sobre las condiciones para su museografía. Esta vez es Johanna Calle nuestra artista invitada y José Alejandro Restrepo el entrevistado por Jaime Humberto Borja. ERRATA# incluye a partir de este número un Dossier que reúne la obra de artistas nacionales internacionales como: Antoni Muntadas, Artavazd Pelechian, Carla Herrera-Prats, Carlos Mauricio Bejarano, José Tomás Giraldo, Mateo López Parra, Óscar Muñoz, Oswaldo Maciá y Raimond Chaves.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2010",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISSN:2145–6399",
+        "numberOfPages": 233,
+        "illustrator": [
+          "Tangrama"
+        ],
+        "belongsTo": {
+          "collection": "Revista Errata"
+        },
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/errata1-arte-y-archivos.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:13Z",
+        "title": "ERRATA# 0: El Lugar del Arte en lo Político",
+        "description": "El contenido de este primer número está dedicado al “Lugar del Arte en lo Político”. Para ello se ha reunido a dos editores invitados: Ana Longoni de Argentina y Fernando Escobar de Colombia. Cada uno, desde su experiencia y trabajo de investigación, ofrece una reflexión sobre las prácticas artísticas; la primera, enfocándose en las prácticas que derivan en acciones políticas bajo los periodos de dictadura, y el segundo, revisando las que se dan en el marco del crecimiento y urbanización de las ciudades. A partir de las líneas de abordaje de la relación entre arte y política que han definido los editores, se incluye el trabajo investigativo y la visión crítica de autores como André Mesquita (São Paulo), Jesús Carrillo (Madrid) Catalina Cortés Severino y Carlos Salamanca (Colombia). Como artista invitado en esta oportunidad, participa Miguel Ángel Rojas quien, al concebir el arte como espacio de reflexiones y acciones, intervino el Altar de la Patria (Quinta de San Pedro Alejandrino, Santa Marta) en defensa del pueblo indígena Awá. Por otro lado, se incluye la transcripción de la conversación que el maestro Gustavo Zalamea sostuvo con Estrella de Diego, en la que se aborda el pensamiento de esta investigadora española.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2010",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISSN:2145–6399",
+        "numberOfPages": 233,
+        "illustrator": [
+          "Tangrama"
+        ],
+        "belongsTo": {
+          "collection": "Revista Errata"
+        },
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/revista-artes-plasticas-visuales-errata-0-el-lugar-del-arte-en-lo-politico_0.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:34Z",
+        "title": "Akimbo: Arte, corporalidad y espacio público. VIII Encuentro de Investigaciones Emergentes en Artes Plásticas y Visuales",
+        "description": "Para esta versión del Encuentro de Investigaciones emergentes ponemos en discusión la premisa sobre la cual la introducción de imágenes disruptivas en el espacio público, asociadas a la corporalidad, resignifican o generan imaginarios de normalidad/naturalidad.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISBN:978-958-5487-81-9",
+        "numberOfPages": 208,
+        "illustrator": [
+          "Mónica Loaiza Reina"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Final_Akimbo_GerenciadeArtesPla%CC%81sticas_MLR_30-01.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-13%20a%20la%28s%29%2021.28.57.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:34Z",
+        "title": "IX Premio Luis Caballero",
+        "description": "El Premio Luis Caballero es uno de los reconocimientos artísticos más importantes otorgado en el país, y está dirigido específicamente a los artistas de mediana trayectoria, mayores de 35 años y oriundos de Colombia o residentes en el país. Se trata de una convocatoria pública que se realiza cada dos años, creada por el Instituto Distrital de Cultura y Turismo (IDCT) en el año 1996. El Premio Luis Caballero fue concebido con el fin de reconocer a los artistas bogotanos y brindarles promoción, acompañamiento y financiación para su producción artística.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2019",
+        "translator": "Jimmy Weiskopf",
+        "imprint": [
+          "Galería Santa Fe",
+          "Gerencia de Artes Plásticas"
+        ],
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISBN:978-958-5487-73-4",
+        "numberOfPages": 208,
+        "illustrator": [
+          "Mónica Loaiza Reina - Jimena Loaiza Reina"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/PremioLuisCaballero.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/premioluis.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:35Z",
+        "title": "En primera persona: seis pasajes sobre Feliza Burstyn",
+        "description": "Este libro plantea un recorrido por varias de las obras de Feliza Bursztyn a la par que establece una propuesta en cuanto a la configuración del ensayo pues no sigue una cronología y está escrito en primera persona. Se trata de un texto que, a modo de un vehículo de la experiencia, enlaza al lector tanto con la obra de Bursztyn como con su presente, con lo que la obra de la escultura y lo que tiene para decirnos ahora.",
+        "author": "Julia Buenaventura",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISBN:978-958-5487-77-2",
+        "numberOfPages": 152,
+        "illustrator": [
+          "Mónica Loaiza"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/PE-2018-AP_EnPrimeraPersona-FBursztyn_web.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/amarillo.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:35Z",
+        "title": "XIII Barrio Bienal 2016 – 2017",
+        "description": "El presente catálogo reúne los resultados de la implementación del programa entre 2016 y 2017 a través de la Beca de Reconocimiento a la Producción Artística Local 2016, Beca Salones Locales de Artes Plásticas y Maratón de Dibujo Fiesta de Bogotá 2017.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISBN:978-958-5487-74-1",
+        "numberOfPages": 162,
+        "illustrator": [
+          "Tangrama"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/XIII-Barrio-Bienal-2016-2017_web.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/bbienal-300x214.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:35Z",
+        "title": "Distrito Grafiti – ¡Bogotá se llena de color!",
+        "description": "Este libro incluye las fotografías de los murales realizados por los artistas bogotanos que participaron en la Beca Ciudad de Bogotá de Arte Urbano, fases I y II, Distrito Grafiti Puente Aran-da Versión III, Entornos escolares y Más allá de las fronteras (Residencia Artística Internacional en Arte Urbano), que consiguieron transformar la ciudad mediante la expresión de sus ideas por medio del grafiti y crear un escenario de sueños a través de la pintura.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISBN:978-958-5595-05-7",
+        "numberOfPages": 168,
+        "illustrator": [
+          "Mónica Loaiza Reina"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Distrito-Grafiti-Versio%CC%81n-Web.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/sevistedecolor.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:38Z",
+        "title": "ERRATA# 19. Afectos, afectividades y afectaciones",
+        "description": "El llamado giro afectivo aparece hace una década larga, en diferentes escenarios reflexivos, bajo la forma de una propuesta fundamentalmente transdisciplinar, en muchos casos, activista, que permite formular nuevas entradas al entendimiento de lo social, lo económico y lo político. Acento central se colocará en el cuerpo y su capacidad de “afectarse y de ser afectado”, idea planteada por Baruch Spinoza y que se hará presente en muchas y muchos de los pensadores del giro. De las provocaciones dejadas por Spinoza, se desprenden nociones que, en buena medida, abandonan la tradición del yo metafísico cartesiano, para dar paso a una alternativa no yoica en el marco de la cual, por encima de hablar de sujeto y de individualidad, se reflexiona en torno a encuentros, cruces y articulaciones entre cuerpos y colectividades. Y ciertamente esta capacidad comienza por el reconocimiento del cuerpo como un actor fundamental en la producción de otras instancias desde las cuales construir mundo y mundos. En un momento histórico que ve remontarse, en diversas geografías, gestiones de ultraderecha, intervencionismo político y violencia económica y ambiental, convive, nerviosamente y en tensión, la urgencia de gestos micropolíticos, de subjetividades que se asocian, que producen desvíos y emergencias, planteando alternativas al régimen capitalista colonial actual. La revista Errata # 19, reconociendo los aportes del giro afectivo a la teoría crítica actual, ha invitado a un grupo de pensadores, ensayistas y plásticos, a articular reflexiones, experiencias y prácticas relativas a las nociones de afecto, afección y afectividad.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISSN:2145–6399",
+        "numberOfPages": 248,
+        "illustrator": [
+          "Tangrama",
+          "David Reyes"
+        ],
+        "belongsTo": {
+          "collection": "Revista Errata"
+        },
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/9_pi%20ERRATA%2319.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/errata19-min.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:43Z",
+        "title": "Distrito Grafiti – Bogotá",
+        "description": "Esta publicación presenta, por medio de un mapa detallado y de un registro fotográfico exhaustivo, las intervenciones de arte urbano realizadas durante 2017. Generando inclusión y respeto por la diferencia y nuestros entornos, al tiempo que promovemos el desarrollo de la libre expresión y contribuimos a la modificación de imaginarios, que han señalado el arte urbano como vandalismo.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2018",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISBN:978-958-8877-91-4",
+        "numberOfPages": 175,
+        "illustrator": [
+          "Mónica Loaiza Reina"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Distrito-grafiti-17-PDF-Web.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-13%20a%20la%28s%29%2022.11.33.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:43Z",
+        "title": "Ardila-Lleras: escritos y fotografías",
+        "description": "Jaime Ardila y Camilo Lleras constituyen un claro ejemplo de actitud crítica, fotográfica, original, contemporánea y muy bogotana de hacer arte. Se dedicaron a la creación visual y a la investigación histórica viviendo las frustraciones, la marginación y la falta de espacio propias del arte colombiano de su momento. A pesar de ello, consiguieron, a través de la fotografía y los textos escritos —con sentido del humor y visión crítica—, un retrato social, político y autobiográfico de la era que les tocó vivir.",
+        "author": "Santiago Rueda Fajardo",
+        "publisher": "Idartes",
+        "published": "2018",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISBN:978-958-5487-20-8",
+        "numberOfPages": 224,
+        "illustrator": [
+          "Mónica Loaiza"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/1%20Ardila%20Lleras-%20Gerencia%20de%20Artes%20Pla%E2%95%A0%C3%BCsticas%20DIGITAL.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-08%20a%20la%28s%29%2017.06.04.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:45Z",
+        "title": "VIII Encuentro de investigaciones emergentes",
+        "description": "El Encuentro de Investigaciones Emergentes fue creado en 2011 en el marco de una alianza de la Gerencia de Artes Plásticas del Instituto Distrital de las Artes-Idartes y el Programa de Artes Plásticas de la Universidad Jorge Tadeo Lozano. Se inició con el fin de generar un espacio para la puesta en escena pública de las prácticas investigativas emergentes desarrolladas por los agentes y las organizaciones que constituyen el campo de las artes plásticas en la ciudad de Bogotá. En la séptima versión, se consideró necesario retomar asuntos tratados en anteriores ediciones tales como la emergencia en el campo de las artes plásticas y los significados asociados a investigar, crear, intervenir y generar diversas relaciones entre públicos y espacios específicos.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2018",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISBN:978-958-5487-35-2",
+        "numberOfPages": 80,
+        "illustrator": [
+          "Mónica Loaiza",
+          "David Reyes"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/4_pi%20VII%20Enc-Investigaciones%20emergentes.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-08%20a%20la%28s%29%2017.21.44.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:46Z",
+        "title": "Afectando el conflicto: mediaciones de la guerra colombiana en el arte y el cine contemporáneo",
+        "description": "Afectando el conflicto analiza las contribuciones del arte y el cine contemporáneo a la memoria del conflicto armado y a la superación de los efectos negativos que este ha tenido en la sociedad colombiana. Su autor argumenta que, antes que representar el conflicto, las obras en cuestión median la distancia entre sus audiencias urbanas y la historia y los eventos y las víctimas del conflicto, y producen en el espectador un vínculo con estos. Este vínculo tiene un carácter principalmente afectivo: las obras producen afectos complejos y diversos —desde intensidades sin calificar hasta emociones y experiencias sensibles como lo sublime, la sorpresa y la empatía—, los cuales ejercen presión sobre la apatía hacia el conflicto que ha predominado en algunos sectores urbanos.",
+        "author": "Rubén Darío Yepes Muñoz",
+        "publisher": "Idartes",
+        "published": "2018",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISBN:978-958-5487-22-2",
+        "numberOfPages": 398,
+        "illustrator": [
+          "Mónica Loaiza",
+          "David Reyes"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/1_pi%20Afectando%20el%20conflicto_0.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Afectando-el-conflicto_web.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:49Z",
+        "title": "La Escuela Nacional de Bellas Artes, 1920-1940: Una historia de la comprensión de la lógica en las Artes Plásticas Colección de ensayos sobre el campo del arte colombiano",
+        "description": "Texto ganador del XIII Premio Nacional de Ensayo Histórico, Teórico o Crítico sobre el Campo del Arte Colombiano de la convocatoria de Artes Plásticas, Programa Distrital de Estímulos 2015.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2017",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISBN:978-958-8997-60-5",
+        "numberOfPages": 180,
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/pub_artes.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/bellas.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:49Z",
+        "title": "Quinto encuentro de investigaciones emergentes. Investigación, creación y pedagogías desde lugares específicos",
+        "description": "Este número nace en torno a la reflexión de la noción de «emergente», aquella pregunta que creó este encuentro. La emergencia en el campo de las artes plásticas se aborda aquí a partir de lo sucedido en la octava versión del Premio Luis Caballero y de los significados asociados a crear, investigar y hacer pedagogía en lugares específicos.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2017",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISBN:978-958-8997-64-3",
+        "numberOfPages": 84,
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/pub_quinto.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/quinto.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:49Z",
+        "title": "Sexto encuentro de investigaciones emergentes. Pedagogías nómadas, arte cuerpo y territorio",
+        "description": "Para esta versión se contrastaron casos, regionales y locales, en los que se producen no solamente otras lógicas investigativas que involucran lo estético y lo sensible, sino que también muestran su proyección hacia la configuración de otras pedagogías.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2017",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISBN:978-958-8987-67-4",
+        "numberOfPages": 96,
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/pub_sexto.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/sexto.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:49Z",
+        "title": "Distrito Grafiti en Bogotá 2017",
+        "description": "Catálogo que reúne los grafitis realizados en el Distrito Grafiti de Bogotá, Puente Aranda, en el año 2017.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2017",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "numberOfPages": 189,
+        "illustrator": [
+          "Cristian Roncancio Rayo"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/pub_grafiti.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/distrito2017.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:50Z",
+        "title": "ERRATA# 18: Los derechos de los vivientes",
+        "description": "Este número, en diálogo constante con ediciones anteriores de la Revista, trata prácticas que lindan con el activismo y la acción directa, entrelaza la pregunta sobre la ética con la política y la estética. E Involucra, por parte, prácticas de escrituras otras, más creativas, más plásticas, experimentales y deslindadas desde las cuales se permea el pensamiento académico más conservador.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2017",
+        "translator": "Alberto Sánchez Galeano",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISSN:2145–6399",
+        "numberOfPages": 220,
+        "illustrator": [
+          "Tangrama"
+        ],
+        "belongsTo": {
+          "collection": "Revista Errata"
+        },
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Errata-min.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:50Z",
+        "title": "ERRATA# 17: Feminismos",
+        "description": "Esta entrega de la Revista ERRATA# se encarga de abordar dos tipos de condiciones tangenciales: el arte realizado por mujeres y el arte hecho desde América Latina. Para preguntarse, de qué maneras las artistas, las mujeres, las latinas han logrado subvertir los cánones de representación para revolucionar el arte, cuáles son sus voces y por qué, hemos decidido, de manera repetitiva, no escucharlas.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2017",
+        "translator": "Maria Natalia Paillié",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISSN:2145–6399",
+        "numberOfPages": 232,
+        "illustrator": [
+          "Tangrama"
+        ],
+        "belongsTo": {
+          "collection": "Revista Errata"
+        },
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/errata17_portada_mayo_25.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:55Z",
+        "title": "Catálogo Barrio Bienal 2014-2015",
+        "description": "Catálogo que reúne los ganadores de la Beca Barrio Bienal - Salones Locales para Artistas Empíricos, en esta versión participaron 26 artistas que viven y trabajan en trece de las veinte localidades de Bogotá: La Candelaria, Barrios Unidos, Engativá, Fontibón, Mártires, Puente Aranda, Rafael Uribe Uribe, San Cristóbal, Santa Fe, Suba, Teusaquillo, Usaquén y Usme.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2016",
+        "translator": "María Clara Peláez Posada",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISBN:978-958-8898-76-6",
+        "numberOfPages": 112,
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/BARRIO-BIENAL-FINAL.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-08%20a%20la%28s%29%2023.18.19.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:55Z",
+        "title": "Red Galería Santa Fe 2015 – 2016",
+        "description": "Catálogo que reúne los ganadores de la Beca de Programación en Artes Plásticas Red Galería Santa Fe, un estímulo que busca incentivar exposiciones de larga o corta duración a lo largo de toda la ciudad.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2016",
+        "imprint": [
+          "Galería Santa Fe",
+          "Gerencia de Artes Plásticas"
+        ],
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISBN:978-958-8997-87-2",
+        "numberOfPages": 300,
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/pub_redgaleriastafe.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/red.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:55Z",
+        "title": "ERRATA# 16: Saber y poder en espacios del arte: pedagogías / curadurías críticas",
+        "description": "Este número indaga en los modos de mediar la mirada, mediar el arte, sus lecturas, desde la curaduría y la pedagogía, pero también, desde la creación, cuando esta involucra, activamente, prácticas educativas. Y se aproxima, además, a la mediación como ejercicio no de transmisión o traducción, sino de intercambio, de diálogo, de puesta en tensión.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2016",
+        "translator": "Joanna Escolar, Marta Kovacics, Nora Landkammer y Erika Tanacs",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISSN:2145–6399",
+        "numberOfPages": 259,
+        "illustrator": [
+          "Tangrama"
+        ],
+        "belongsTo": {
+          "collection": "Revista Errata"
+        },
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/revista-errata16.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:55Z",
+        "title": "ERRATA# 15: Performance, acciones y activismo",
+        "description": "Esta edición de la Revista ERRATA# busca abordar las prácticas de las artes vivas, el performance, el arte acción y la acción directa en su desarrollo histórico, pero brindando un panorama actual sobre su práctica, sus modos de circulación y el campo de reflexión que ha generado en su relación con la institución artística y con diversos contextos en las últimas décadas.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2016",
+        "translator": "Mildred Durán, Joanna Escolar, Marta Kovacics y Erika Tanacs",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISSN:2145–6399",
+        "numberOfPages": 279,
+        "illustrator": [
+          "Tangrama"
+        ],
+        "belongsTo": {
+          "collection": "Revista Errata"
+        },
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/revista-errata-15.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:56Z",
+        "title": "Relatos de poder. Curaduría, contexto y coyuntura del arte en Colombia",
+        "description": "La realización de las curadurías «Displaced» (2007), «Arte y violencia» (1999) y «Arte y política» (1974) corresponden a tres momentos claves para la comprensión y visibilidad de la curaduría como una poderosa práctica intelectual y cultural dentro del campo del arte en Colombia. Estas coordenadas dejan ver que, aunque la curaduría se encuentra plenamente instaurada en nuestro contexto desde hace algún tiempo, al considerar trayectorias individuales de profesionales que han ejercido esta práctica, y al confrontar una masa crítica de material documental y producción discursiva local en torno a la curaduría, es posible trazar una trayectoria de varias décadas que modulan su comprensión desde perspectivas localizadas. A partir de un enfoque relacionado con el contextualismo radical trazado por los Estudios Culturales, Relatos de poder propone una genealogía sobre la instauración, asimilación y transformación de la curaduría en Colombia, su poder para producir discursos e intervenciones en el campo del arte, y su capacidad para describir o señalar contextos según las coyunturas artísticas y sociales en que se inscribe la producción de sus relatos visuales.",
+        "author": "Camilo Ordóñez Robayo",
+        "publisher": "Idartes",
+        "published": "2016",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISBN:978-958-8997-77-3",
+        "numberOfPages": 316,
+        "illustrator": [
+          "Rey Naranjo",
+          "Mónica Loaiza"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/4%20RELATOS%20DE%20PODER_Gerencia%20de%20Artes%20Plasticas_DIGITAL.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-08%20a%20la%28s%29%2016.38.41.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:36:02Z",
+        "title": "VIII Premio Luis Caballero - 2014",
+        "description": "Catálogo que reúne los artistas y proyectos nominados a la octava versión del Premio Luis Caballero: Juan Fernando Herrán Carreño, Benjamín Jacanamijoy Tisoy, Lina María Espinosa Salazar, Ana María Rueda Corinaldi, Ana Isabel Díez Zuluaga, Juan Fernando Mejía Díaz, Ana María Millán y Alberto Baraya Gay.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2015",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISBN:978-958-8898-74-2",
+        "numberOfPages": 140,
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/LUIS-CABALLERO-_ok.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-08%20a%20la%28s%29%2023.54.41.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:36:02Z",
+        "title": "ERRATA# 14: Geopolíticas del Arte Contemporáneo",
+        "description": "Este número busca abrir el abanico de voces que salen en las tensiones Norte-Sur y centro-periferia, como tensiones estructurales del arte contemporáneo, aspirando a ahondar en sus múltiples facetas y en los debates sobre las categorías que permiten problematizarlo históricamente.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2015",
+        "translator": "Andrés Matute, Viviana Mejía, Erika Tanacs",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISSN:2145–6399",
+        "numberOfPages": 196,
+        "illustrator": [
+          "Tangrama"
+        ],
+        "belongsTo": {
+          "collection": "Revista Errata"
+        },
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/revista-errata-14-geopoliticas-del-arte-contemporaneo-min.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:36:02Z",
+        "title": "ERRATA# 13: Derechos Humanos y Memoria",
+        "description": "Este número se propone analizar las prácticas y proyectos artísticos contemporáneos que generan espacios de discusión y relatos de memoria en torno a situaciones de violencia y represión en Latinoamérica y, con esto, convocar a reflexiones recientes que entrelazan la justicia, la memoria e la historia con la creación simbólica y el activismo.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2015",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISSN:2145–6399",
+        "numberOfPages": 252,
+        "illustrator": [
+          "Tangrama"
+        ],
+        "belongsTo": {
+          "collection": "Revista Errata"
+        },
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/revista-errata13-portada.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:36:06Z",
+        "title": "Cuarto encuentro de investigaciones emergentes. La institucionalización de las prácticas artísticas",
+        "description": "Este catálogo responde a varias preguntas a propósito de cómo está conformado el campo del arte en Colombia: ¿Qué es una institución? ¿Cómo funciona? ¿Para qué existe? ¿Qué pasa cuando se formaliza una práctica artística? ¿Existen otras maneras de operar fuera de la institución Arte? ¿Cuál es el papel que las instituciones tienen para conectar el campo del arte con el resto del cuerpo social?",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2014",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISBN:978-958-8898-70-4",
+        "numberOfPages": 67,
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/LIBRO-IV-EIE_opt.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-08%20a%20la%28s%29%2023.34.15.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:36:06Z",
+        "title": "ERRATA# 12: Desobediencias Sexuales",
+        "description": "Este número pretende revisar y analizar el potencial contestatario y disidente de la sexualidad en el ámbito artístico, pero también en el de los movimientos sociales en un trabajo colaborativo con el activismo artístico.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2014",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISSN:2145–6399",
+        "numberOfPages": 316,
+        "illustrator": [
+          "Tangrama"
+        ],
+        "belongsTo": {
+          "collection": "Revista Errata"
+        },
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/errata12-portada-2.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:36:06Z",
+        "title": "ERRATA# 11: Debate Crítico y Teórico",
+        "description": "Con este número se busca indagar sobre el papel que cumplen las publicaciones periódicas en la consolidación de los diferentes discursos del arte. La idea es ofrecer un acercamiento al rol que han cumplido o siguen cumpliendo diversas iniciativas editoriales seriadas, tanto en el posicionamiento de perspectivas teóricas como en su reevaluación.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2014",
+        "translator": "Lorena Elejalde",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISSN:2145–6399",
+        "numberOfPages": 308,
+        "illustrator": [
+          "Tangrama"
+        ],
+        "belongsTo": {
+          "collection": "Revista Errata"
+        },
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/revista-errata-numero-11-artes-plasticas-y-visuales.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:36:06Z",
+        "title": "ERRATA# 10: Polémicas Ambientales – Prácticas Sostenibles",
+        "description": "La Revista Errata# abre en este número una reflexión específica en torno a las prácticas que se ocupan de los complejos dilemas ambientales que enfrentamos hoy, y que desarrollan alternativas sostenibles y de concientización como respuesta.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2014",
+        "translator": "Olga Martín - Joanna Escolar",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISSN:2145–6399",
+        "numberOfPages": 292,
+        "illustrator": [
+          "Tangrama"
+        ],
+        "belongsTo": {
+          "collection": "Revista Errata"
+        },
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/errata-10-polemicas-ambientales-practicas-sostenibles.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:36:10Z",
+        "title": "Arte y juventud: El salón Esso de artistas jóvenes en Colombia",
+        "description": "La configuración del “artista joven” en el campo del arte es la problemática central de este libro. Con este propósito, la autora analiza desde una visión genealógica distintas prácticas discursivas que, durante el siglo XIX e inicios del XX, revelan la aparición de la voz del “joven” como sujeto de cambio en el ámbito del arte.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2013",
+        "imprint": "Gerencia de Artes Plásticas",
+        "subject": "Artes Plásticas y Visuales",
+        "identifier": "urn:ISBN:978-958-8568-27-0",
+        "numberOfPages": 177,
+        "illustrator": [
+          "La Silueta Diseño"
+        ],
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/arteyjuventud.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    }
+  ]
+}

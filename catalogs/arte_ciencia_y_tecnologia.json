@@ -1,0 +1,783 @@
+{
+  "metadata": {
+    "title": "Arte, Ciencia y Tecnología",
+    "numberOfItems": 24
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://localhost:8000/catalogs/arte_ciencia_y_tecnologia.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:33:37Z",
+        "title": "El Hacha Fría: Palabra de tabaco para curar la tecnología",
+        "description": "La presente investigación, titulada El Hacha Fría: Palabra de tabaco para curar la tecnología, es el séptimo ejemplar de una colección de textos especializados que se publican anualmente y que están enmarcados en el eje de investigación sobre ancestralidad y tecnología de la Línea de Arte, Ciencia y Tecnología del Idartes, que busca plantear cruces y tensiones a través de las diferentes formas de ver y comprender el mundo, que amplían el concepto de tecnología a partir de perspectivas como la arqueología de medios, la revisión de tecnologías complejas y la generación de lazos con el pensamiento de las culturas y los saberes ancestrales; por medio de investigaciones con una perspectiva transdisciplinar y, a partir de 2022, que contemplen un componente transmedial.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2024",
+        "imprint": "Línea Arte, Ciencia y Tecnología",
+        "subject": "Arte, Ciencia y Tecnología",
+        "identifier": "urn:ISBN:978-628-7686-73-1",
+        "numberOfPages": 200,
+        "illustrator": [
+          "Edición - Carlos Barreneche ",
+          " Ilustraciones y carátula - Aimema Uai ",
+          " Componente transmedia - Diego Alejandro Herrera García (Ruidajo)"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/EL-HACHA-FRIA-DIGITAL.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/EL-HACHA-FRIA-DIGITAL_page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:33:41Z",
+        "title": "Hizqa Saasbisa: El Caminar de las Plantas",
+        "description": "Este libro es el resultado de la Beca de Investigación en Arte, Tecnología y Ancestralidad (2023), de la Línea de Arte, Ciencia y Tecnología, del Instituto Distrital de las Artes-Idartes. Este libro indaga sobre el recorrido y conocimiento ancestral del sabedor Ignacio Rozo, médico ancestral del Cabildo Muisca de Suba, y relata sus experiencias y vivencias en el barrio El Salitre, que hace parte del antiguo resguardo muisca de Suba, disuelto en el año 1877.",
+        "author": "Daniela   Hernández   Castiblanco",
+        "publisher": "Idartes",
+        "published": "2024",
+        "imprint": "Línea Arte, Ciencia y Tecnología",
+        "subject": "Arte, Ciencia y Tecnología",
+        "identifier": "urn:ISBN:978-628-7686-33-5",
+        "numberOfPages": 132,
+        "illustrator": [
+          "Margarita Prada Arenas"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/HIZQA_SAASBISA_EL_CAMINAR_DE_LAS_PLANTAS_CARTOGRAFIAS_DE_MEMORIA%20WEB.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/HIZQA_SAASBISA_%2C_EL_CAMINAR_DE_LAS_PLANTAS_CARTOGRAFIAS_DE_MEMORIA%20WEB__page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:33:55Z",
+        "title": "Mihique || Suna gue || Caminos de agua - Siembra",
+        "description": "La presente investigación, titulada Mihique II Suna gue II Caminos de agua, es el quinto ejemplar de una colección de textos especializados que se publican anualmente y que están enmarcados en el eje de investigación sobre ancestralidad y tecnología de la Línea de Arte, Ciencia y Tecnología del Idartes, que busca plantear cruces y tensiones a través de las diferentes formas de ver y comprender el mundo, que amplían el concepto de tecnología a partir de perspectivas como la arqueología de medios, la revisión de tecnologías complejas y la generación de lazos con el pensamiento de las culturas y los saberes ancestrales; por medio de investigaciones con una perspectiva transdisciplinar y, a partir de 2022, que contemplen un componente transmedial.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2023",
+        "imprint": [
+          "Plataforma Bogotá",
+          "Línea Arte, Ciencia y Tecnología"
+        ],
+        "subject": "Arte, Ciencia y Tecnología",
+        "identifier": "urn:ISBN:978-628-7531-90-8",
+        "numberOfPages": 276,
+        "illustrator": [
+          "Mónica Loaiza Reina ",
+          " Asesor Gráfico: Juan Pablo Fajardo"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/CAMINOS%20DE%20AGUA-SIEMBRA-VERSION%20DIGITAL.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/CAMINOS%20DE%20AGUA-SIEMBRA-VERSION%20DIGITAL_page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:33:56Z",
+        "title": "Mihique || Suna gue || Caminos de agua - Pesca",
+        "description": "La presente investigación, titulada Mihique II Suna gue II Caminos de agua, es el quinto ejemplar de una colección de textos especializados que se publican anualmente y que están enmarcados en el eje de investigación sobre ancestralidad y tecnología de la Línea de Arte, Ciencia y Tecnología del Idartes, que busca plantear cruces y tensiones a través de las diferentes formas de ver y comprender el mundo, que amplían el concepto de tecnología a partir de perspectivas como la arqueología de medios, la revisión de tecnologías complejas y la generación de lazos con el pensamiento de las culturas y los saberes ancestrales; por medio de investigaciones con una perspectiva transdisciplinar y, a partir de 2022, que contemplen un componente transmedial.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2023",
+        "imprint": [
+          "Plataforma Bogotá",
+          "Línea Arte, Ciencia y Tecnología"
+        ],
+        "subject": "Arte, Ciencia y Tecnología",
+        "identifier": "urn:ISBN:978-628-7531-90-8",
+        "numberOfPages": 276,
+        "illustrator": [
+          "Mónica Loaiza Reina ",
+          " Asesor Gráfico: Juan Pablo Fajardo"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/CAMINOS%20DE%20AGUA-PESCA-VERSION%20DIGITAL.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/CAMINOS%20DE%20AGUA-PESCA-VERSION%20DIGITAL_page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:05Z",
+        "title": "Revista Cometa - Cuarta edición",
+        "description": "Cometa es una revista del Planetario de Bogotá donde conviven el arte, las ciencias del espacio y la divulgación. Esta edición es sobre astronáutica y sociedad.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2023",
+        "imprint": "Planetario de Bogotá",
+        "subject": "Arte, Ciencia y Tecnología",
+        "identifier": "urn:ISSN:2745-2514",
+        "numberOfPages": 24,
+        "illustrator": [
+          "Cristian Hernández"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/revista%20COMETA-4_edicion.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Portada%20-%20Revista%20COMETA-5%20de%20octubre_0.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:21Z",
+        "title": "Revista Cometa - Tercera edición",
+        "description": "Nos unimos una vez más con divulgadores para hablar sobre la labor de compartir alrededor las ciencias del espacio y para conversar sobre temas de interés para todos, especialmente para planetarios y observatorios de la región. El tema de esta edición es cambio climático y clima planetario.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2022",
+        "imprint": "Planetario de Bogotá",
+        "subject": "Arte, Ciencia y Tecnología",
+        "identifier": "urn:ISSN:2745-2514",
+        "numberOfPages": 22,
+        "illustrator": [
+          "Cristian Hernández y Johann Tarazona"
+        ],
+        "belongsTo": {
+          "collection": "Revista Cometa"
+        },
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Revista_Cometa_Tercera_Edicion.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Revista_Cometa_Tercera_Edicion_page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:24Z",
+        "title": "Tecnologías para abrazar el sol - Korolo süpüla ojüpataa ka’i",
+        "description": "La presente publicación es el cuarto ejemplar de una colección de textos especializados que se publican anualmente y que están enmarcados en el proyecto de investigación sobre tecnologías ancestrales de la Línea de Arte, Ciencia y Tecnología. Este cuarto volumen, en lengua wayuunaiki y español, recoge la investigación de Juan David Reina, con la cual propone pensar colectivamente en futuro(s), desde la creación comunitaria de tecnologías energéticas, ya sea solares, eólicas, mareomotriz y cuánticas, por medio de un trabajo que nutre procesos territoriales, desde la sistematización de procesos como el desarrollo de un cargador y lampara solar, diseñadas con las comunidades de Murúnmuke, en Magdalena y con las cuales se visibilizan acciones hacia una soberanía energética.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2022",
+        "translator": "Neko Pushiana (pueblo wayuu)",
+        "imprint": "Línea Arte, Ciencia y Tecnología",
+        "subject": "Arte, Ciencia y Tecnología",
+        "identifier": "urn:ISBN:978-628-7531-06-2",
+        "numberOfPages": 198,
+        "illustrator": [
+          "Mónica Loaiza Reina"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/TECNOLOGIAS%20PARA%20ABRAZAR%20EL%20SOL%20VERSIO%CC%81N%20DIGITAL%20.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/TECNOLOGIAS%20PARA%20ABRAZAR%20EL%20SOL%20VERSI%C3%93N%20DIGITAL%20_page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:37Z",
+        "title": "Revista Cometa - Segunda edición",
+        "description": "La revista Cometa, liderada por el Planetario de Bogotá, es una forma de hacer visible la alianza de los planetarios y observatorios fijos de Colombia y de poner en evidencia la labor y el estado de los procesos de divulgación en el país. ",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2021",
+        "imprint": "Planetario de Bogotá",
+        "subject": "Arte, Ciencia y Tecnología",
+        "identifier": "urn:ISSN:2745-2514",
+        "numberOfPages": 24,
+        "illustrator": [
+          "Cristian Hernández"
+        ],
+        "belongsTo": {
+          "collection": "Revista Cometa"
+        },
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/revista%20Planetario-junio%20-%20diciembre%202021%28lunes%2013%20de%20diciembre%29.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/revista%20Planetario-junio%20-%20diciembre%20%2829%20DE%20NOVIEMBRE%292021_page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:41Z",
+        "title": "Revista Cometa - Primera edición",
+        "description": "Esta publicación es una forma de hacer visible una alianza y de poner en evidencia la labor y el estado de los procesos de divulgación que hacen los planetarios y observatorios fijos de Colombia. La publicación será ese resplandor vivo en el que todo esto estará consignado. Los cometas, además, eran considerados mensajeros, contenedores de información como lo son las revistas.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2021",
+        "imprint": "Planetario de Bogotá",
+        "subject": "Arte, Ciencia y Tecnología",
+        "identifier": "urn:ISSN:2745-2514",
+        "numberOfPages": 24,
+        "illustrator": [
+          "Cristian Hernández"
+        ],
+        "belongsTo": {
+          "collection": "Revista Cometa"
+        },
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Revista%20Cometa-Priemra%20Edici%C3%B3n.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Revista%20COMETA-11%20de%20junio_page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:14Z",
+        "title": "Jorge Haro - El sonido visto - Una retrospectiva  [in]finita",
+        "description": "Plataforma Bogotá, Laboratorio interactivo de la Línea de Arte, Ciencia y Tecnología, es el primer y único equipamiento de carácter distrital enfocado en realizar prácticas de laboratorio que detonan cruces inter/transdisciplinares entre el arte, la ciencia y la tecnología. Este programa del Idartes, activo desde el 2011, desarrolla prácticas de experimentación en un espacio físico y virtual que ha logrado consolidar una comunidad en torno a la cultura 2.0.",
+        "author": "Hugo Druetta (ARG), Javier Piñango (ESP), José Martínez (ESP), Lidia Blanco (ESP), Jorge Barco (COL), Rodrigo Sigal (MEX), Norberto Cambiasso (ARG)",
+        "publisher": "Idartes",
+        "published": "2020",
+        "imprint": "Línea Arte, Ciencia y Tecnología",
+        "subject": "Arte, Ciencia y Tecnología",
+        "identifier": "urn:ISBN:978-958-5595-41-5",
+        "numberOfPages": 195,
+        "illustrator": [
+          "Estudio Toquica"
+        ],
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/01_Digital_Jorge%20Haro_page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:20Z",
+        "title": "Cartilla de actividades - Jessy: del agua al cielo",
+        "description": "El Planetario de Bogotá te invita a leer en familia un cuento inspirado en una mujer maravillosa y sus aventuras, exploraciones por el mar y el espacio. Ya sabes, ¡el agua y el cielo son lugares asombrosos! Que lo diga Jessica Meir, quien es bióloga marina, astronauta y acuanauta. ¿Quieres conocer más sobre la vida de esta increíble mujer? Realiza las actividades para que empieces tu entrenamiento. ¡A divertirte en familia!",
+        "author": "Katherine Mosquera, Carolina Pulido, Yesica Romero, Wyndy Ruiz",
+        "publisher": "Idartes",
+        "published": "2020",
+        "imprint": "Planetario de Bogotá",
+        "subject": "Arte, Ciencia y Tecnología",
+        "numberOfPages": 18,
+        "illustrator": [
+          "Cristian Hernández"
+        ],
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/jessi--del-agua-al-cielo%20%281%29-min.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:21Z",
+        "title": "Cuento - Jessy: del agua al cielo",
+        "description": "El Planetario de Bogotá te invita a leer en familia un cuento inspirado en una mujer maravillosa y sus aventuras, exploraciones por el mar y el espacio. Ya sabes, ¡el agua y el cielo son lugares asombrosos! Que lo diga Jessica Meir, quien es bióloga marina, astronauta y acuanauta. ¿Quieres conocer más sobre la vida de esta increíble mujer? Realiza  las actividades para que empieces tu entrenamiento. ¡A divertirte en familia!",
+        "author": "Katherine Mosquera, Carolina Pulido, Yesica Romero, Wyndy Ruiz",
+        "publisher": "Idartes",
+        "published": "2020",
+        "imprint": "Planetario de Bogotá",
+        "subject": "Arte, Ciencia y Tecnología",
+        "numberOfPages": 18,
+        "illustrator": [
+          "Cristian Hernández"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Cuento%20JESSY.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Jessydelagualcielo%20%281%29.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:27Z",
+        "title": "El reloj de la abeja Aleja - Cartilla de actividades",
+        "description": "¿Alguna vez te has preguntado cómo miden el tiempo los demás animales? ¿Será que también usan reloj?. Te invitamos a disfrutar este material, será un viaje mágico lleno de aventuras vividas por Aleja, una abeja muy curiosa que junto a sus amigos nos ayudarán a resolver el misterio. Realiza las actividades.",
+        "publisher": "Idartes",
+        "published": "2020",
+        "imprint": "Planetario de Bogotá",
+        "subject": "Arte, Ciencia y Tecnología",
+        "numberOfPages": 4,
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Aleja%20la%20abeja%20%20-%20actividades.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/aleja-la-abeja---portada.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:28Z",
+        "title": "El reloj de la abeja Aleja - Glosario lengua de señas",
+        "description": "¿Alguna vez te has preguntado cómo miden el tiempo los demás animales? ¿Será que también usan reloj?. Te invitamos a disfrutar este material, será un viaje mágico lleno de aventuras vividas por Aleja, una abeja muy curiosa que junto a sus amigos nos ayudarán a resolver el misterio.",
+        "publisher": "Idartes",
+        "published": "2020",
+        "imprint": "Planetario de Bogotá",
+        "subject": "Arte, Ciencia y Tecnología",
+        "numberOfPages": 7,
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/%20glosario%20en%20lengua%20de%20sen%CC%83as.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/aleja-la-abeja---portada.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:29Z",
+        "title": "Cuento - El reloj de la abeja Aleja",
+        "description": "¿Alguna vez te has preguntado cómo miden el tiempo los demás animales? ¿Será que también usan reloj?. Te invitamos a disfrutar este magnífico cuento, será un viaje mágico lleno de aventuras vividas por Aleja, una abeja muy curiosa que junto a sus amigos nos ayudarán a resolver el misterio. No te pierdas la oportunidad de realizar un maravilloso recorrido por el mundo de Aleja la abeja. ",
+        "author": "Wyndy Ruiz - Nestor Prada - Yesica Romero - Carolina Pulido",
+        "publisher": "Idartes",
+        "published": "2020",
+        "imprint": "Planetario de Bogotá",
+        "subject": "Arte, Ciencia y Tecnología",
+        "numberOfPages": 6,
+        "illustrator": [
+          "Cristian Hernández"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Aleja%20la%20abeja.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/aleja.jpeg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:30Z",
+        "title": "Aproximación a una historia del videoarte en Colombia 1976-2000",
+        "description": "Aproximación a una historia del videoarte en Colombia 1976-2000 resulta de una investigación del videoartista y profesor Gilles Charalambos Bruyère en la cual se hace una compilación de artistas, hechos, eventos, nombres y reflexiones sobre obras concernientes al videoarte en Colombia, narrada de modo cronológico desde el año 1976 hasta el 2000. Charalambos es uno de los videoartistas con mayor experiencia en el medio artístico colombiano, contribuyendo a la realización de la investigación como videoartista, conferencista y promotor de los principales eventos y publicaciones sobre videoarte que se han llevado a cabo en el país.",
+        "author": "Gilles Charalambos. Asistente de investigación: Nalsy Boude Figueredo",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Línea Arte, Ciencia y Tecnología",
+        "subject": "Arte, Ciencia y Tecnología",
+        "identifier": "urn:ISBN:978-958-5487-85-7",
+        "numberOfPages": 126,
+        "illustrator": [
+          "La Silueta"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/AF-Aproximaciones_a_una_historia_del_videoarte_libro_2019.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/AF-Aproximaciones_a_una_historia_del_videoarte_libro%202023_page-0003%20Large.jpeg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:34Z",
+        "title": "Planetario de Bogotá, mucho más que estrellas. 50 años (1969-2019)",
+        "description": "En este libro se presenta la historia y evolución del Planetario de Bogotá, que lleva cincuenta años trabajando para ser el gran escenario divulgador del conocimiento de la astronomía y el espacio en la ciudad y el país; pero también se muestra la perspectiva de diferentes personas que han tenido algún vínculo con el equipamiento, alrededor de diversos asuntos. Entre ellos se pueden enumerar, entre otros, temas como la relación del Planetario con la comunidad astronómica aficionada; el Planetario y su relación con los docentes de educación básica primaria y secundaria o el Planetario como escenario inspirador de vocaciones científicas; además de la relación entre astronomía e inclusión, o el uso de la astronomía como herramienta para la enseñanza de las ciencias.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Planetario de Bogotá",
+        "subject": "Arte, Ciencia y Tecnología",
+        "identifier": "urn:ISBN:978-958-5487-87-1",
+        "numberOfPages": 162,
+        "illustrator": [
+          "Jimena Loaiza"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/planetario_50an%CC%83os_web_sep27.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/portada_planetario_50an%CC%83os_web_sep27.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:34Z",
+        "title": "Curación como tecnología. Basado en entrevistas a sabedores de la Amazonía",
+        "description": "¿Qué relación existe entre el rayo y la enfermedad? ¿Entre el canto de un ave en la chagra al amanecer y el cambio climático?¿Entre la memoria y una corona de plumaje? ¿Entre la curación y el espectro lumínico? ¿Entre los patrones del tejido de carana del techo de una maloka y una procesadora de datos digital? Las respuestas cintilan en esta investigación empírica gracias a las vivencias con distintos sabedores y sabedoras de la Amazonia que han ampliado la forma de percibir el mundo de toda una generación de artistas, académicos, personas y comunidades en el país que hoy comprenden la selva como una cuenca/cuenco de saberes milenarios para mantener el equilibro entre los seres humanos y las naturalezas.",
+        "author": "Bárbara Santos",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Línea Arte, Ciencia y Tecnología",
+        "subject": "Arte, Ciencia y Tecnología",
+        "identifier": "urn:ISBN:978-958-5487-63-5",
+        "numberOfPages": 112,
+        "illustrator": [
+          "Mónica Loaiza",
+          "Bárbara Santos"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/8%20CURACIO%E2%95%A0%C3%BCN%20COMO%20TECNOLOGIA_Linea%2C%20arte%2C%20ciencia%20y%20tec_DIGITAL.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-13%20a%20la%28s%29%2021.30.20.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:36Z",
+        "title": "Bajo el signo del rayo. Iconología de un arquetipo de los dioses del rayo",
+        "description": "Esta investigación del artista Gilles Charalambos, quien ha estado inmerso en una rigurosa investigación iconológica en torno a un signo que representa a los dioses del rayo y que lo ha llevado a hacer una extensa pesquisa alrededor del mundo, logra concebir un extenso campo epistemológico que comprende desde la revisión de información arqueológica hasta profundos estudios sobre hechos históricos y mitologías, procesos físicos y eléctricos, así como el levantamiento de un extenso archivo audiovisual que le ha permitido desarrollar un nuevo campo creativo entre lo artístico y lo científico, a partir de documentos textuales, ponencias y experimentación con fotografía y video, entre otros.",
+        "author": "Gilles Charalambos",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Línea Arte, Ciencia y Tecnología",
+        "subject": "Arte, Ciencia y Tecnología",
+        "identifier": "urn:ISBN:978-958-5487-79-6",
+        "numberOfPages": 160,
+        "illustrator": [
+          "Mónica Loaiza"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/2%20Bajo%20el%20signo%20del%20rayo_Linea%2C%20arte%2C%20ciencia%20y%20tec_DIGITAL.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-08%20a%20la%28s%29%2017.00.46.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:38Z",
+        "title": "Astronomía y apropiación de la cultura científica: una apuesta del Planetario de Bogotá",
+        "description": "En esta publicación se presentan los logros, obstáculos y desafíos con los que se encuentra un equipo de profesionales al transitar la ruta de diseño e implementación del Centro de Interés en Astronomía del Planetario de Bogotá. Asimismo, se detallan las actividades de evaluación, armonización y articulación curricular asociadas a la propuesta pedagógica, aportando diferentes posibilidades de evidencia, medición e impacto. Se invita a la lectura de esta publicación a personas inquietas por proponer, diseñar y ejecutar propuestas pedagógicas novedosas, esperando que esta apuesta sea replicada y ajustada según dinámicas contextuales diferentes.",
+        "author": "Luz Betty Oñate Parra/Luz Helena Santos Flórez/Cristián Eduardo Vargas Ordóñez",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Planetario de Bogotá",
+        "subject": "Arte, Ciencia y Tecnología",
+        "identifier": "urn:ISBN:978-958-5595-11-8",
+        "numberOfPages": 148,
+        "illustrator": [
+          "Mónica Loaiza",
+          "David Reyes"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/15_pi%20Astronomia%20y%20apropiacion.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-11%20a%20la%28s%29%2016.58.46.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:42Z",
+        "title": "Actitudes, emociones y naturaleza de la ciencia en la educación científica",
+        "description": "Esta obra busca ampliar la visión de los educadores sobre la evaluación al mostrar experiencias concretas de un proceso de enseñanza de las ciencias realizado por el Planetario de Bogotá en varios colegios públicos de la ciudad. Las experiencias presentadas enfatizan la importancia de considerar las actitudes hacia la ciencia, las emociones relacionadas con los procesos de enseñanza-aprendizaje y la naturaleza de la ciencia como parte fundamental de la educación científica y de la evaluación de los procesos asociados a esta. Además de abordar los resultados del proceso diagnóstico inicial, en el texto se formulan algunas reflexiones sobre los hallazgos y se dan a conocer los instrumentos utilizados con la intención de que estas herramientas puedan ser usadas por profesores y educadores en su contexto como medios para evaluar los aspectos emocionales y actitudinales y para contribuir a la exploración de las concepciones que tienen sus estudiantes sobre la ciencia y los científicos.",
+        "author": "Luis C. J. Ramírez Olaya/Gonzalo Peñaloza Jiménez/Pablo Julián Moreno",
+        "publisher": "Idartes",
+        "published": "2018",
+        "imprint": "Planetario de Bogotá",
+        "subject": "Arte, Ciencia y Tecnología",
+        "identifier": "urn:ISBN:978-958-5487-18-5",
+        "numberOfPages": 152,
+        "illustrator": [
+          "Mónica Loaiza"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/14%20Actitudes%2C%20Emociones%20y%20Naturaleza%20de%20la%20Ciencia-%20Planetario%20de%20Bogota%20DIGITAL.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-13%20a%20la%28s%29%2022.06.00.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:42Z",
+        "title": "Máquinas de visión y espíritu de indios. Seis ensayos de antropología visual",
+        "description": "Destaca las condiciones, las prácticas, los aparatos y las representaciones que están en la base del mirar y de lo mirado que propone este entrecruzamiento. La visualidad, entendida menos como la construcción social de la visión y más como la construcción visual de lo social, se refiere no solamente a lo que los no indios miran, definen, practican y representan, sino también a lo que los indios miran, dicen y hacen con las imágenes que otros producen y con aquellas que son producidas por ellos. Por su parte, la indianidad es un dispositivo perceptivo, representacional y discursivo en perpetuo movimiento que hace parte del denominado régimen escópico, es decir, un modo de ver (en este caso a los «otros-indios») en una determinada época. Este «régimen de visión» u «ojo de la época» se refiere, en estricto sentido, a la cultura visual en un tiempo concreto.",
+        "author": "Pablo Mora Calderón",
+        "publisher": "Idartes",
+        "published": "2018",
+        "imprint": "Línea Arte, Ciencia y Tecnología",
+        "subject": "Arte, Ciencia y Tecnología",
+        "identifier": "urn:ISBN:978-958-8997-78-0",
+        "numberOfPages": 160,
+        "illustrator": [
+          "Mónica Loaiza"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/9%20MA%E2%95%A0%C3%BCQUINAS%20DE%20VISIO%E2%95%A0%C3%BCN%20Linea%2C%20arte%2C%20ciencia%20y%20tec_DIGITAL.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-13%20a%20la%28s%29%2021.46.54.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:43Z",
+        "title": "El hombre en la Luna. 50 años 1969-2019",
+        "description": "El milenario sueño del ser humano por viajar al espacio, a la Luna y los planetas se hizo realidad gracias al cúmulo de conocimientos adquiridos durante siglos de avances tecnológicos y a la decisión de una nación de involucrar inmensos recursos humanos y financieros para obtener uno de los grandes logros de la humanidad. En 2019 se cumplieron los 50 años de la misión Apolo 11 en la Luna, una prueba más de la capacidad de la humanidad para hacer realidad las ideas más fantásticas.",
+        "author": "Germán Puerta Restrepo",
+        "publisher": "Idartes",
+        "published": "2018",
+        "imprint": "Planetario de Bogotá",
+        "subject": "Arte, Ciencia y Tecnología",
+        "identifier": "urn:ISBN:978-958-5487-24-6",
+        "numberOfPages": 86,
+        "illustrator": [
+          "Jimena Loaiza"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/ETripalHombreenlaLuna.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-11%20a%20la%28s%29%2017.00.09.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:52Z",
+        "title": "Plataforma Bogotá: encuentros cercanos con las artes digitales",
+        "description": "Una publicación de tres tomos que recopila las creaciones desarrolladas entre 2012 y 2015 en Plataforma Bogotá. Los textos proponen una reflexión sobre la lógica de los laboratorios interactivos, desde la crónica, la entrevista y el relato. Plataforma Bogotá fue creada para apoyar la producción, investigación, formación y divulgación del arte, la ciencia y la cultura digital en ambientes interdisciplinarios que reúnen públicos de todas las edades y especialistas de todas las ramas del conocimiento y las artes, interesados en desarrollar proyectos y prototipos a través del software libre, el código abierto y el conocimiento digital.",
+        "author": "Enrique Rodríguez, Ana María Lozano",
+        "publisher": "Fundación Gilberto Alzate Avendaño",
+        "published": "2016",
+        "imprint": [
+          "Plataforma Bogotá",
+          "Línea Arte, Ciencia y Tecnología"
+        ],
+        "subject": "Arte, Ciencia y Tecnología",
+        "identifier": "urn:ISBN:978-958-8471-80-0",
+        "numberOfPages": 170,
+        "illustrator": [
+          "La Silueta"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Encuentros_Cercanos.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Encuentros_Cercanos_page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,930 @@
+{
+  "metadata": {
+    "title": "Danza",
+    "numberOfItems": 29
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://localhost:8000/catalogs/danza.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:33:50Z",
+        "title": "Salones de Baile",
+        "description": "Los Salones de Baile se implementan en el marco del Plan Distrital de Desarrollo Bogotá Camina Segura, tienen como propósito aportar a la salud y al bienestar de las personas desde el disfrute y la práctica del baile social.",
+        "author": "Varios Autores",
+        "published": "2024",
+        "imprint": "Gerencia de Danza",
+        "subject": "Danza",
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/CATALOGO_Salones-de-Baile.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/CATALOGO_Salones%20de%20Baile_page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:33:53Z",
+        "title": "Metodologías de Investigación. Creación basada en experiencias sensibles",
+        "description": "Esta investigación pretende poner en práctica un diseño metodológico que, de manera posterior, será el punto de partida del proceso creativo, el cual está conformado por cinco guías de exploración sensorial que se han trabajado desde comienzos de 2021, centrada cada una en un sentido -gusto, olfato, oído, tacto y visión- y acompañadas de un instructivo para el orientador. Este material, aunque diseñado con sencillez, encarna todo el acervo conceptual expuesto y pretende además funcionar como detonante en cualquier escenario disciplinar o creativo. Ahora bien, ¿por qué plantearnos un diseño metodológico que esté centrado en la experiencia sensible?. Precisamente, es gracias a la experiencia que hemos tenido bailando en diferentes compañías a lo largo de nuestra formación, que podemos afirmar que, en casi todos estos procesos, nos hemos encontrado con un método de creación que explora el movimiento desde la forma; es decir, que parte de técnicas corporales que han sido impuestas académicamente como el Ballet, Graham, Limón y las diferentes técnicas de danza moderna y contemporánea. Lo anterior no significa que estemos en contra de ninguna técnica corporal, por el contrario, éstas han sido parte fundamental de nuestro proceso formativo.",
+        "author": "Andrea Carolina Rodríguez Molina",
+        "publisher": "Idartes",
+        "published": "2023",
+        "imprint": "Gerencia de Danza",
+        "subject": "Danza",
+        "identifier": "urn:ISBN:978-628-7531-99-4",
+        "numberOfPages": 148,
+        "illustrator": [
+          "Sara Palacios - Coordinación en Diseño ",
+          " David Santiago Ochoa Baquero - Diseño e ilustración de carátula"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/V11-Creacion-Basada-en-experiencias-Sensibles-DIGITAL.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/V11-Creacion-Basada-en-experiencias-Sensibles-DIGITAL_page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:33:57Z",
+        "title": "Tránsitos de la investigación en danza volúmen VII",
+        "description": "Este volumen expone reflexiones resultantes de encuentros de comunidades específicas de la danza y la incidencia de esta disciplina en las transformaciones sociales. Así, sobre las personas mayores se abordan las características particulares de la danza que realizan y las metodologías de composición utilizadas, además de los efectos positivos de la danza en la salud. Igualmente, se recogen las voces de comunidades afro de la danza que se expresaron en el Primer Foro Afro 2018, Ética, estética y política de la danza afro, y el Segundo Foro Afro 2019, Cuerpos, prácticas y territorios. También, es evocado el legado de los maestros de la acrobacia Bboy Red Pollo y Bboy Huracán; se presentan la primera encuesta de reconocimiento del sector de la danza que se mueve en torno a La Casona de la Danza y los perfiles de los miembros del Consejo Distrital de Danza. ",
+        "author": "Hanz Plata, Diana Paola Peraza, Claudia Angélica Gamba, Alejandra Pineda, Diego García, John Jairo Salamanca, Oscar De Salvador",
+        "publisher": "Publicaciones Idartes",
+        "published": "2023",
+        "imprint": "Gerencia de Danza",
+        "subject": "Danza",
+        "identifier": "urn:ISSN:2538-9637",
+        "numberOfPages": 160,
+        "illustrator": [
+          "Edgar Ordóñez Nates ",
+          " Corrección de estilo - Mónica Loaiza Reina ",
+          " Diseño - Juan Santacruz ",
+          " Fotografía archivo Idartes"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Transitos%20VOL-VII%20MLR%2020-09-23%20%282%29.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Transitos%20VOL-VII%20MLR%2020-09-23%20%282%29_page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:33:57Z",
+        "title": "Tránsitos de la investigación en danza volumen VI",
+        "description": "Este volumen se centra en las memorias y los resultados de los seminarios de investigación, así como en procesos y entrevistas realizados en el 2017 y el 2018 y abarca una gran diversidad de temas tratados desde diferentes enfoques organizados en cinco partes: La primera, llamada “Encuentros”, recoge las memorias y los hallazgos de cuatro procesos: el semillero “Habitar mi cuerpo”, una entrevista a la agrupación de folclor Cochaviva, las memorias del Encuentro de Escuelas de Danza Española y Flamenco en Bogotá del año 2018, y los avances que ha tenido la Mesa de Cultura del Sistema Universitario Estatal (SUE) con la apuesta “Danza para estar bien”. La segunda parte, “Tradición y memoria”, expone los avances del semillero de investigación “Tradición y memoria”. Sigue una tercera parte titulada “Universidades”, que comprende dos documentos: el primero, muestra los resultados de la caracterización del campo de la danza realizada en articulación con la Mesa de Universidades; el segundo, expone los avances de la Mesa de Universidades y su participación en el Encuentro Nacional de Danza Miradas Éticas, Políticas y Estéticas del 2018. “Archivo vivo” es el título de la cuarta parte del volumen. Finalmente, en la quinta parte, “Danza y salud”, se enfocan la danza y el movimiento desde una cultura del aprendizaje y se cuestiona la cultura del esfuerzo, se desarrollan conceptos como el aprendizaje, el autocuidado y la autoimagen.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2023",
+        "imprint": "Gerencia de Danza",
+        "subject": "Danza",
+        "identifier": "urn:ISSN:2538-9637",
+        "numberOfPages": 108,
+        "illustrator": [
+          "Mónica Loaiza Reina"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Danza-Ciudad-Transitos.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Danza-Ciudad-Transitos_page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:33:58Z",
+        "title": "Danza y mediación",
+        "description": "Entre los años 2017 y 2018 se desarrolló un espacio de investigación llamado Danza y Mediación, propuesto por la Gerencia de Danza del Idartes, en articulación con semilleros de investigación de programas académicos en artes escénicas o danza de la ciudad, participantes en la mesa de universidades compuesta por la Universidad Pedagógica Nacional, la Corporación Universitaria CENDA, la Pontificia Universidad Javeriana, la Universidad Antonio Nariño y la Universidad El Bosque. El proceso desarrollado en el semillero Danza y Mediación nace de la propuesta de abrir un espacio de diálogo de mutuo reconocimiento y acercamiento entre  maestros, estudiantes, artistas, obras de danza y públicos. El objetivo es lograr que los públicos se acerquen y observen la obra de danza a través de una experiencia previa aproximativa y sensibilizadora que ofrece mecanismos sensoriales y empáticos para entender y percibir la obra más allá de un programa de mano que a veces no puede dar cuenta del universo sensible y significativo que encierra una obra de danza.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2023",
+        "imprint": "Gerencia de Danza",
+        "subject": "Danza",
+        "identifier": "urn:ISBN:978-628-7531-17-8",
+        "numberOfPages": 86,
+        "illustrator": [
+          "Mónica Loaiza Reina  Diseño ",
+          " Semillero de Investigación en Artes– Siembra Fotografía de portada"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/DANZA%20Y%20MEDIACION.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/DANZA%20Y%20MEDIACION%20Coleccion%20danza%20digital%2010-04-23%20%281%29_compressed_page-0001_0.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:04Z",
+        "title": "Museo cuerpos para la empatía",
+        "description": "Desde 2016, Embodying Reconciliation (Cuerpos para la Reconciliación) se ha dedicado de manera independiente a la investigación corporal, artística y académica para desarrollar alternativas que promuevan el bienestar personal y colectivo en diferentes sectores, tanto dentro como fuera del país. En 2019, gracias a la sincronía de afortunadas situaciones, un grupo de artistas y humanistas provenientes de lugares y disciplinas muy diversas (Colombia, Costa Rica, Hungría e Italia) se unió para nutrir este sueño llamado Museo Cuerpos para la Empatía.",
+        "author": "Diana Teresa Gutiérrez García",
+        "published": "2023",
+        "imprint": "Gerencia de Danza",
+        "subject": "Danza",
+        "identifier": "urn:ISBN:978-628-7531-16-1",
+        "numberOfPages": 130,
+        "illustrator": [
+          "Mónica Loaiza Reina ",
+          " Sergio Rozo"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/VERSION%20WEB%20MUSEO%20CUERPOS%20danza.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/VERSION%20WEB%20MUSEO%20CUERPOS%20%282%29%20%281%29_page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:06Z",
+        "title": "Memoria de un cuerpo plural. Danza común: tres décadas",
+        "description": "En la memoria, cuatro palabras pueden desplegar la historia toda de la existencia humana. Es por eso que no basta sino abrir un pequeño resquicio para después acabar perdidos en la inmensidad. De alguna manera, la memoria que aquí se presenta es eso: un océano sin contornos, un sueño de capas superpuestas, una mitología fractal en la que cualquier punto, sin excepción, acaba siendo el inicio de un nuevo relato.",
+        "author": "Rodrigo Estrada",
+        "published": "2023",
+        "imprint": "Gerencia de Danza",
+        "subject": "Danza",
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/VERSION%20WEB%20MEMORIAS%20DE%20UN%20CUERPO%202023.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/VERSION%20WEB%20MEMORIAS%20DE%20UN%20CUERPO%202023_page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:06Z",
+        "title": "Experiencias de eje-s",
+        "description": "¿Cómo sería moverse si imaginamos o sentimos que los huesos flotan? ¿Cambiaría la cualidad de movimiento, el eje o la forma de entrenar? ¿Cómo sería si imaginamos, sentimos y exploramos que en el cuerpo existen diafragmas horizontales que suspenden las estructuras a diversos niveles y crean cambios de presión entre los espacios? ¿O si imaginamos que antes de haber columna, en la evolución, ya existía el tubo digestivo; o que los movimientos del embrión necesarios para su desarrollo continúan en la vida adulta? Esto es dancísticamente interesante como puerta de entrada que reformula la técnica o la revela, y abre puertas creativas propias y singulares para cada uno/a. Estas y otras preguntas dirigen esta investigación en la que se encuentran la anatomía, la danza y la somática.",
+        "author": "Haike Irina Amelia Stollbrock Trujillo",
+        "publisher": "Idartes",
+        "published": "2023",
+        "imprint": "Gerencia de Danza",
+        "subject": "Danza",
+        "identifier": "urn:ISBN:978-628-7531-19-2",
+        "numberOfPages": 104,
+        "illustrator": [
+          "Mónica Loaiza Reina Diseño"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/VERSION%20WEB%20Experiencias%20de%20Eje-s%20.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/VERSION%20WEB%20Experiencias%20de%20Eje-s%20_page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:07Z",
+        "title": "#Elbailenosune. Experiencias corporales y prácticas afectivas en la academia Son de Habana antes y durante la crisis por el COVID-19",
+        "description": "¿Cómo es eso de que el baile nos une? ¿A quiénes y cómo nos une? Esta es una de las cuestiones fundamentales que han inquietado a la autora de esta investigación desde mucho antes de que todo cambiara con la pandemia del Covid-19, cuando se preguntaba por las historias, las motivaciones y los intereses que permitían que personas tan distintas confluyeran en un lugar como Son de Habana. ¿Qué podían aportar estas circunstancias a la comprensión de nuestros sentidos y sentires relacionados con el baile?",
+        "author": "Andrea Ramírez Rojas",
+        "publisher": "Idartes",
+        "published": "2023",
+        "imprint": "Gerencia de Danza",
+        "subject": "Danza",
+        "identifier": "urn:ISBN:978-628-7531-77-2",
+        "numberOfPages": 191,
+        "illustrator": [
+          "Mónica Loaiza Reina"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/VERSION%20WEB%20EL%20BAILE%20NOS%20UNEpdf.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/VERSION%20WEB%20EL%20BAILE%20NOS%20UNEpdf_page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:08Z",
+        "title": "Ficción Dorada: Danza, folclorización e identidad",
+        "description": "Se trata del resultado de una investigación en torno a la puesta en escena de danza emblemática de la La Leyenda de El Dorado, creada y ejecutada por el Ballet Nacional de Colombia Sonia Osorio, que se fue constituyendo como un hito en Colombia, un referente constantemente habitado por compañías de danza, montajes de región y colegios, y reconocida como -dice el autor- \"representante de la cultura muisca\". Desde este abordaje el autor profundiza en conceptos y aclaraciones en torno al folclor, la folclorización y la relación de la danza con la identidad en Colombia.",
+        "author": "Raúl Parra Gaitán",
+        "publisher": "Idartes",
+        "published": "2023",
+        "imprint": "Gerencia de Danza",
+        "subject": "Danza",
+        "identifier": "urn:ISBN:978-268-7531-96-3",
+        "numberOfPages": 294,
+        "illustrator": [
+          "Vualadd"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Ficcio%CC%81n%20Dorada%20-%20Digital.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Portada%20Ficcio%CC%81n%20Dorada.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:10Z",
+        "title": "La danza folclórica, andando por Bogotá",
+        "description": "Este documento es un ejercicio de memoria producto del componente académico del Festival Bogotá, Ciudad de Folclor en los años 2017 y 2019. Andando recoge las reflexiones sobre El saber, el hacer y el ser de la danza folclórica disponiendo los trayectos transitados y las posibilidades de conceptualización, práctica e intenciones que alimenten las dinámicas del género en la ciudad, involucrando la comunidad, las personas ciudadanas y la ciudad misma.",
+        "author": "Karina García, Ferney Pinzón, Hanz Plata, Felipe Lozano, Abelardo Jaimes, Paola Chaves",
+        "publisher": "Idartes",
+        "published": "2023",
+        "imprint": "Gerencia de Danza",
+        "subject": "Danza",
+        "identifier": "urn:ISBN:978-628-7531-15-4",
+        "numberOfPages": 202,
+        "illustrator": [
+          "Mónica Loaiza Reina"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/LA%20DANZA%20ANDANDO%20FINAL%2029-03-23%20%281%29%20%281%29_compressed.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/LA%20DANZA%20ANDANDO%20FINAL%2029-03-23%20%281%29%20%281%29_compressed_page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:37Z",
+        "title": "Entre tradición y contemporaneidad - Análisis de las tendencias escénicas de la danza tradicional en Bogotá y su relación con las políticas distritales de estímulos",
+        "description": "Esta investigación busca analizar la tensión entre la tradición y la contemporaneidad, en el marco de las diferentes dinámicas y relaciones que surgen entre los agentes del subcampo de las prácticas artísticas de la danza tradicional colombiana en torno a las políticas de estímulos en Bogotá. El libro hace una contextualización para mostrar cómo el pensamiento moderno ha establecido y remarcado esta tensión. Se presentan las diferentes tendencias de las prácticas artísticas de proyección escénica de la danza tradicional colombiana, caracterizándolas a partir de las entrevistas realizadas a varios directores(as). También, se analiza el Programa Distrital de Estímulos como parte de las políticas culturales y públicas de Bogotá, y se observan los diferentes procesos de estímulos que se han llevado a cabo y que han estado enfocados en la danza tradicional colombiana, y la relación de los procesos de creación con las condiciones de producción. Finalmente, se estudian las relaciones entre las políticas y las prácticas artísticas, mostrando cómo las convocatorias de estímulos influyen en la selección de un tipo de tendencia específica de puesta en escena de la danza tradicional colombiana, y dejan a un lado otras tendencias lo que, a la vez, refuerza la tensión interna entre lo tradicionalista y lo contemporáneo.",
+        "author": "Ana Cecilia Vargas Núñez y José Ignacio Toledo Aranda",
+        "publisher": "Idartes",
+        "published": "2021",
+        "imprint": "Gerencia de Danza",
+        "subject": "Danza",
+        "identifier": "urn:ISBN:978-958-5595-69-9",
+        "numberOfPages": 172,
+        "illustrator": [
+          "Mónica Loaiza"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Entre%20tradicio_n%20y%20contemporaneidad%20WEB.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Entre%20tradicio_n%20y%20contemporaneidad%20SENCILLA.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:38Z",
+        "title": "XI Festival Danza en la ciudad - Diálogos en movimiento",
+        "description": "El Festival Danza en la Ciudad-Bogotá en Movimiento, la principal apuesta anual de la Gerencia de Danza del Instituto Distrital de las Artes - Idartes, hace posible que el espectáculo de la danza se tome la ciudad en una fiesta que congrega cientos de artistas nacionales e internacionales en teatros, tarimas, escenarios y espacios públicos.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2021",
+        "imprint": "Gerencia de Danza",
+        "subject": "Danza",
+        "identifier": "urn:ISBN:978-958-5595-84-2",
+        "numberOfPages": 248,
+        "illustrator": [
+          "David Reyes"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Danza%20en%20la%20ciudad%202018_web.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/car%20Danza%20en%20la%20ciudad%202018_frente.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:38Z",
+        "title": "Memoria Orbitante - 2020",
+        "description": "Orbitante - Plataforma Danza Bogotá es un programa del Instituto Distrital de las Artes, Idartes, implementado en el año 2019 por la Gerencia de Danza en la ciudad de Bogotá, con el apoyo del aliado estratégico Corporación Topofilia.  Orbitante tiene como objetivo fomentar la creación y dinamizar el campo profesional de la danza desde perspectivas diversas, autónomas y colaborativas. A través de estrategias, mecanismos de fomento diversos y cinco líneas de acción, Orbitante se comprende como un entramado de relaciones entre las prácticas, los agentes, las ciudadanías y las instituciones. Este número presenta las memorias del vertiginoso año 2020 al interior de la Plataforma Orbitante como un ejercicio de conversación sostenida, con sus luces y sombras, con las preguntas que emergen, las que quedan abiertas esperando que en los años siguientes este se consolide como un proyecto transformador de la danza en la ciudad desde su propio corazón, que es la creación.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2021",
+        "imprint": "Gerencia de Danza",
+        "subject": "Danza",
+        "numberOfPages": 82,
+        "illustrator": [
+          "Miguel Andrés Prieto"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/MEMORIA%20ORBITANTE%202020-final%20%281%29.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Orbitante2020ISSN%201.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:07Z",
+        "title": "V Festival Danza en la Ciudad",
+        "description": "",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2012",
+        "imprint": "Gerencia de Danza",
+        "subject": "Danza",
+        "numberOfPages": 120,
+        "illustrator": [
+          "Jimena Loaiza Reina"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/catalogo-internas%20%281%29.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-07%20a%20la%28s%29%2013.15.37.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:07Z",
+        "title": "Programa de mano. Coreografías colombianas que hicieron historia",
+        "description": "Libro editado por Idartes y Ministerio de Cultura en asocio con Urdimbre.",
+        "author": "Varios Autores",
+        "publisher": "Alambique",
+        "published": "2012",
+        "imprint": "Gerencia de Danza",
+        "subject": "Danza",
+        "identifier": "urn:ISBN:978-958-57317-1-4",
+        "numberOfPages": 218,
+        "illustrator": [
+          "Yessica Acosta Molina"
+        ],
+        "language": "es"
+      },
+      "links": [],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-07%20a%20la%28s%29%2013.11.14.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:07Z",
+        "title": "Tránsitos de la investigación en danza: Parte 3 - 2012",
+        "description": "Encuentros y reflexiones en torno al saber del cuerpo, la creación, la tradición y la memoria.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2012",
+        "imprint": "Gerencia de Danza",
+        "subject": "Danza",
+        "identifier": "urn:ISBN:978-958-58175-9-3",
+        "numberOfPages": 142,
+        "illustrator": [
+          "Rafael Duarte Uriza"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Transitos%20Digital%20Mayo%20N%C2%BA3.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-06%20a%20la%28s%29%2021.44.53.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:11Z",
+        "title": "Tránsitos de la investigación en danza: Parte 1 - 2010",
+        "description": "Encuentros y reflexiones en torno al saber del cuerpo, la creación, la tradición y la memoria.",
+        "author": "Varios Autores",
+        "publisher": "Alambique",
+        "published": "2011",
+        "imprint": "Gerencia de Danza",
+        "subject": "Danza",
+        "identifier": "urn:ISBN:978-958-57259-0-4",
+        "numberOfPages": 142,
+        "illustrator": [
+          "Rafael Duarte Uriza"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/0000000980-transitos%2B1%2Bdigital.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-06%20a%20la%28s%29%2021.50.54.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:11Z",
+        "title": "Tránsitos de la investigación en danza: Parte 2 - 2011",
+        "description": "Encuentros y reflexiones en torno al saber del cuerpo, la creación, la tradición y la memoria.",
+        "author": "Varios Autores",
+        "publisher": "Alambique",
+        "published": "2011",
+        "imprint": "Gerencia de Danza",
+        "subject": "Danza",
+        "identifier": "urn:ISBN:978-958-57259-1-1",
+        "numberOfPages": 134,
+        "illustrator": [
+          "Rafael Duarte Uriza"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/0000000980-transitos%2B2%2Bdigital.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-06%20a%20la%28s%29%2021.32.31.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:11Z",
+        "title": "Cartilla de herramientas pedagógicas para la danza",
+        "description": "El Instituto Distrital de las Artes – Idartes, como parte de su misión de fomentar la cualificación de la enseñanza de la danza y de generar espacios y actividades para que niños, niñas y jóvenes se aproximen a este arte, viene realizando desde 2011 en la Casona de la Danza “ Espacio de Vida y Movimiento” los programas “Talleres para formadores de danza”, “Danza y salud” y “Primeros Saltos”.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2011",
+        "imprint": "Gerencia de Danza",
+        "subject": "Danza",
+        "numberOfPages": 134,
+        "illustrator": [
+          "David Rojas León ",
+          " Vivian Lizeth Peña"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/cartilla_herramientas_pedagogicas_para_la_danza.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-06%20a%20la%28s%29%2021.06.08.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:16Z",
+        "title": "Memoria Orbitante - 2019",
+        "description": "Orbitante - Plataforma Danza Bogotá es un programa del Instituto Distrital de las Artes, Idartes, implementado en el año 2019 por la Gerencia de Danza en la ciudad de Bogotá, con el apoyo del aliado estratégico Corporación Topofilia. Orbitante tiene como objetivo fomentar la creación y dinamizar el campo profesional de la danza desde perspectivas diversas, autónomas y colaborativas. A través de estrategias, mecanismos de fomento diversos y cinco líneas de acción, Orbitante se comprende como un entramado de relaciones entre las prácticas, los agentes, las ciudadanías y las instituciones. Esta memoria es el resultado de la experiencia vivida en el primer año de su implementación (2019).",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2020",
+        "imprint": "Gerencia de Danza",
+        "subject": "Danza",
+        "identifier": "urn:ISBN:978-958-5595-37-8",
+        "numberOfPages": 195,
+        "illustrator": [
+          "Yesica Acosta"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/MEMORIA%20ORBITANTE%20V1.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/MEMORIA%20ORBITANTE%20V1-1.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:33Z",
+        "title": "Cortocinesis. Emprendedores con el arte",
+        "description": "Cortocinesis nació en 2003 gracias al deseo de tres amigos, Vladimir Ilich Rodríguez, Olga Lucía Cruz y Ángela Bello, quienes estudiaban danza en la Universidad Distrital Francisco José de Caldas en la Facultad de Artes-ASAB. El conocimiento que habían adquirido generó en ellos un interés concreto por investigar, explorar y desarrollar propuestas propias que giraran en torno al movimiento, la danza contemporánea y la coreografía.",
+        "author": "Fama Consultores",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Sostenibilidad del Ecosistema Artístico",
+        "subject": "Danza",
+        "numberOfPages": 10,
+        "illustrator": [
+          "Mónica Loaiza",
+          "Jimena Loaiza"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/EmprendimientoIndustriasCulturales_Cortocinesis_Armado1_Marzo20.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/portadaemprendimientoindustriasculturales_cortocinesis_armado1_marzo20.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:35Z",
+        "title": "Tránsitos de la investigación en danza - Volumen V",
+        "description": "En el quinto volumen de tránsitos de la investigación en danza reposan una serie de temas discutidos en los procesos de participación y de formación desarrollados por la Gerencia de Danza durante 2017 y que son de interés común para la comunidad dancística de la ciudad. Asuntos como asociatividad, campo laboral, prácticas de apropiación, cartografías, dramaturgia y tradición, memoria-procesos-creación, cuerpo-cuidado-saber y resignificación cultural se consideran en el presente volumen. Algunos como resultado de procesos, otros como sistematizaciones de encuentros que dan cuenta de la complejidad del campo profesional de la danza y, al mismo tiempo, de la pertinencia de disponer espacios de reflexión y acción que nutran el quehacer dancístico y los agenciamientos públicos y privados que se configuran en Bogotá.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Gerencia de Danza",
+        "subject": "Danza",
+        "identifier": "urn:ISSN:2538-9637",
+        "numberOfPages": 170,
+        "illustrator": [
+          "Mónica Loaiza"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Tra%CC%81nsitos%20de%20la%20Investigacio%CC%81n%20en%20danza%20-%20Gerencia%20de%20Danza%20Final.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-06%20a%20la%28s%29%2021.21.10.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:36Z",
+        "title": "Danza en la Ciudad. Memorias 2017",
+        "description": "Este libro, escrito por múltiples manos, intenta reunir las huellas que insisten con su presencia en la memoria de lo visto, sentido y percibido con la danza. La danza, como acto efímero, se hace presente en el momento vivo de su suceder, pero su desaparición se parece más a la transformación que a la terminación, pues, una vez se vive, se desprenden hilos de imaginarios, sensaciones y pensamientos incontables, tan variados como espectadores-bailadores y bailarines expectantes son convocados en una danza.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Gerencia de Danza",
+        "subject": "Danza",
+        "identifier": "urn:ISBN:978-958-5487-71-0",
+        "numberOfPages": 152,
+        "illustrator": [
+          "Jimena Loaiza"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/webmemoriasdanzaenlaciudad.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-08%20a%20la%28s%29%2016.44.52.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:37Z",
+        "title": "Expuestos, expiados y rebelados: cartografías del cuerpo barroco en la danza colonial",
+        "description": "Cada una de las partes de este texto, reunidas bajo el título: Expuestos, expiados y rebelados: cartografías del cuerpo barroco en la danza colonial, recompone unos dispositivos conceptuales y procesuales de la práctica de reconstrucción y reescenificación de las representaciones barrocas del cuerpo en la danza y la pintura de los siglos XVII y XVIII en Santa Fe de Bogotá, realizada durante una residencia artística en el Museo Santa Clara de Bogotá, en el año 2016, a cargo del coreógrafo Felipe Lozano, autor de esta investigación, con el colectivo interdisciplinar Lihaf. El producto de esta residencia fue la propuesta escénica creada para el museo y titulada: Expuestos, expiados y rebelados, que se estrenó en el IX Festival Danza en la Ciudad: Bogotá en Movimiento, en noviembre del mismo año.",
+        "author": "Felipe Lozano",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Gerencia de Danza",
+        "subject": "Danza",
+        "identifier": "urn:ISBN:978-958-5487-97-0",
+        "numberOfPages": 252,
+        "illustrator": [
+          "Mónica Loaiza",
+          "David Reyes"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/16_pi%20Expuestos%2C%20expiados%20y%20rebelados.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-08%20a%20la%28s%29%2017.12.54.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:38Z",
+        "title": "Reconstruyendo la experiencia: una sistematización de la obra Sin filtro",
+        "description": "La obra Sin filtro, desde sus inicios hasta las puestas en escena más recientes, tiene una trayectoria de varios años. A partir de la sistematización de experiencias como metodología de investigación y desde un enfoque autoetnográfico, se reconstruye en este",
+        "author": "María Teresa Buitrago Echeverri/Paulina Avellaneda Ramírez",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Gerencia de Danza",
+        "subject": "Danza",
+        "identifier": "urn:ISBN:978-958-5487-95-6",
+        "numberOfPages": 128,
+        "illustrator": [
+          "Mónica Loaiza",
+          "David Reyes"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/13_pi%20Reconstruyendo%20Experiencia-Sin%20filtro.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-08%20a%20la%28s%29%2017.15.31.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:38Z",
+        "title": "Cartografía de las danzas de matriz africana en Bogotá",
+        "description": "El surgimiento de la idea de “diáspora africana” y la emergencia de los estudios afrodiaspóricos implican una apuesta identitaria y política que propone una forma de leer la historia, en la que se desestabiliza la matriz colonial desde la que se han construido los cuerpos individuales y colectivos racializados. Hablar de diáspora africana, o bien de expresiones culturale de matriz africana, supone que se debe repensar y reconstruir el imaginario colectivo sobre la presencia africana en la historia de los territorios que habitamos.",
+        "author": "Vivian Andrea Ladino Rodríguez/Katia María Rosero Gómez",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Gerencia de Danza",
+        "subject": "Danza",
+        "identifier": "urn:ISBN:978-958-5487-93-2",
+        "numberOfPages": 144,
+        "illustrator": [
+          "Mónica Loaiza",
+          "David Reyes"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/12_pi%20Cartografias%20de%20las%20danzas.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-08%20a%20la%28s%29%2017.16.08.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:49Z",
+        "title": "Tránsitos de la investigación en danza - Volumen IV",
+        "description": "",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2017",
+        "imprint": "Gerencia de Danza",
+        "subject": "Danza",
+        "identifier": "urn:ISSN:2538-9637",
+        "numberOfPages": 120,
+        "illustrator": [
+          "Rey Naranjo"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Transitos%204%20digital.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-06%20a%20la%28s%29%2021.29.43.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:36:11Z",
+        "title": "VI Festival Danza en la Ciudad",
+        "description": "",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2013",
+        "imprint": "Gerencia de Danza",
+        "subject": "Danza",
+        "numberOfPages": 108,
+        "illustrator": [
+          "Oscar Javier Zambrano Cruz"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Catalogo%20Danza%20en%20la%20Ciudad%202013.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-07%20a%20la%28s%29%2013.19.12.png",
+          "type": "image/jpeg"
+        }
+      ]
+    }
+  ]
+}

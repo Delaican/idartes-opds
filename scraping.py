@@ -82,13 +82,13 @@ def get_book_data(path, book_soup):
     # Metadata que requiere procesamiento
     
     # Derechos (licencia)
-    derechos = get_element_info_values(details_element, "field--name-field-derechos")
-    if derechos:
+    rights = get_element_info_values(details_element, "field--name-field-derechos")
+    if rights:
         # Añadir como nota descriptiva
         data["description"] = (
             data.get("description", "")
-            + "\n\nDerechos: "
-            + derechos
+            + "<br/><br/>Licencia: "
+            + rights
         )
             
     # Área
@@ -97,7 +97,6 @@ def get_book_data(path, book_soup):
         if "subject" in data:
             if isinstance(data["subject"], list):
                 data["subject"].insert(0, area)
-                print(data["subject"])
             else:
                 data["subject"] = [area, data["subject"]]
         else:
@@ -121,9 +120,9 @@ def get_book_data(path, book_soup):
         data["illustrator"] = illustrator.strip(" ").split("/")
 
     # Colección
-    coleccion = get_element_info_values(details_element, "field--name-field-coleccion")
-    if coleccion:
-        data["belongsTo"] = {"collection": coleccion}
+    collection = get_element_info_values(details_element, "field--name-field-coleccion")
+    if collection:
+        data["belongsTo"] = {"collection": collection}
     
     # Idioma por defecto
     data["language"] = "es"
@@ -131,65 +130,129 @@ def get_book_data(path, book_soup):
     return data
 
 
-def transform_to_opds(books, base_url="https://idartesencasa.gov.co"):
-    """Transforma los datos al formato OPDS"""
-    publications = []
+def book_to_publication(book):
+    metadata = {
+        "@type": "http://schema.org/Book",
+        "modified": datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
+    }
     
-    for book in books:
-        # Agregar campos requeridos por OPDS
-        metadata = {
-            "@type": "http://schema.org/Book",
-            "modified": datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
-        }
-        
-        # Combinar metadata con los datos del libro
-        metadata.update({k: v for k, v in book.items() if k not in ["links", "images"]})
+    # Combinar metadata con los datos del libro
+    metadata.update({k: v for k, v in book.items() if k not in ["links", "images"]})
 
-        publication = {
-            "metadata": metadata,
-            "links": book.get("links", []),
-            "images": book.get("images", [])
-        }
-        
-        publications.append(publication)
+    publication = {
+        "metadata": metadata,
+        "links": book.get("links", []),
+        "images": book.get("images", [])
+    }
     
+    return publication
+
+
+def create_opds(publications, title="Catálogo Idartes", base_url="http://localhost:8000/catalogs", filename="home.json", navigation=[]):
     # Estructura OPDS completa
     opds_feed = {
         "metadata": {
-            "title": "Catálogo idartes",
+            "title": title,
             "numberOfItems": len(publications)
         },
         "links": [
             {
                 "rel": "self",
-                "href": f"{base_url}/libros_idartes.json",
+                "href": f"{base_url}/{filename}",
                 "type": "application/opds+json"
             }
         ],
-        "publications": publications
     }
-    
+   
+    if navigation:
+        opds_feed["navigation"] = navigation
+
+    opds_feed["publications"] = publications
+
     return opds_feed
 
 
-def save_opds_feed(opds_feed, filename="libros_idartes.json"):
-    with open(filename, "w", encoding="utf-8") as f:
-        json.dump(opds_feed, f, ensure_ascii=False, indent=2)
+def save_opds(opds, download_path="catalogs/", filename="home.json"):
+    with open(f"{download_path}{filename}", "w", encoding="utf-8") as f:
+        json.dump(opds, f, ensure_ascii=False, indent=2)
     
-    print(f"\nArchivo OPDS generado: {filename} ({opds_feed['metadata']['numberOfItems']} publicaciones)")
+    print(f"\nArchivo OPDS generado: {filename} ({opds['metadata']['numberOfItems']} publicaciones)")
+
+
+def create_navigation(publications, base_url="http://localhost:8000/catalogs"):
+    catalogs = {
+        "epub": [],
+        "pdf": [],
+        "arte_para_la_primera_infancia": [],
+        "arte_ciencia_y_tecnologia": [],
+        "artes_audiovisuales": [],
+        "artes_plasticas_y_visuales": [],
+        "danza": [],
+        "literatura": [],
+        "multidisciplinar": [],
+        "musica": [],
+        "teatro": []
+    }
+    
+    name_mapping = {
+        "EPUBs": "epub",
+        "PDFs": "pdf",
+        "Arte para la primera infancia": "arte_para_la_primera_infancia",
+        "Arte, Ciencia y Tecnología": "arte_ciencia_y_tecnologia",
+        "Artes Audiovisuales": "artes_audiovisuales",
+        "Artes Plásticas y Visuales": "artes_plasticas_y_visuales",
+        "Danza": "danza",
+        "Literatura": "literatura",
+        "Multidisciplinar": "multidisciplinar",
+        "Música": "musica",
+        "Teatro": "teatro"
+    }
+
+    for publication in publications:
+        types = {link["type"] for link in publication["links"]}
+        if "application/epub+zip" in types:
+            catalogs["epub"].append(publication)
+        if "application/pdf" in types:
+            catalogs["pdf"].append(publication)
+
+        subject = publication.get("metadata").get("subject")
+        if isinstance(subject, list):
+            area = subject[0]
+        else:
+            area = subject
+        area_key = name_mapping.get(area)
+        catalogs[area_key].append(publication)
+        
+    navigation = []
+    for catalog_name, area_key in name_mapping.items():
+        opds = create_opds(catalogs[area_key], title=catalog_name, filename=f"{area_key}.json")
+        save_opds(opds, filename=f"{area_key}.json")
+        navigation.append({
+            "href": f"{base_url}/{area_key}.json",
+            "title": catalog_name,
+            "type": "application/opds+json"
+        })
+
+    return navigation
 
 
 if __name__ == "__main__":
     path = "https://idartesencasa.gov.co"
     soup = get_soup(f'{path}/libros')
     books_url = get_books_url(soup)
-    books = []
+
+    publications = []
     
+    print(f"Obteniendo información de {path}/libros ...")
     for i, book_url in enumerate(books_url):
         print(f"{i+1}. {book_url.split('/')[-1]}")
         book_soup = get_soup(f'{path}{book_url}') 
-        books.append(get_book_data(path, book_soup))
+        book = get_book_data(path, book_soup)
+        publications.append(book_to_publication(book))
     
+    # Crear catálogos para navegación
+    navigation = create_navigation(publications)
+
     # Transformar a formato OPDS y guardar
-    opds_feed = transform_to_opds(books, path)
-    save_opds_feed(opds_feed)
+    opds = create_opds(publications, navigation=navigation)
+    save_opds(opds)

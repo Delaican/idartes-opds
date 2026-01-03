@@ -1,0 +1,1044 @@
+{
+  "metadata": {
+    "title": "Música",
+    "numberOfItems": 33
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://localhost:8000/catalogs/musica.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:33:39Z",
+        "title": "Catálogo Joropo al Parque 2024",
+        "description": "El Festival Joropo al Parque es un evento que reúne diversas expresiones artísticas de los Llanos Orientales, para visibilizar a artistas, cultores, agrupaciones, compañías musicales, escuelas y compañías dancísticas de joropo y danza llanera. En 2024, este evento llegó a su tercera versión, buscando convertirse en un espacio de acercamiento entre lo tradicional y lo contemporáneo del joropo. La diversidad de la programación representó el tránsito de estas tradiciones propias de los llanos colombo - venezolanos por la ciudad de Bogotá, en donde se relacionan con la academia y el influjo de otro tipo de expresiones urbanas.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2024",
+        "imprint": "Gerencia de Música",
+        "subject": "Música",
+        "numberOfPages": 58,
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Catalogo-Joropo-al-Parque-2024.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Catalogo-Joropo-al-Parque-2024_page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:33:40Z",
+        "title": "Catálogo - Popular al Parque 2024",
+        "description": "El término ‘música popular’ abarca una amplia gama de géneros, estilos y prácticas musicales alrededor del mundo desde largo tiempo atrás. Se puede hablar de la música popular de cada país por su relación con tradiciones locales, pero también de aquella internacional que suena en cualquier lugar. Estos aspectos dificultan concretar una definición precisa y única. Sin embargo, el Concejo de Bogotá se aproximó a una definición en el Acuerdo 902 de 2023, en que creó el Festival Popular al Parque, y en el que describió la ‘música popular’ como aquel conjunto de canciones que “abarca ritmos regionales colombianos influenciados por rancheras, corridos y huapangos mexicanos, pasillos y valses ecuatorianos; zambas, tangos, pasillos y valses argentinos; entre otros”. ",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2024",
+        "imprint": "Gerencia de Música",
+        "subject": "Música",
+        "numberOfPages": 23,
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/catalogo-popular-al-parque%202024.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/catalogo-popular-al-parque%202024_compressed%20%281%29_page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:33:40Z",
+        "title": "Catálogo - Vallenato al Parque 2024",
+        "description": "El Festival Vallenato al Parque se celebra por primera vez en 2024, gracias al Acuerdo No. 933 de 2024 del Concejo de Bogotá, que reconoce la importancia de visibilizar y preservar el legado de las y los músicos y compositores vallenatos. Este evento celebra la música vallenata como un vínculo cultural entre el Caribe y el interior del país. Vallenato al Parque es organizado por el Instituto Distrital de las Artes, Idartes, en colaboración con el Instituto Distrital de Recreación y Deporte, IDRD y el Festival de la Leyenda Vallenata.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2024",
+        "imprint": "Gerencia de Música",
+        "subject": "Música",
+        "numberOfPages": 21,
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/catalogo-vallenato-al-parque-2024.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/catalogo-vallenato-al-parque-2024_compressed_page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:33:42Z",
+        "title": "XXVII Festival de Jazz al Parque - 2024",
+        "description": "El Festival Jazz al Parque se ha convertido en un evento emblemático de la ciudad de Bogotá, desde su primera edición en 1995. Surgió como una iniciativa para promover la apreciación y difusión del jazz en la ciudad, y se ha convertido en un lugar de encuentro, en el que los y las habitantes de la capital comparten alrededor de este género musical en el Parque El Country, su sede habitual. A lo largo de los años, el Festival ha experimentado un notable crecimiento en popularidad y relevancia, consolidándose como uno de los eventos culturales más esperados de la ciudad. En este festival se han presentado reconocidos músicos tanto locales como nacionales e internacionales y la asistencia del público, que ha ascendido a la suma de 41 mil participantes en la versión de 2023, se ha caracterizado por la pluralidad y diversidad en términos etarios, pues es uno de los festivales al parque dirigidos a público familiar. Este Festival es reconocido por presentar propuestas novedosas desde el punto de vista musical, por lo que se reconoce como un espacio para dejarse sorprender.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2024",
+        "imprint": "Gerencia de Música",
+        "subject": "Música",
+        "numberOfPages": 18,
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Catalogo-XXVII-FESTIVAL-JAZZ-AL-PARQUE-2024.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Catalogo-XXVII-FESTIVAL-JAZZ-AL-PARQUE-2024_page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:26Z",
+        "title": "Relatos mayores - 2017",
+        "description": "Estos textos recogen las historias de vida de los artistas elegidos, sus experiencias y anécdotas en el ejercicio musical como maestros, intérpretes, integrantes de agrupaciones de distintos géneros musicales, y en algunos casos, como artistas callejeros que actuaron en una Bogotá que ya no existe, pero que en definitiva puede reconstruirse a partir de lo que ellos cuentan en estas páginas, relatos que nos transportan al siglo pasado.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2022",
+        "imprint": "Gerencia de Música",
+        "subject": "Música",
+        "numberOfPages": 228,
+        "illustrator": [
+          "Mónica Loaiza"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/RELATOS%20MAYORES%202017%20MLR%2004-02-22.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/PORTADA%20RELATOS%20MAYORES%202017.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:40Z",
+        "title": "Jazz al Parque 25 años",
+        "description": "Desde 1995, Jazz al Parque se convirtió en uno de los mayores representantes de la diversidad cultural de Bogotá. Más allá de una definición académica del jazz, por las tarimas del festival han pasado sonoridades clásicas, legendarias, autóctonas, transgresoras y vanguardistas que demuestran el poder mutante de uno de los géneros más universales de la música moderna y que han puesto de cuerpo presente la importancia de construir audiencias activas en la ciudad.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2021",
+        "imprint": "Gerencia de Música",
+        "subject": "Música",
+        "identifier": "urn:ISBN:978-958-5595-62-0",
+        "numberOfPages": 290,
+        "illustrator": [
+          "Raúl Díaz"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/JAZZ-AL-PARQUE-25.pdf",
+          "type": "application/pdf"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/JAZZ%20AL%20PARQUE%2025%2011-06-21.epub",
+          "type": "application/epub+zip"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/0001_3.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:06Z",
+        "title": "Colombia  al Parque 2012",
+        "description": "Catálogo de artistas distritales, nacionales e internacionales participantes, así como de las diferentes actividades en todos los componentes de la versión XI del festival.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2012",
+        "imprint": [
+          "Teatro La Media Torta",
+          "Gerencia de Música"
+        ],
+        "subject": "Música",
+        "numberOfPages": 76,
+        "illustrator": [
+          "Oscar Javier Zambrano Cruz"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/CATALOGO%2BCOLOMBIA%2BAL%2BPARQUE.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-16%20a%20la%28s%29%2022.15.41.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:07Z",
+        "title": "Hip Hop al Parque 2012",
+        "description": "Catálogo de artistas distritales, nacionales e internacionales participantes, así como de las diferentes actividades en todos los componentes de la versión XVI del festival.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2012",
+        "imprint": "Gerencia de Música",
+        "subject": "Música",
+        "numberOfPages": 216,
+        "illustrator": [
+          "Oscar Javier Zambrano Cruz"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/CATALOGO%2BHHAP%2BWEB.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-16%20a%20la%28s%29%2022.13.06.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:07Z",
+        "title": "XVII Festival Jazz al Parque - 2012",
+        "description": "Catálogo de artistas distritales, nacionales e internacionales participantes, así como de las diferentes actividades en todos los componentes de la versión XVII Festival Jazz al Parque del Instituto Distrital de las Artes - Idartes.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2012",
+        "imprint": "Gerencia de Música",
+        "subject": "Música",
+        "numberOfPages": 88,
+        "illustrator": [
+          "Oscar Javier Zambrano Cruz"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Cata%CC%81logo%2BJazz%2Bal%2BParque%2BWEB.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:07Z",
+        "title": "Salsa al Parque 2012",
+        "description": "Catálogo de artistas distritales, nacionales e internacionales participantes, así como de las diferentes actividades en todos los componentes de la versión XV del festival.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2012",
+        "imprint": "Gerencia de Música",
+        "subject": "Música",
+        "numberOfPages": 84,
+        "illustrator": [
+          "Oscar Javier Zambrano Cruz"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Catalogo%2BSalsa%2Bal%2BParque%2BWeb.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-16%20a%20la%28s%29%2022.07.15.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:07Z",
+        "title": "Rock al Parque 2012",
+        "description": "Catálogo de artistas distritales, nacionales e internacionales participantes, así como de las diferentes actividades en todos los componentes de la versión XVIII del festival.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2012",
+        "imprint": "Gerencia de Música",
+        "subject": "Música",
+        "numberOfPages": 124,
+        "illustrator": [
+          "Oscar Javier Zambrano Cruz"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/catalogo_rock_al_parque.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-12%20a%20la%28s%29%2022.08.45.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:15Z",
+        "title": "Laboratorio Engala LABanda",
+        "description": "Engala LABanda fue un laboratorio donde participaron 50 artistas bogotanos que participaron de videoconferencias, cápsulas virtuales, talleres de experimentación creativa interdisciplinar y asesorías personalizadas. ",
+        "author": "Varios Autores",
+        "published": "2020",
+        "imprint": "Gerencia de Música",
+        "subject": "Música",
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Caja%20de%20herramientas%20Engala%281%29%20%281%29.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/0001_4.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:24Z",
+        "title": "Bogotá Suena - Festivales al Parque 2018",
+        "description": "Festivales al Parque no solo es un programa que dedica todos sus esfuerzos y energías para sacar adelante cinco grandes conciertos en vivo (Rock, Jazz, Hip Hop, Salsa y Colombia al Parque), de acceso libre, con una producción y una logística a la altura de las circunstancias y en cuyas programaciones el talento musical de la ciudad ocupa del 30 % al 70 % del cartel. En 2018, los Festivales al Parque se convirtieron de nuevo en un paso esencial para los otros actores de la escena y la industria musical de Bogotá, Colombia y Latinoamérica que buscan proyectarse.",
+        "author": "Gerencia de Música",
+        "publisher": "Idartes",
+        "published": "2020",
+        "imprint": "Gerencia de Música",
+        "subject": "Música",
+        "identifier": "urn:ISSN:2744-8053",
+        "numberOfPages": 228,
+        "illustrator": [
+          "Mónica Loaiza Reina"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/BOGOTA%20SUENA%202018%20MLR%2008-09-2020.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/bogotasuena-min_0.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:32Z",
+        "title": "Raag Sound. Emprendedores con el arte",
+        "description": "En un principio Raag Sound fue diseñado únicamente para ser un espacio de ensayos y grabación, pero ha evolucionado con el fin de brindar más servicios a las bandas y artistas que los solicitan. Esto ha hecho posible que se forme un vínculo entre Raag Sound y sus numerosos clientes.",
+        "author": "Fama Consultores",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Sostenibilidad del Ecosistema Artístico",
+        "subject": "Música",
+        "numberOfPages": 10,
+        "illustrator": [
+          "Mónica Loaiza",
+          "Jimena Loaiza"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/EmprendimientoIndustriasCulturales_RaagSound_Armado1_Marzo20.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/portada%20emprendimientoindustriasculturales_raagsound_armado1_marzo20.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:33Z",
+        "title": "Polen Records. Emprendedores con el arte",
+        "description": "Polen Records es una disquera independiente creada por Felipe Álvarez en Bogotá en 2005. La iniciativa nació por el deseo de darles a los artistas colombianos una oportunidad de formación y promoción fuera del país. Esta microempresa se caracteriza por ser un laboratorio constante, que busca potenciar artistas y brindarles la oportunidad de ser escuchados por personas fuera del ámbito local siguiendo estándares de calidad en su sonido.",
+        "author": "Fama Consultores",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Sostenibilidad del Ecosistema Artístico",
+        "subject": "Música",
+        "numberOfPages": 10,
+        "illustrator": [
+          "Mónica Loaiza",
+          "Jimena Loaiza"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/EmprendimientoIndustriasCulturales_PolenRecords_Armado1_Marzo20.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/portadaemprendimientoindustriasculturales_polenrecords_armado1_marzo20.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:36Z",
+        "title": "Caracterización de sellos discográficos independientes en Bogotá",
+        "description": "El Instituto Distrital de las Artes-Idartes ha buscado, en el marco del Seminario de Redes y Proyectos Colaborativos (Seremus), entender el estado actual, las barreras, las oportunidades y las necesidades de este sector discográfico de la música bogotana, que lidera la producción y difusión de los diversos contenidos musicales de la ciudad y del país, para aportar al reconocimiento propio y al fortalecimiento mutuo de los sellos bogotanos para que consoliden su posición como fundamento del movimiento musical de la ciudad.",
+        "author": "VV.AA.",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Gerencia de Música",
+        "subject": "Música",
+        "identifier": "urn:ISBN:978-958-5595-29-3",
+        "numberOfPages": 20,
+        "illustrator": [
+          "Jimena Loaiza"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/TripaDisco.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/PortadaDisco.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:39Z",
+        "title": "Cancionero de Rock al Parque",
+        "description": "Rock al Parque cumple un cuarto de siglo y sigue manteniendo el mismo espíritu, la misma fuerza de sus inicios. Sigue por siempre joven, como cantan Bob Dylan, Rod Steward y Alphaville, pues el espíritu del rock no envejece: algunos de sus pioneros hoy son octogenarios pero, fieles a su eterna juventud, siguen componiendo, cantando y llenando escenarios. Este festival pasó de ser un embeleco que se les ocurrió a Bertha Quintero, Mario Duarte y Julio Correal a convertirse en un evento multitudinario reconocido en todo el continente. Fue además la piedra angular de todos los festivales Al Parque (hip hop, jazz, salsa, etc.), que brindan una oferta de espectáculos gratuitos de primera calidad a los bogotanos, colombianos y extranjeros que nos vienen a visitar. Sobre Rock al Parque han corrido manantiales de tinta, no solo en las publicaciones oficiales sino en estudios académicos, relatos, testimonios, crónicas y notas de prensa. Desde el panegírico más exaltado a la diatriba más rabiosa (generalmente proferida algún purista de los géneros o neurótico de las formas), no ha dejado de manar prosa sobre él, pero es poca o inexistente la poesía que en sus veinticinco ediciones ha encontrado las letras de molde y, menos aún, las tapas de un libro.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": [
+          "Gerencia de Literatura",
+          "Gerencia de Música",
+          "Libro al Viento"
+        ],
+        "subject": "Música",
+        "identifier": "urn:ISBN:978-958-5487-61-1",
+        "numberOfPages": 116,
+        "illustrator": [
+          "Óscar Pinto Siabatto"
+        ],
+        "belongsTo": {
+          "collection": "Colección Lateral"
+        },
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/141.%20Cancionero%20de%20Rock%20al%20Parque.pdf",
+          "type": "application/pdf"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Cancionero%20de%20Rock%20al%20Parque_9789585487604.epub",
+          "type": "application/epub+zip"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/141.%20Cancionero%20de%20Rock%20al%20parque.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:43Z",
+        "title": "Bogotá Suena - Festivales al Parque 2017",
+        "description": "Catálogo de artistas distritales, nacionales e internacionales participantes, así como de las diferentes actividades en todos los componentes de los festivales Rock, Colombia, Jazz, Hip Hop y Salsa al Parque 2017.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2018",
+        "imprint": "Gerencia de Música",
+        "subject": "Música",
+        "identifier": "urn:ISBN:978-958-5487-33-8",
+        "numberOfPages": 248,
+        "illustrator": [
+          "Mónica Loaiza Reina"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Bogota%CC%81%20Suena%202017%20Gerencia%20de%20Mu%CC%81sica_Digital.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/0001_2.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:49Z",
+        "title": "Bogotá Suena - Festivales al Parque 2016",
+        "description": "Catálogo de artistas distritales, nacionales e internacionales participantes, así como de las diferentes actividades en todos los componentes de los festivales Rock, Colombia, Jazz, Hip Hop y Salsa al Parque 2016.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2017",
+        "imprint": "Gerencia de Música",
+        "subject": "Música",
+        "identifier": "urn:ISBN:978-958-8997-09-4",
+        "numberOfPages": 304,
+        "illustrator": [
+          "Rey Naranjo"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Bogot_Suena_2016_DIGITAL.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/bogotasuena-min.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:36:01Z",
+        "title": "Bogotá - Vive la Música 2015",
+        "description": "Programación de las diferentes jornadas de los Festivales Colombia, Jazz y Salsa al Parque, y Rototom, así como las actividades de todos los componentes relacionados con dichos festivales.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2015",
+        "imprint": "Gerencia de Música",
+        "subject": "Música",
+        "numberOfPages": 32,
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/05_07_15_presentacion_vivelamLOW.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-09%20a%20la%28s%29%2021.52.28.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:36:01Z",
+        "title": "Rock al Parque 2015",
+        "description": "Catálogo de artistas distritales, nacionales e internacionales participantes, así como de las diferentes actividades en todos los componentes de la versión XXI del festival.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2015",
+        "imprint": "Gerencia de Música",
+        "subject": "Música",
+        "identifier": "urn:ISSN:2389-8046",
+        "numberOfPages": 210,
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/08_10_15_CATALOGO_RAP15low.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-09%20a%20la%28s%29%2000.45.07.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:36:05Z",
+        "title": "Bogotá - Vive la Música 2014",
+        "description": "Catálogo de los artistas participantes en los Festivales Colombia y Salsa al Parque, Distrito Fiesta, Festival Mundos de la Música, y Rototom, así como de las actividades de todos los componentes relacionados con dichos festivales.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2014",
+        "imprint": "Gerencia de Música",
+        "subject": "Música",
+        "numberOfPages": 144,
+        "illustrator": [
+          "Cristian Hernández - Daniel Roa - Oscar Zambrano"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/catalogo_bvlm_2014.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-16%20a%20la%28s%29%2023.15.52.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:36:06Z",
+        "title": "Rock al Parque 2014",
+        "description": "Catálogo de artistas distritales, nacionales e internacionales participantes, así como de las diferentes actividades en todos los componentes de la versión XX del festival.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2014",
+        "imprint": [
+          "Teatro La Media Torta",
+          "Gerencia de Música"
+        ],
+        "subject": "Música",
+        "identifier": "urn:ISSN:2389-8046",
+        "numberOfPages": 244,
+        "illustrator": [
+          "Cristian Hernández - Daniel Roa - Oscar Zambrano"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/catalogo_rock_al_parque_2014.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-12%20a%20la%28s%29%2022.01.19.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:36:06Z",
+        "title": "XIX Festival de Jazz al Parque - 2014",
+        "description": "Catálogo de artistas distritales, nacionales e internacionales participantes, así como de las diferentes actividades en todos los componentes de la versión XIX del festival.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2014",
+        "imprint": "Gerencia de Música",
+        "subject": "Música",
+        "numberOfPages": 104,
+        "illustrator": [
+          "Cristian Hernández - Oscar Zambrano"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Catalogo_jazz_al_parque_2014.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/0001_1.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:36:06Z",
+        "title": "Hip Hop al Parque 2014",
+        "description": "Catálogo de artistas distritales, nacionales e internacionales participantes, así como de las diferentes actividades en todos los componentes de la versión XVIII del festival.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2014",
+        "imprint": "Gerencia de Música",
+        "subject": "Música",
+        "numberOfPages": 188,
+        "illustrator": [
+          "Cristian Hernández - Daniel Roa - Oscar Zambrano"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/catalogo_hhap_2014.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-09%20a%20la%28s%29%2022.05.06.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:36:09Z",
+        "title": "Hip Hop al Parque 2013",
+        "description": "Catálogo de artistas distritales, nacionales e internacionales participantes, así como de las diferentes actividades en todos los componentes de la versión XVII del festival.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2013",
+        "imprint": "Gerencia de Música",
+        "subject": "Música",
+        "numberOfPages": 120,
+        "illustrator": [
+          "Oscar Javier Zambrano Cruz"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Catalogo%20HHAP%202013.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-16%20a%20la%28s%29%2023.12.06.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:36:09Z",
+        "title": "XVIII Festival Jazz al Parque - 2013",
+        "description": "Catálogo de artistas distritales, nacionales e internacionales participantes, así como de las diferentes actividades en todos los componentes de la versión XVIII del festival.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2013",
+        "imprint": "Gerencia de Música",
+        "subject": "Música",
+        "numberOfPages": 84,
+        "illustrator": [
+          "Oscar Javier Zambrano Cruz"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Catalogo%20Jazz%20al%20Parque%202013.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/0001_0.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:36:09Z",
+        "title": "Salsa al Parque 2013",
+        "description": "Catálogo de artistas distritales, nacionales e internacionales participantes, así como de las diferentes actividades en todos los componentes de la versión XVI del festival.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2013",
+        "imprint": "Gerencia de Música",
+        "subject": "Música",
+        "numberOfPages": 76,
+        "illustrator": [
+          "Oscar Zambrano - Daniel Roa"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Catalogo%20Salsa%20al%20Parque%202013.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-16%20a%20la%28s%29%2022.56.54.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:36:10Z",
+        "title": "Colombia al Parque 2013",
+        "description": "Catálogo de artistas distritales, nacionales e internacionales participantes, así como de las diferentes actividades en todos los componentes de la versión XII del festival.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2013",
+        "imprint": "Gerencia de Música",
+        "subject": "Música",
+        "numberOfPages": 84,
+        "illustrator": [
+          "Oscar Javier Zambrano Cruz"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Catalogo%20Colombia%20al%20Parque%202013.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-16%20a%20la%28s%29%2022.51.38.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:36:10Z",
+        "title": "Rock al Parque - Rueda por Latinoamérica 2013",
+        "description": "Catálogo de artistas distritales, nacionales e internacionales participantes, así como de las diferentes actividades en todos los componentes de la versión XIX del festival.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2013",
+        "imprint": "Gerencia de Música",
+        "subject": "Música",
+        "numberOfPages": 64,
+        "illustrator": [
+          "Oscar Javier Zambrano Cruz"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Cata%CC%81logo%2BWeb.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-16%20a%20la%28s%29%2022.41.51.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:36:10Z",
+        "title": "Rock al Parque 2013",
+        "description": "Catálogo de artistas distritales, nacionales e internacionales participantes, así como de las diferentes actividades en todos los componentes de la versión XIX del festival.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2013",
+        "imprint": "Gerencia de Música",
+        "subject": "Música",
+        "numberOfPages": 132,
+        "illustrator": [
+          "Daniel Roa - Oscar Zambrano"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Cata%CC%81logo%20Rock%202013%20WEB.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-12%20a%20la%28s%29%2022.11.12.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:36:12Z",
+        "title": "Rock al Parque Rueda 2024",
+        "description": "Conocido como el festival de música gratuito más grande de Latinoamérica, Rock al Parque se ha consolidado como parte fundamental de la cultura bogotana.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "imprint": "Gerencia de Música",
+        "subject": "Música",
+        "numberOfPages": 45,
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/catalogo-rock-al-parque-2024.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/catalogo-rock-al-parque-2024_page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:36:14Z",
+        "title": "Bogotá Suena - Festivales al Parque 2019",
+        "description": "En las páginas de esta publicación descubrirá por qué más de 474 000 personas, es decir, 70 000 personas más de las que vivían en Manizales en 2020, se congregaron a lo largo de 2019 en los cinco conciertos gratuitos y al aire libre que hacen parte del Programa Festivales al Parque de Bogotá.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "imprint": "Gerencia de Música",
+        "subject": "Música",
+        "identifier": "urn:ISSN:2744-8053 (en línea)",
+        "numberOfPages": 316,
+        "illustrator": [
+          "Mónica Loaiza Reina"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/BOGOTA%20SUENA%202019%20MLR%2022-11-21_0.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/BOGOTA%20SUENA%202019%20MLR%2022-11-21_page-0001_0.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    }
+  ]
+}

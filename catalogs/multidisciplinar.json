@@ -1,0 +1,1267 @@
+{
+  "metadata": {
+    "title": "Multidisciplinar",
+    "numberOfItems": 40
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://localhost:8000/catalogs/multidisciplinar.json",
+      "type": "application/opds+json"
+    }
+  ],
+  "publications": [
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:33:27Z",
+        "title": "Cartilla Arte a la KY - Cuarto Salón de Artistas",
+        "description": "El Salón de Artistas Arte a la KY es un evento creado por el Instituto Distrital de las Artes - Idartes con el fin de generar un espacio de exhibición y comercialización para artistas que tradicionalmente trabajan en la vía pública, principalmente en la emblemática Carrera Séptima de Bogotá. Esta iniciativa que comenzó en el año 2022 hace parte de las acciones del programa Arte a la KY para dignificar y visibilizar a los artistas que desarrollan sus prácticas en el espacio público.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2025",
+        "imprint": "Arte a la KY",
+        "subject": "Multidisciplinar",
+        "numberOfPages": 18,
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Guia-de-Mano-IV-Salon-AKY-2025.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/1%20%281%29.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:33:43Z",
+        "title": "Cartilla Arte a la KY - Tercer Salón de Artistas",
+        "description": "El Salón de Artistas Arte a la KY es un evento creado por el Instituto Distrital de las Artes - Idartes con el fin de generar un espacio de exhibición y comercialización para artistas que tradicionalmente trabajan en la vía pública, principalmente en la emblemática Carrera Séptima de Bogotá. Esta iniciativa que comenzó en el año 2022 hace parte de las acciones del programa Arte a la KY para dignificar y visibilizar a los artistas que desarrollan sus prácticas en el espacio público.",
+        "author": "Varios Autores",
+        "published": "2024",
+        "imprint": "Arte a la KY",
+        "subject": "Multidisciplinar",
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/cartilla%20artistas%20arte%20KY-2024.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/cartilla%20artistas%20arte%20KY_V3Digital%20%281%29_compressed_page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:04Z",
+        "title": "Perspectivas de la gestión cultural comunitaria en Bogotá",
+        "description": "La presente publicación es la segunda de una serie, que tiene como propósito reconocer, visibilizar, documentar y estimular la diversidad de perspectivas, procesos, actividades y organizaciones artísticas y culturales de base comunitaria en Bogotá. Desde el Instituto Distrital de las Artes -Idartes, trabajo se realiza principalmente a partir del programa Culturas en Común de la Subdirección de Formación Artística, cuya implementación contribuye a generar condiciones para el ejercicio libre de los derechos culturales y sociales en las localidades de Bogotá.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2023",
+        "imprint": "Culturas en Común",
+        "subject": "Multidisciplinar",
+        "identifier": "urn:ISBN:978-628-7686-05-2",
+        "numberOfPages": 188,
+        "illustrator": [
+          "Mónica Loaiza Reina ",
+          " Daniel Camilo Vargas Barrios"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/PERSPECTIVAS%20DE%20LA%20GESTION%20CULTURAL%20COMUNITARIA%20EN%20BOGOTA%202023%20DIGITAL_0.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/PERSPECTIVAS%20DE%20LA%20GESTION%20CULTURAL%20COMUNITARIA%20EN%20BOGOTA%202023%20DIGITAL_page-0001_0.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:17Z",
+        "title": "Relatoría III Foro Respira el Arte",
+        "description": "La relatoría del III Foro Respira el Arte es un documento con las  notas y memorias del invitado Alfons Martinell, director honorífico de la Cátedra Unesco: Políticas Culturales y Cooperación. Colaborador de la Red Española para el Desarrollo Sostenible – REDS y director del grupo de trabajo sobre Cultura y Desarrollo Sostenible.",
+        "author": "Alfons Martinell",
+        "publisher": "Idartes",
+        "published": "2022",
+        "imprint": "Respira el Arte",
+        "subject": "Multidisciplinar",
+        "numberOfPages": 21,
+        "illustrator": [
+          "Sergio Garzón Corzo"
+        ],
+        "belongsTo": {
+          "collection": "Relatorías – Foro Respira el Arte"
+        },
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Relatori%CC%81a%20Foro%20III%20dpps.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Relatori%CC%81a%20Foro%20III%20dpps_page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:17Z",
+        "title": "Guía de sustentabilidad para teatros y festivales",
+        "description": "'La guía de sustentabilidad para teatros y festivales' es una herramienta creada por el Instituto Distrital de las Artes – Idartes en el marco de su estrategia Respira el Arte, en colaboración con Julie's Bicycle del Reino Unido. La intención de esta guía es brindar orientación e inspiración sobre el tipo de acciones que salas de teatro y festivales de Bogotá D.C. pueden tomar para reducir su impacto ambiental, además de contribuir a que las artes y la cultura adopten un rol activo ante la actual crisis climática y ecológica.",
+        "author": "Julie's Bicycle - Idartes",
+        "publisher": "Idartes",
+        "published": "2022",
+        "imprint": "Dirección",
+        "subject": "Multidisciplinar",
+        "identifier": "urn:ISBN:978-628-7531-47-5",
+        "numberOfPages": 88,
+        "illustrator": [
+          "Sergio Garzón Corzo"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Guia%20de%20Sustentabilidad%20para%20Teatros%20y%20Festivales%20Id%20%281%29.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Guia%20de%20Sustentabilidad%20para%20Teatros%20y%20Festivales%20Id%20%281%29_page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:22Z",
+        "title": "Culturas en Común: re-conociendo los derechos culturales",
+        "description": "Hace más de dos décadas se creó en la ciudad el Programa Culturas en Común, inicialmente con el propósito de complementar los procesos de formación artística, mediante la desconcentración territorial de la oferta artística y cultural. El Programa ha evolucionado y se ha fortalecido, gracias al uso de pedagogías artísticas para promover el encuentro y la transformación social, el desarrollo de procesos culturales con colectivos de base comunitaria, el reconocimiento y la visibilización de rutas de la memoria con las comunidades. Todo lo anterior, con la finalidad de promover el re-conocimiento y el ejercicio de los derechos culturales.",
+        "author": "Varios Autores",
+        "publisher": "Instituto Distrital de las Artes - Idartes",
+        "published": "2022",
+        "imprint": "Culturas en Común",
+        "subject": "Multidisciplinar",
+        "identifier": "urn:ISBN:978-628-7531-41-3",
+        "numberOfPages": 140,
+        "illustrator": [
+          "Mónica Loaiza Reina ",
+          " Daniel Camilo Vargas Barrios"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Culturas%20en%20comun%20Version%20Digital.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Libro%20digital%20_Culturas%20en%20Com%C3%BAn_%20re-conociendo%20los%20derechos%20culturales__page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:27Z",
+        "title": "Relatoría II Foro Respira el Arte",
+        "description": "La relatoría del II Foro Respira el Arte es un documento con las  notas y memorias del invitado Tony Ramos Murphy, consultor y experto en políticas culturales con más de dos décadas de experiencia en instituciones y organizaciones culturales públicas y privadas de España, Europa y África. Director ejecutivo de CULTURALINK – Consultoría en Cultura y Comunicación.",
+        "author": "Tony Ramos Murphy",
+        "publisher": "Idartes",
+        "published": "2021",
+        "imprint": "Respira el Arte",
+        "subject": "Multidisciplinar",
+        "numberOfPages": 24,
+        "illustrator": [
+          "Sergio Garzón Corzo"
+        ],
+        "belongsTo": {
+          "collection": "Relatorías – Foro Respira el Arte"
+        },
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Relatori%CC%81a%20Foro%20II%20DPPS.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Relatori%CC%81a%20Foro%20II%20DPPS_page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:34Z",
+        "title": "Cosas que pasan",
+        "description": "Por medio de esta publicación, las personas que actúan en los territorios revisan su actividad y abren las puertas para mostrar sus acciones y la forma como las emprenden, suscitar debates y reflexiones sobre la necesidad e importancia de generar procesos de formación artística con poblaciones diversas. Aquí aparecen las voces de artistas que, con su trabajo en siete áreas, establecen diálogos con el lector para pensar en conjunto cuáles son las improntas de la formación artística en las personas, no solo desde la perspectiva de los participantes, sino también a partir de las reflexiones e intercambios que suscitan estos procesos en quienes lideran las prácticas pedagógicas y artísticas del Programa. En el lado A de este libro encontrarás siete relatos o crónicas de la línea Impulso Colectivo, además de una introducción y un glosario. En el lado B, Converge, podrás leer una presentación, nueve relatos agrupados en tres grupos por ejes temáticos e introducciones particulares, además de un diccionario de la calle. Te invitamos a conocer en el lado A y el lado B de Cosas que pasan el espíritu de la multiplicidad de miradas y saberes que emergen en los espacios de la formación artística diversa e incluyente que se vive en Bogotá.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2021",
+        "imprint": "Crea",
+        "subject": "Multidisciplinar",
+        "identifier": "urn:ISBN:978-958-5595-74-3",
+        "numberOfPages": 188,
+        "illustrator": [
+          "Mónica Loaiza",
+          "Cristian Balanta, Jimmy Espinosa y Óscar Nossa"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Impulso-Colectivo%2BConverge.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/COSAS%20QUE%20PASAN%20IMPULSO.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:35Z",
+        "title": "Saltar el mapa",
+        "description": "Acompañados por el Componente de Publicaciones e Investigación del Programa Crea, un grupo de enlaces pedagógicos y artistas formadores se dio a la tarea de contar, a partir de sus experiencias, lo que ha implicado esa labor durante su permanencia en el Programa. Estas experiencias dan cuenta de las diversas formas que adquiere la investigación en artes y la importancia de consolidar esas miradas. Leernos en perspectiva permite afianzar el trabajo realizado, y a la vez abre la posibilidad de instaurar el diálogo en otros escenarios. Este texto apunta a la gestión del conocimiento que, como Instituto Distrital de las Artes, hemos movilizado y que nos enorgullece compartir.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2021",
+        "imprint": "Crea",
+        "subject": "Multidisciplinar",
+        "identifier": "urn:ISBN:978-958-5595-78-1",
+        "numberOfPages": 164,
+        "illustrator": [
+          "Mónica Loaiza",
+          "Juliana Escobar Cuéllar"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Saltar%20el%20mapa%20VERSION%20WEB%2012-01-22.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Saltar%20el%20mapa.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:35Z",
+        "title": "Crujidos, gruñidos y otros ruidos extraños en casa",
+        "description": "Esta edición consolida el trabajo de un escenario atípico: el encierro. Sin embargo, lejos de enmudecer el proceso creativo de niñas, niños, jóvenes y adultos, logra que a partir del mismo se entretejan voces que resuenan en Bogotá y que pocas veces son escuchadas, voces que desde la poesía o la narrativa hablan sobre la libertad, el amor y la felicidad, y reflexionan sobre estos sentires, muchas veces a partir de una mirada interna que proporciona el autoconocimiento de cada uno de sus autores.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2021",
+        "imprint": "Crea",
+        "subject": "Multidisciplinar",
+        "identifier": "urn:ISBN:978-958-5595-64-4",
+        "numberOfPages": 82,
+        "illustrator": [
+          "Mónica Loaiza - Paola Sierra"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Crujidos%20Antologia2020-Crea%20WEB%2004-01-22.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Crujidos%20Antologia2020-Crea%20WEB%20Portada.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:34:39Z",
+        "title": "Artífices N° 1 - Formulación de proyectos artísticos y culturales con enfoque comunitario",
+        "description": "Esta cartilla plantea una ruta metodológica para la ideación, formulación, implementación y sistematización de proyectos artísticos con enfoque comunitario, como parte fundamental en un proceso efectivo de gestión cultural.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2021",
+        "imprint": "Arte y Memoria sin Fronteras",
+        "subject": "Multidisciplinar",
+        "numberOfPages": 120,
+        "illustrator": [
+          "Julián García Castro - La Jaula Publicaciones"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/CFGA_03-06-21.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/portada_media.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:14Z",
+        "title": "Relatoría I Foro Respira el Arte",
+        "description": "La relatoría del I Foro Respira el Arte es un documento con las  notas y memorias del invitado Jorge Melguizo, consultor y conferencista internacional en cultura ciudadana, gestión pública, cultura, fortalecimiento de organizaciones de la sociedad civil, convivencia y seguridad, con proyectos en 135 ciudades de 18 países.",
+        "author": "Jorge Melguizo",
+        "publisher": "Idartes",
+        "published": "2020",
+        "imprint": "Respira el Arte",
+        "subject": "Multidisciplinar",
+        "numberOfPages": 14,
+        "illustrator": [
+          "Sergio Garzón Corzo"
+        ],
+        "belongsTo": {
+          "collection": "Relatorías – Foro Respira el Arte"
+        },
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Relatoria%20Foro%20I%20DPPS.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Relatoria%20Foro%20I%20DPPS_page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:17Z",
+        "title": "Mediación-Colaboración-Formación. III Seminario Internacional Cultura y Arte para la Transformación Social",
+        "description": "En estas páginas pueden encontrar posturas provocadoras que nos invitan a romper paradigmas, revisar las relaciones de mediación y política, descolocar la figura del maestro, devolver el valor al aprendizaje desde la experiencia, transitar hacia lo desconocido, entender la mediación como agencia y el papel del arte en la construcción de conocimiento.",
+        "author": "Línea Arte y Memoria sin Fronteras",
+        "publisher": "Idartes",
+        "published": "2020",
+        "imprint": "Arte y Memoria sin Fronteras",
+        "subject": "Multidisciplinar",
+        "identifier": "urn:ISSN:2590-633X",
+        "numberOfPages": 172,
+        "illustrator": [
+          "David Reyes"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Memoria%20III%20Seminario%20Internacional%20Cultura_final%20web.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Memoria%20III%20Seminario%20Internacional%20Cultura_portada%20%281%29.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:23Z",
+        "title": "Bogotá cuenta las artes - 2019 Volumen VI",
+        "description": "Con el objeto de estimular la formación de periodistas culturales y la circulación de productos en periodismo cultural enfocados en las artes, el Instituto Distrital de las Artes -Idartes genera con este premio un espacio para la producción de conocimiento crítico y de divulgación de las artes. ",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2020",
+        "imprint": "Dirección",
+        "subject": "Multidisciplinar",
+        "identifier": "urn:ISSN:2346-0881",
+        "numberOfPages": 80,
+        "illustrator": [
+          "Mónica Loaiza"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Bogota%20Cuentas%20las%20Artes%202019%20MLR-10-09-20.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Portada%20Bogota%20Cuentas%20las%20Artes%202019%20MLR-10-09-20.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:33Z",
+        "title": "PH3. Emprendedores con el arte",
+        "description": "PH3 es un estudio de diseño gráfico que trabaja en proyectos innovadores de creación y producción de piezas de marca. Además, realiza trabajos editoriales y de identidad visual, como la creación de libros, revistas y demás obras destinadas a fortalecer marcas a través del diseño. Esta microempresa se distingue en el mercado por la calidad de su trabajo, además de la cercanía con la que trata a sus clientes. Su forma de trabajar le ha permitido crecer y contar con una gran clientela.",
+        "author": "Fama Consultores",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Sostenibilidad del Ecosistema Artístico",
+        "subject": "Multidisciplinar",
+        "numberOfPages": 10,
+        "illustrator": [
+          "Mónica Loaiza",
+          "Jimena Loaiza"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/EmprendimientoIndustriasCulturales_PH3_Armado1_Marzo20.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/portadaemprendimientoindustriasculturales_ph3_armado1_marzo20.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:33Z",
+        "title": "Madlove. Emprendedores con el arte",
+        "description": "MadLove es una empresa de producción colombiana, especializada en servicios para producciones internacionales, que desarrolla contenido multiplataforma en formatos como cortos de video y materiales interactivos hechos a la medida; además produce entretenimiento original para audiencias teatrales con el objetivo de atraer público mediante la interacción y las nuevas experiencias en los ámbitos nacional e internacional.",
+        "author": "Fama Consultores",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Sostenibilidad del Ecosistema Artístico",
+        "subject": "Multidisciplinar",
+        "numberOfPages": 10,
+        "illustrator": [
+          "Mónica Loaiza",
+          "Jimena Loaiza"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/EmprendimientoIndustriasCulturales_MadLove_Armado1_Marzo20.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/portadaemprendimientoindustriasculturales_madlove_armado1_marzo20.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:33Z",
+        "title": "Hermanos Brothers. Emprendedores con el arte",
+        "description": "Lucas Sánchez y Felipe Jiménez son dos amigos músicos que se conocieron en 2014 cuando cursaban sus estudios de posgrado en Inglaterra. Ambos compartían la idea de potenciar las transformaciones sociales a partir de la música y de otras artes que mueven fibras e inspiran cambios de comportamiento. Con esta idea, empezaron a explorar e investigar para dar forma a lo que poco a poco se convertiría en Hermanos Brothers.",
+        "author": "Fama Consultores",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Sostenibilidad del Ecosistema Artístico",
+        "subject": "Multidisciplinar",
+        "numberOfPages": 8,
+        "illustrator": [
+          "Mónica Loaiza",
+          "Jimena Loaiza"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/EmprendimientoIndustriasCulturales_HermanosBrothers_Armado1_Marzo20_0.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/f8e1e1a7-1bdd-46a0-859b-dc4b6b95b033_0.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:33Z",
+        "title": "Espacio Odeón. Emprendedores con el arte",
+        "description": "La Fundación Espacio Odeón tiene como finalidad promover la creación artística contemporánea en la ciudad partiendo de la experimentación, la interdisciplinariedad y la investigación. Está ubicada en el centro histórico de Bogotá en un edificio patrimonio arquitectónico donde se desarrollan proyectos multidisciplinarios de pequeña, mediana y gran escala, que permiten la reflexión y el diálogo entre los artistas y el público en torno a los temas de actualidad y las prácticas artísticas. La idea fue de Tatiana Raís, quien, en 2011, quiso reformar el antiguo edificio para que las personas pudieran ver obras sobre diversos temas y generar, a partir de esto, un espacio de reflexión, discusión y concientización que le aportara a Bogotá y a Colombia.",
+        "author": "Fama Consultores",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Sostenibilidad del Ecosistema Artístico",
+        "subject": "Multidisciplinar",
+        "numberOfPages": 10,
+        "illustrator": [
+          "Mónica Loaiza",
+          "Jimena Loaiza"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/EmprendimientoIndustriasCulturales_EspacioOdeon_Armado1_Marzo20.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/portadaemprendimientoindustriasculturales_espacioodeon_armado1_marzo20.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:33Z",
+        "title": "Un Cuarto Tech. Emprendedores con el arte",
+        "description": "Un Cuarto Tech nace de una idea que tiene Ana María Muñoz durante sus estudios de maestría en Marketing Digital de traer la experiencia de los makerspaces de San Francisco (EE. UU.) a Colombia. Al conocer este tipo de espacios, Ana María Muñoz empezó a interesarsen la tecnología y su enseñanza. Así que abrió espacios colaborativos donde gracias a la interacción con determinados juguetes los niños pudieran aprender de tecnología. En 2015, Un Cuarto Tech se estableció en Bogotá, gracias a una inyección de capital propio, con el propósito de ofrecer espacios para promover la innovación y consolidarse como un centro de operaciones de conocimiento que facilitara la creación de nuevas producciones.",
+        "author": "Fama Consultores",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Sostenibilidad del Ecosistema Artístico",
+        "subject": "Multidisciplinar",
+        "numberOfPages": 10,
+        "illustrator": [
+          "Mónica Loaiza",
+          "Jimena Loaiza"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/EmprendimientoIndustriasCulturales_CuartoTech_Armado1_Marzo20.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/portadaemprendimientoindustriasculturales_cuartotech_armado1_marzo20.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:34Z",
+        "title": "A Seis Manos. Emprendedores",
+        "description": "A Seis Manos es un restaurante creado en 2008 por tres amigos, dos franceses y un colombiano, Christopher Vandekerckhove, que le pone el alma al arte. Constituye un espacio único dedicado a los artistas del centro de Bogotá y también a todo aquel que quiera disfrutar de la gran variedad de obras y presentaciones que lleva a la mesa de sus vistantes. A Seis Manos nació con el deseo de ofrecer un lugar abierto a los diferentes artistas que quisieran presentar allí sus obras.",
+        "author": "Fama Consultores",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Sostenibilidad del Ecosistema Artístico",
+        "subject": "Multidisciplinar",
+        "numberOfPages": 10,
+        "illustrator": [
+          "Mónica Loaiza",
+          "Jimena Loaiza"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/EmprendimientoIndustriasCulturales_ASeisManos_Armado1_Marzo20.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/portadaemprendimientoindustriasculturales_aseismanos_armado1_marzo20.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:34Z",
+        "title": "Casa E. Emprendedores con el arte",
+        "description": "Casa E nació el 16 de agosto de 2008, producto del sueño de Alejandra Borrero y Katherin Nyfeler, con el fin de brindar a directores y actores jóvenes un lugar en el que pudieran crear, trabajar libremente y presentar sus obras. Así surgió la premisa de la casa: “mantener la originalidad y no imitar a nadie”, que la ha llevado al lugar de reconocimiento que hoy ocupa con una variedad enorme de obras que van desde la comedia hasta el drama pasando por géneros como el cabaret. Además, muchas de las obras son interactivas y le permiten al público tener una conexión más genuina con los actores.",
+        "author": "Fama Consultores",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Sostenibilidad del Ecosistema Artístico",
+        "subject": "Multidisciplinar",
+        "numberOfPages": 8,
+        "illustrator": [
+          "Mónica Loaiza",
+          "Jimena Loaiza"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/EmprendimientoIndustriasCulturales_CasaE_Junio11.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/portadaemprendimientoindustriasculturales_casae_junio11.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:34Z",
+        "title": "Bogotá cuenta las artes - 2018 Volumen V",
+        "description": "Con el objeto de estimular la formación de periodistas culturales y la circulación de productos en periodismo cultural enfocados en las artes, el Instituto Distrital de las Artes-Idartes y el Centro de Estudios de Periodismo-Ceper de la Facultad de Artes y Humanidades de la Universidad de los Andes generan con este premio un espacio para la producción de conocimiento crítico y de divulgación de las artes.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Dirección",
+        "subject": "Multidisciplinar",
+        "identifier": "urn:ISBN:978-958-5487-49-9",
+        "numberOfPages": 80,
+        "illustrator": [
+          "Mónica Loaiza"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/16%20Bogota%20Cuentas%20las%20Artes%202018%20Vol%20V_Sub%20de%20las%20Artes%20DIGITAL.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-13%20a%20la%28s%29%2022.04.03.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:35Z",
+        "title": "Trayecto 2: narrativas pedagógicas y artísticas",
+        "description": "Esta versión de la propuesta pedagógica del Programa Crea pone en evidencia la pertinencia de llevar el arte a diferentes escenarios de desarrollo humano: el escolar, el comunitario, el de los aficionados y el de las personas vulneradas, y da cuenta del alcance del arte al generar las condiciones para propiciar un impacto formativo específico en cada tipo de contexto. Con ello se describen las múltiples potencias del arte como herramienta canalizadora de conocimiento, amplificadora de la expresión del alma, estimuladora del pensamiento divergente y de la creatividad, y mediadora del encuentro consigo mismo y con los otros.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Crea",
+        "subject": "Multidisciplinar",
+        "identifier": "urn:ISBN:978-958-5487-65-9",
+        "numberOfPages": 136,
+        "illustrator": [
+          "Jimena Loaiza"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/web-trayecto2.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-08%20a%20la%28s%29%2016.43.42.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:36Z",
+        "title": "La piedra que rompió la ventana: perspectivas sobre formación artística",
+        "description": "Esta publicación recoge, a manera de ensayos, las búsquedas, intenciones y subjetividades que suponen el abordaje de un proceso de formación artística con una población diversa y en territorios que, en su gran mayoría, se caracterizan por la desigualdad y las difíciles condiciones de vida. Estos textos evidencian las búsquedas pedagógicas de los diferentes equipos y cómo se construyen los acercamientos conceptuales desde la palabra, la imagen, el movimiento, la relación entre arte y ciencia, lo audiovisual, el gesto, el sonido. Cómo el cuerpo es también territorio y cómo, desde el juego, es posible potenciar, no solo la relación entre los participantes, sino entre ellos mismos y su capacidad creativa. Se plantean aquí los retos y desafíos constantes del proceso, al tiempo que se reafirman las condiciones afianzadas en los niños, niñas, jóvenes y demás participantes. Los resultados son contundentes y los escenarios de la ciudad han sido testigos de los frutos de esta transformación.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Crea",
+        "subject": "Multidisciplinar",
+        "identifier": "urn:ISBN:978-958-5595-15-6",
+        "numberOfPages": 208,
+        "illustrator": [
+          "Jimena Loaiza"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/TripaLaPiedra-web.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-11%20a%20la%28s%29%2019.58.17.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:37Z",
+        "title": "Cartilla  4- Portafolio para artistas, elementos audiovisuales",
+        "description": "Capítulo # 7",
+        "published": "2019",
+        "imprint": "Sostenibilidad del Ecosistema Artístico",
+        "subject": "Multidisciplinar",
+        "numberOfPages": 5,
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/CAP4.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-01%20a%20la%28s%29%2019.11.59.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:37Z",
+        "title": "Cartilla  7- Portafolio para artistas, Comunicando el portafolio artístico. Las redes sociales",
+        "description": "Capítulo # 7",
+        "published": "2019",
+        "imprint": "Sostenibilidad del Ecosistema Artístico",
+        "subject": "Multidisciplinar",
+        "numberOfPages": 7,
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/CAP7.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-01%20a%20la%28s%29%2019.11.59.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:37Z",
+        "title": "Cartilla 3 - Portafolio para artistas, Particularidades y tips para crear un portafolio artístico",
+        "description": "Capítulo # 3",
+        "published": "2019",
+        "imprint": "Sostenibilidad del Ecosistema Artístico",
+        "subject": "Multidisciplinar",
+        "numberOfPages": 5,
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/CAP3.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-01%20a%20la%28s%29%2019.11.59.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:37Z",
+        "title": "Cartilla 2 - Portafolio para artistas, 5 elementos imprescindibles.",
+        "description": "Capítulo # 2",
+        "published": "2019",
+        "imprint": "Sostenibilidad del Ecosistema Artístico",
+        "subject": "Multidisciplinar",
+        "numberOfPages": 6,
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/CAP2.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-01%20a%20la%28s%29%2019.11.59.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:37Z",
+        "title": "Cartilla 1 - Portafolio para artistas ¿Qué es un portafolio?",
+        "description": "Capítulo # 1 ",
+        "published": "2019",
+        "imprint": "Sostenibilidad del Ecosistema Artístico",
+        "subject": "Multidisciplinar",
+        "numberOfPages": 6,
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/CAP1%20%281%29.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-01%20a%20la%28s%29%2019.11.59.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:39Z",
+        "title": "Bogotá 480 años: Arte, Cultura y Territorio. II Seminario Internacional Cultura y Arte para la Transformación Social",
+        "description": "El II Seminario Internacional Cultura y Arte para la Transformación Social, “Bogotá 480 años: Arte, Cultura y Territorio”, respondió a un interés de la Alcaldía Mayor de Bogotá, a través del Instituto Distrital de las Artes-Idartes, de trascender las acciones institucionales y tender puentes que nos permitieran conocer otras visiones, reflexiones y apuestas ciudadanas, en las cuales el arte es un camino no sólo posible sino necesario que involucra múltiples propósitos. Un seminario como excusa perfecta para reunirnos alrededor de la palabra, la ancestralidad, la experiencia formadora, el ritmo de las raíces, la diversidad latinoamericana, las vivencias particulares y las trasformaciones colectivas. Un seminario para encontrarnos, como esa acción que va más allá de lo físico, para construir un diálogo colectivo, asumir una reflexión profunda, dejarnos permear por otras experiencias, provocar los sentidos y abrir la mirada.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2019",
+        "imprint": "Arte y Memoria sin Fronteras",
+        "subject": "Multidisciplinar",
+        "identifier": "urn:ISBN:978-958-5487-15-4",
+        "numberOfPages": 120,
+        "illustrator": [
+          "David Reyes"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/7_pi%20Memorias-Arte-cultura.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-17%20a%20la%28s%29%2000.00.41.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:42Z",
+        "title": "Bogotá cuenta las artes - 2017 Volumen  IV",
+        "description": "Esta publicación honra uno de los compromisos adquiridos por el Instituto Distrital de las Artes-Idartes con los ganadores de la Beca de Periodismo y Crítica para las Artes en su versión 2017, que hizo parte del Portafolio Distrital de Estímulos de la entidad de la vigencia anterior y del proyecto de inversión 1000 “Fomento a las prácticas artísticas en todas sus dimensiones” que se realizó en conjunto con el Centro de Estudios en Periodismo-Ceper de la Universidad de los Andes y tuvo como objetivo cualificar la escritura sobre las prácticas artísticas para que la información que circule sobre ellas en los medios de comunicación incida en la comprensión de las reflexiones que proponen sobre el campo social.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2018",
+        "imprint": "Dirección",
+        "subject": "Multidisciplinar",
+        "identifier": "urn:ISBN:978-958-5487-01-7",
+        "numberOfPages": 72,
+        "illustrator": [
+          "070 Brand Studio",
+          "Mónica Loaiza"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/15%20Bogota%E2%95%A0%C3%BC%20Cuenta%20las%20Artes2017_Sub%20de%20las%20Artes%20DIGITAL.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-13%20a%20la%28s%29%2022.05.08.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:43Z",
+        "title": "Cartilla Iniciativas Locales: Sueños y Relatos para la Transformación Social - Localidad de Bosa",
+        "description": "Licencia abierta descarga y circulación.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2018",
+        "imprint": "Arte y Memoria sin Fronteras",
+        "subject": "Multidisciplinar",
+        "identifier": "urn:ISBN:978-958-8997-44-5",
+        "numberOfPages": 104,
+        "illustrator": [
+          "Paleta Digital - Manuela Calle"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/cartilla_bosa.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-02%20a%20la%28s%29%2013.34.36.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:43Z",
+        "title": "Cartilla Iniciativas Locales: Sueños y Relatos para la Transformación Social - Localidad de los Mártires",
+        "description": "Licencia abierta descarga y circulación.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2018",
+        "imprint": "Arte y Memoria sin Fronteras",
+        "subject": "Multidisciplinar",
+        "identifier": "urn:ISBN:978-958-8997-48-3",
+        "numberOfPages": 104,
+        "illustrator": [
+          "Paleta Digital - Manuela Calle"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/cartilla_losmartires.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-02%20a%20la%28s%29%2013.29.16.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:43Z",
+        "title": "Cartilla Iniciativas Locales: Sueños y Relatos para la Transformación Social - Localidad de Ciudad Bolívar",
+        "description": "Licencia abierta descarga y circulación.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2018",
+        "imprint": "Arte y Memoria sin Fronteras",
+        "subject": "Multidisciplinar",
+        "identifier": "urn:ISBN:978-958-8997-42-1",
+        "numberOfPages": 100,
+        "illustrator": [
+          "Paleta Digital - Manuela Calle"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/cartilla_ciudadbolivar.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-02%20a%20la%28s%29%2013.25.42.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:44Z",
+        "title": "Cartilla Iniciativas Locales: Sueños y Relatos para la Transformación Social - Localidad de Suba",
+        "description": "Licencia abierta descarga y circulación.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2018",
+        "imprint": "Arte y Memoria sin Fronteras",
+        "subject": "Multidisciplinar",
+        "identifier": "urn:ISBN:978-958-8997-50-6",
+        "numberOfPages": 96,
+        "illustrator": [
+          "Paleta Digital - Manuela Calle"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Cartilla_suba.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-02%20a%20la%28s%29%2013.23.09.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:44Z",
+        "title": "Cartilla Iniciativas Locales: Sueños y Relatos para la Transformación Social - Localidad de Kennedy",
+        "description": "Licencia abierta descarga y circulación.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2018",
+        "imprint": "Arte y Memoria sin Fronteras",
+        "subject": "Multidisciplinar",
+        "identifier": "urn:ISBN:978-958-8997-46-9",
+        "numberOfPages": 96,
+        "illustrator": [
+          "Paleta Digital - Manuela Calle"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Cartilla_Kennedy.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-02%20a%20la%28s%29%2013.19.16.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:50Z",
+        "title": "Memorias Seminario Internacional Cultura y Arte para la Transformación Social 2017",
+        "description": "Licencia abierta  descarga y circulación.",
+        "author": "Varios Autores",
+        "publisher": "Idartes - Fundación Arteria",
+        "published": "2017",
+        "imprint": "Arte y Memoria sin Fronteras",
+        "subject": "Multidisciplinar",
+        "identifier": "urn:ISSN:2590-633X",
+        "numberOfPages": 111,
+        "illustrator": [
+          "Camila Bernal, María Lessmes, Raúl Díaz"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Memorias_Seminario_internacional1_2018.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/culturarte-min.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:35:51Z",
+        "title": "Lineamientos Arte para la Transformación Social",
+        "description": "Licencia abierta  descarga y circulación.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "published": "2017",
+        "imprint": "Arte y Memoria sin Fronteras",
+        "subject": "Multidisciplinar",
+        "identifier": "urn:ISBN:978-958-8997-46-9",
+        "numberOfPages": 19,
+        "illustrator": [
+          "Camila Bernal, María Lessmes, Raúl Díaz"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/lineamientos_sobre_arte_para_la_transformacion_socia_digital_2018.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-02%20a%20la%28s%29%2016.00.43.png",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:36:13Z",
+        "title": "Recetario para sanar la vulneración de los derechos culturales",
+        "description": "El Recetario para sanar la vulneración de los derechos culturales es un producto construido junto a las mujeres de la huerta comunitaria La Siempre Viva de la localidad Antonio Nariño, en el marco de una de las estrategias del componente de Gestión territorial y comunitaria del Programa Culturas en Común. Este recetario es un compilado de sensibilidades, experiencias y enseñanzas de las mujeres de esta colectividad, y busca promover el ejercicio y la garantía de los derechos culturales a partir de una analogía con el cuidado mediante el uso de las plantas medicinales.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "imprint": "Culturas en Común",
+        "subject": "Multidisciplinar",
+        "identifier": "urn:ISBN:978-628-7531-75-8",
+        "numberOfPages": 40,
+        "illustrator": [
+          "Mónica Loaiza Reina"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/Recetario%20Culturas%20en%20Comun.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Recetario%20Culturas%20en%20Comun%20VERSIO%CC%81N%20WEB%2009-05-23%20%281%29_compressed_page-0001.jpg",
+          "type": "image/jpeg"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "@type": "http://schema.org/Book",
+        "modified": "2026-01-02T20:36:14Z",
+        "title": "14 modelos para desarmar",
+        "description": "Los encargados de la formación artística del Programa Crea conforman un equipo profesional que articula de manera innovadora el arte, la pedagogía y la sociedad. En esta publicación los artistas formadores de las distintas áreas artísticas materializan conceptos, teorías y orientaciones pedagógico-artísticas en acciones creativas con los participantes de los talleres y los escenarios desarrollados en el marco del Programa Crea. Así, a través de sus propuestas y metodologías hacen visible la estructura pedagógica y artística del Idartes como un modelo interdisciplinar, flexible e innovador.",
+        "author": "Varios Autores",
+        "publisher": "Idartes",
+        "imprint": "Crea",
+        "subject": "Multidisciplinar",
+        "numberOfPages": 160,
+        "illustrator": [
+          "Jimena Loaiza"
+        ],
+        "language": "es"
+      },
+      "links": [
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/14%20modelos%20lado%20a.pdf",
+          "type": "application/pdf"
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition/open-access",
+          "href": "https://idartesencasa.gov.co/sites/default/files/libros_pdf/14%20modelos%20lado%20b.pdf",
+          "type": "application/pdf"
+        }
+      ],
+      "images": [
+        {
+          "href": "https://idartesencasa.gov.co/sites/default/files/portadas_libros/Captura%20de%20Pantalla%202020-04-08%20a%20la%28s%29%2016.46.29.png",
+          "type": "image/jpeg"
+        }
+      ]
+    }
+  ]
+}
